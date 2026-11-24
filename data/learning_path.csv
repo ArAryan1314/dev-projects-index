@@ -1,0 +1,122 @@
+id,track,repo,level,stack,build,skills,references
+1,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",html-css-landing,beginner,"HTML, CSS",Responsive product landing page,"Flexbox, grid, media queries",https://github.com/EFEELE/NeonMint https://github.com/ixartz/SaaS-Boilerplate
+2,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",js-dom-games,beginner,JavaScript,"Tic-tac-toe, memory game and 2048 in vanilla JS","DOM events, state, localStorage",https://github.com/mateuszsokola/2048-in-react https://github.com/dotnize/chessu
+3,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",weather-widget,beginner,"JavaScript, fetch",Weather card using a free weather API,"fetch, async/await, error states",
+4,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",todo-vanilla,beginner,JavaScript,Todo app with filters and persistence,"CRUD in the browser, localStorage",
+5,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",ts-fundamentals-lab,beginner,"TypeScript, Vitest",Typed exercises with unit tests,"Types, generics, narrowing, testing",https://github.com/Xtremilicious/projectlearn-project-based-learning https://github.com/Open-Curiosity/gini-agent
+6,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",css-animation-gallery,beginner,CSS,Gallery of pure-CSS animations and transitions,"Keyframes, transforms, accessibility",https://github.com/sanidhyy/space-portfolio https://github.com/kaizen12219/50-html-css-javascript-projects
+7,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",form-validator,beginner,"HTML, TypeScript",Sign-up form with live validation,"Constraint API, regex, UX",
+8,"1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",markdown-previewer,beginner,TypeScript,Live Markdown editor and preview,"Parsing, sanitizing HTML",
+9,2. Frontend with React and Next.js,react-starter-kit,beginner,"React, Vite, TypeScript",Your own reusable React starter,"Components, props, hooks, linting",https://github.com/kriasoft/react-starter-kit https://github.com/t3-oss/create-t3-turbo
+10,2. Frontend with React and Next.js,movie-explorer,beginner,"React, TMDB API",Search and browse movies with details pages,"Routing, data fetching, pagination",https://github.com/orifmilod/iCinema https://github.com/catherineisonline/movies-time
+11,2. Frontend with React and Next.js,crypto-screener,intermediate,"React, Tailwind",Live crypto price table with charts,"Polling, charts, context",
+12,2. Frontend with React and Next.js,next-blog-mdx,intermediate,"Next.js, MDX",Personal blog with tags and RSS,"SSG, MDX, SEO metadata",https://github.com/nelsonlaidev/nelsonlai.dev https://github.com/jahirfiquitiva/jahir.dev
+13,2. Frontend with React and Next.js,admin-dashboard-ui,intermediate,"Next.js, shadcn/ui","Admin dashboard with tables, charts, dark mode","Layouts, data tables, theming",https://github.com/GreatStackDev/gocart https://github.com/nellavio/nellavio
+14,2. Frontend with React and Next.js,ecommerce-storefront,intermediate,"Next.js, Zustand",Storefront with cart and checkout UI,"Global state, server components",https://github.com/ntrix/amazin https://github.com/reliverse/relivator
+15,2. Frontend with React and Next.js,kanban-board,intermediate,"React, dnd-kit",Drag-and-drop task board,"Drag and drop, optimistic UI",https://github.com/drenlia-inc/agila
+16,2. Frontend with React and Next.js,component-library,advanced,"React, Storybook, tsup",Publishable UI component library,"Storybook, a11y, npm publishing",https://github.com/TailAdmin/vue-tailwind-admin-dashboard https://github.com/gonzalochale/chonza
+17,2. Frontend with React and Next.js,i18n-portfolio,intermediate,"Next.js, next-intl",Multilingual portfolio site,"i18n, routing, deployment",https://github.com/transitive-bullshit/nextjs-notion-starter-kit https://github.com/Evavic44/portfolio-ideas
+18,2. Frontend with React and Next.js,pwa-notes,intermediate,"React, Workbox",Offline-first notes PWA,"Service workers, IndexedDB",
+19,2. Frontend with React and Next.js,3d-product-viewer,advanced,React Three Fiber,Interactive 3D product page,"Three.js, GSAP, performance",https://github.com/ITomPoland/portfolio-itom https://github.com/Naresh-Khatri/3d-portfolio
+20,2. Frontend with React and Next.js,vue-or-svelte-port,intermediate,Vue or SvelteKit,Rebuild movie-explorer in a second framework,Compare frameworks,https://github.com/capricorn86/happy-dom https://github.com/farming-labs/farm.js
+21,3. Python,py-automation-kit,beginner,Python,"CLI scripts: file renamer, CSV cleaner, backups","argparse, pathlib, csv",https://github.com/Panniantong/Agent-Reach https://github.com/coleam00/Archon
+22,3. Python,web-scraper-jobs,beginner,"Python, httpx, BeautifulSoup",Job listing scraper to CSV,"HTTP, HTML parsing, rate limits",https://github.com/D4Vinci/Scrapling https://github.com/Evil0ctal/Douyin_TikTok_Download_API
+23,3. Python,expense-cli,beginner,"Python, SQLite, Typer",Personal expense tracker in the terminal,"SQLite, CLI UX, tests",https://github.com/ythx-101/x-tweet-fetcher https://github.com/prime-radiant-inc/engineering-notebook
+24,3. Python,python-oop-bank,beginner,"Python, pytest",Bank account simulator with tests,"OOP, exceptions, pytest",https://github.com/fastapi/full-stack-fastapi-template https://github.com/cle-b/httpdbg
+25,3. Python,telegram-bot,intermediate,"Python, python-telegram-bot",Reminder bot for Telegram,"Bot APIs, scheduling",https://github.com/nonebot/nonebot2 https://github.com/paulpierre/RasaGPT
+26,3. Python,pdf-report-generator,intermediate,"Python, ReportLab",Turn CSV data into PDF reports,"Templating, file generation",
+27,3. Python,data-analysis-notebooks,intermediate,"Pandas, Jupyter",Exploratory analysis of an open dataset,"Pandas, plotting",
+28,3. Python,django-blog,intermediate,Django,"Blog with admin, comments and auth","Django ORM, admin, templates",
+29,3. Python,flask-url-api,beginner,Flask,Small REST API for bookmarks,"Routing, JSON, blueprints",https://github.com/slackapi/bolt-python https://github.com/ErdemOzgen/Python-developer-roadmap
+30,3. Python,async-downloader,advanced,"Python asyncio, aiohttp",Concurrent file downloader with progress,"asyncio, concurrency limits",https://github.com/coleifer/peewee https://github.com/fastapi-users/fastapi-users
+31,4. Backend with Node.js and Bun,express-rest-api,beginner,"Node, Express",Notes REST API with validation,"Routing, middleware, Zod",https://github.com/remult/remult https://github.com/Badri467/DubFlow
+32,4. Backend with Node.js and Bun,hono-bun-api,intermediate,"Bun, Hono",Fast API on Bun with OpenAPI docs,"Bun runtime, OpenAPI",https://github.com/honojs/hono https://github.com/AmanVarshney01/create-better-t-stack
+33,4. Backend with Node.js and Bun,nestjs-inventory,advanced,"NestJS, PostgreSQL",Inventory service with modules and DI,"NestJS, DI, TypeORM/Prisma",https://github.com/zhangyuang/ssr https://github.com/NiGhTTraX/ts-monorepo
+34,4. Backend with Node.js and Bun,graphql-bookstore,intermediate,Apollo Server or GraphQL Yoga,Bookstore GraphQL API,"Schemas, resolvers, DataLoader",https://github.com/graphql-hive/graphql-yoga https://github.com/raulfdm/taco-api
+35,4. Backend with Node.js and Bun,file-upload-service,intermediate,"Node, S3/R2","Upload, resize and serve images","Multipart, presigned URLs",
+36,4. Backend with Node.js and Bun,rate-limiter,intermediate,"Node, Redis",Rate-limiting middleware package,"Token bucket, Redis",https://github.com/Saif-Mohammed1/modern-shop-platform https://github.com/Soju06/codex-lb
+37,4. Backend with Node.js and Bun,email-service,intermediate,"Node, Resend/Nodemailer, React Email",Transactional email microservice,"Templates, queues",https://github.com/Anil-matcha/open-agent-email https://github.com/BearStudio/start-ui-web
+38,4. Backend with Node.js and Bun,cron-job-runner,intermediate,"Bun, node-cron",Scheduled jobs with logs and retries,"Scheduling, idempotency",https://github.com/egeominotti/bunqueue https://github.com/P4sca1/cron-schedule
+39,4. Backend with Node.js and Bun,api-gateway,advanced,"Node, Fastify","Gateway with routing, auth and caching","Proxies, caching, observability",https://github.com/IBM/mcp-context-forge
+40,4. Backend with Node.js and Bun,bun-cli-tool,beginner,"Bun, TypeScript",Developer CLI published to npm,"CLI args, packaging",https://github.com/can1357/oh-my-pi https://github.com/synthetic-sciences/openscience
+41,5. Databases and SQL,sql-practice-50,beginner,PostgreSQL,50 SQL exercises on a sample schema,"Joins, group by, window functions",https://github.com/kysely-org/kysely https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
+42,5. Databases and SQL,prisma-blog-schema,beginner,"Prisma, PostgreSQL",Relational schema with migrations and seeds,"Relations, migrations",https://github.com/zenstackhq/zenstack https://github.com/aeria-org/aeria
+43,5. Databases and SQL,drizzle-saas-db,intermediate,"Drizzle, PostgreSQL",Multi-tenant SaaS schema,"Tenancy, indexes",https://github.com/mugnavo/cove https://github.com/VityaSchel/lufin
+44,5. Databases and SQL,mongodb-reviews-api,intermediate,"MongoDB, Mongoose",Product reviews API,"Document modeling, aggregation",https://github.com/mouredev/Hello-Python https://github.com/async-labs/saas
+45,5. Databases and SQL,redis-cache-demo,intermediate,Redis,Cache layer for a slow API,"TTL, cache invalidation",https://github.com/benavlabs/FastAPI-boilerplate https://github.com/long2ice/fastapi-cache
+46,5. Databases and SQL,full-text-search,intermediate,PostgreSQL or Meilisearch,Search over articles with ranking,"Full-text search, indexes",https://github.com/supabase-community/nextjs-openai-doc-search
+47,5. Databases and SQL,db-backup-tool,intermediate,Python or Bash,Scheduled DB backups to cloud storage,"pg_dump, retention",
+48,5. Databases and SQL,supabase-realtime-app,intermediate,Supabase,"App using Supabase auth, DB and RLS",Row-level security,https://github.com/supabase/supabase-py https://github.com/supabase-community/nextjs-openai-doc-search
+49,6. API and Third-Party Integrations,stripe-payments-demo,intermediate,"Next.js, Stripe","Checkout, subscriptions and webhooks","Payments, webhook signatures",https://github.com/velobase/velobase-harness https://github.com/t3dotgg/stripe-recommendations
+50,6. API and Third-Party Integrations,razorpay-integration,intermediate,"Node, Razorpay",Indian payment gateway flow,"Orders, signature verification",
+51,6. API and Third-Party Integrations,github-webhook-bot,intermediate,"Node, Octokit",Bot that labels issues and PRs,"GitHub API, webhooks",
+52,6. API and Third-Party Integrations,slack-notifier,beginner,"Node, Slack API",Post alerts to Slack from any app,"Incoming webhooks, Block Kit",https://github.com/robusta-dev/robusta
+53,6. API and Third-Party Integrations,google-sheets-sync,intermediate,"Python, Google Sheets API",Sync a database table to Google Sheets,OAuth service accounts,https://github.com/nshiab/simple-data-analysis
+54,6. API and Third-Party Integrations,twilio-sms-otp,intermediate,"Node, Twilio",Phone OTP verification,"SMS APIs, rate limits",
+55,6. API and Third-Party Integrations,maps-store-locator,intermediate,"React, Leaflet/Mapbox",Store locator with geosearch,"Maps APIs, geocoding",
+56,6. API and Third-Party Integrations,calendar-booking,advanced,"Next.js, Google Calendar API",Appointment booking like a mini Calendly,"OAuth, timezones",
+57,6. API and Third-Party Integrations,zapier-lite,advanced,"Node, BullMQ",Trigger-action automation engine,"Queues, connectors, retries",https://github.com/apache/airflow https://github.com/PrefectHQ/prefect
+58,6. API and Third-Party Integrations,openapi-client-gen,intermediate,"TypeScript, openapi-typescript",Typed SDK generated from an OpenAPI spec,"OpenAPI, codegen",
+59,6. API and Third-Party Integrations,cms-headless-site,intermediate,"Next.js, Strapi/Sanity/Payload",Marketing site driven by a headless CMS,"CMS integration, ISR",https://github.com/9d8dev/next-wp https://github.com/alineacms/alinea
+60,6. API and Third-Party Integrations,whatsapp-cloud-bot,advanced,"Node, WhatsApp Cloud API",Order-status bot over WhatsApp,"Meta APIs, webhooks",https://github.com/krypton-byte/neonize
+61,7. Authentication and Security,jwt-auth-api,beginner,Node or FastAPI,"Sign-up, login and refresh tokens","Hashing, JWT, refresh rotation",https://github.com/yezz123/authx https://github.com/tweneboah/Full-Stack-Web-Development-Bootcamp-Course
+62,7. Authentication and Security,oauth-social-login,intermediate,"Next.js, Auth.js/Better Auth",Google and GitHub login,"OAuth 2.0, sessions",https://github.com/rest-sh/restish https://github.com/opencoredev/social-sdk
+63,7. Authentication and Security,rbac-admin,intermediate,"Next.js, Prisma",Role-based access control panel,"Permissions, middleware",https://github.com/zenstackhq/zenstack
+64,7. Authentication and Security,2fa-totp,intermediate,"Node, otplib",Two-factor auth with authenticator apps,"TOTP, QR codes, backup codes",https://github.com/Saif-Mohammed1/modern-shop-platform
+65,7. Authentication and Security,passkeys-demo,advanced,SimpleWebAuthn,Passwordless login with passkeys,WebAuthn,
+66,7. Authentication and Security,api-key-manager,intermediate,"Hono, PostgreSQL","Issue, hash and revoke API keys","Key hashing, scopes",
+67,7. Authentication and Security,owasp-top10-lab,advanced,Any,Deliberately vulnerable app plus the fixes,"OWASP Top 10, secure coding",https://github.com/OWASP/Nettacker https://github.com/DefectDojo/django-DefectDojo
+68,8. Full-Stack Applications,taskflow-api,intermediate,"FastAPI, PostgreSQL, Docker",Task manager backend,"REST, auth, Docker",https://github.com/hatchet-dev/hatchet
+69,8. Full-Stack Applications,taskflow-web,intermediate,"Next.js, TanStack Query",Frontend for taskflow-api,"API client, caching, forms",https://github.com/Razikus/supabase-nextjs-template
+70,8. Full-Stack Applications,expense-split,intermediate,"Next.js, Prisma",Split expenses among friends,"Full-stack CRUD, server actions",https://github.com/spliit-app/spliit https://github.com/tuzup/SplitApp
+71,8. Full-Stack Applications,url-shortener-saas,intermediate,"Next.js, Redis",Short links with click analytics,"Redirects, analytics",
+72,8. Full-Stack Applications,job-board,intermediate,MERN,Job board with search and filters,"Search, filters, auth",https://github.com/feder-cr/Jobs_Applier_AI_Agent
+73,8. Full-Stack Applications,lms-mini,advanced,"Next.js, Stripe, Supabase",Course platform with paid enrollment,"Payments, video, access control",https://github.com/guillermoscript/lms-front
+74,8. Full-Stack Applications,social-feed,advanced,"Next.js, PostgreSQL","Posts, likes, follows and infinite scroll","Feeds, pagination",https://github.com/merikbest/twitter-spring-reactjs https://github.com/yogyy/burungbiru
+75,8. Full-Stack Applications,invoice-generator,intermediate,"Next.js, react-pdf",Create and email invoices as PDFs,"PDF generation, email",
+76,8. Full-Stack Applications,event-ticketing,advanced,"Next.js, Stripe, QR",Sell tickets with QR check-in,"Payments, QR, concurrency",https://github.com/cenksari/react-ticketing-website-template
+77,8. Full-Stack Applications,saas-starter,advanced,"Next.js, Better Auth, Stripe, Prisma",Your own SaaS boilerplate,"Auth, billing, teams",https://github.com/boxyhq/saas-starter-kit https://github.com/Blazity/next-saas-starter
+78,8. Full-Stack Applications,restaurant-ordering,intermediate,MERN,"Menu, cart and order tracking","Order states, admin panel",https://github.com/jonathanrao99/Restaurant-Template
+79,8. Full-Stack Applications,hotel-booking,advanced,"Next.js, PostgreSQL",Room search and booking with availability,"Date ranges, locking",https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System https://github.com/skmirajulislam/JourneyCusine
+80,9. Real-Time and Messaging,realtime-chat,intermediate,"Bun, WebSockets, Redis",Chat rooms with typing indicators,"WebSockets, pub/sub",https://github.com/Sharkord/sharkord https://github.com/Timonwa/react-chat
+81,9. Real-Time and Messaging,socketio-whiteboard,intermediate,"Socket.IO, Canvas",Shared drawing board,"Broadcasting, canvas",
+82,9. Real-Time and Messaging,live-polls,beginner,"Next.js, SSE",Live voting with server-sent events,"SSE, live updates",
+83,9. Real-Time and Messaging,notification-center,intermediate,"Node, Redis Streams",In-app and push notifications,"Fan-out, web push",https://github.com/devswha/ovis https://github.com/better-notify/better-notify
+84,9. Real-Time and Messaging,collab-editor,advanced,"Yjs, WebSockets",Google-Docs-style shared editor,"CRDTs, presence",
+85,9. Real-Time and Messaging,video-call-webrtc,advanced,WebRTC,1:1 video calling,"Signaling, STUN/TURN",https://github.com/Sharkord/sharkord
+86,9. Real-Time and Messaging,kafka-order-pipeline,advanced,Kafka or RabbitMQ,Event-driven order processing,"Event sourcing, consumers",
+87,10. AI and LLM Integration,claude-chat-ui,beginner,"Next.js, Claude API",Streaming chat interface,"Streaming, prompt design",https://github.com/Amm1rr/WebAI-to-API https://github.com/DemonDamon/AgenticX
+88,10. AI and LLM Integration,doc-qa-bot,intermediate,"Python, Claude API, pgvector",Ask questions about your PDFs (RAG),"Embeddings, retrieval",https://github.com/xberg-io/xberg https://github.com/aiptimizer/TurboOCR
+89,10. AI and LLM Integration,ai-resume-reviewer,intermediate,"Next.js, Claude API",Upload a resume and get structured feedback,"Structured output, file parsing",https://github.com/nishant-Tiwari24/cracked https://github.com/xgwangdl/AI-Interview
+90,10. AI and LLM Integration,tool-use-agent,advanced,"TypeScript, Claude API tool use",Agent that calls your own APIs,"Tool calling, agent loops",https://github.com/headroomlabs-ai/headroom https://github.com/JCodesMore/ai-website-cloner-template
+91,10. AI and LLM Integration,mcp-server-demo,advanced,"TypeScript, MCP SDK",MCP server exposing your app's data,Model Context Protocol,https://github.com/tadata-org/fastapi_mcp
+92,10. AI and LLM Integration,ai-image-captioner,intermediate,"Python, vision model",Caption and tag uploaded images,Multimodal input,https://github.com/apify/crawlee-python https://github.com/SamurAIGPT/AI-Influencer-Generator
+93,10. AI and LLM Integration,speech-to-notes,intermediate,"Python, Whisper",Transcribe meetings into summaries,"Audio, transcription",https://github.com/iskandaryv/meetingly-ai https://github.com/Badri467/DubFlow
+94,10. AI and LLM Integration,ai-code-reviewer,advanced,"GitHub Actions, Claude API",Bot that reviews pull requests,"CI integration, diffs",https://github.com/ZaxbyHub/opencode-swarm https://github.com/0xfnzero/AI-Code-Tutorials
+95,10. AI and LLM Integration,support-ticket-classifier,intermediate,"FastAPI, Claude API",Route support emails by topic and urgency,"Classification, evals",https://github.com/haoranD/Awesome-Embodied-AI https://github.com/hanhuark/machine-learning-for-engineers
+96,10. AI and LLM Integration,llm-eval-harness,advanced,Python,Test prompts against a dataset,"Evals, regression testing",https://github.com/pydantic/logfire https://github.com/ombharatiya/ai-system-design-guide
+97,"11. DevOps, Cloud and CI/CD",docker-compose-stack,beginner,Docker Compose,"App, database, cache and proxy in one file","Containers, networks, volumes",https://github.com/hunvreus/devpush https://github.com/vargasjona/fastapi-alembic-sqlmodel-async
+98,"11. DevOps, Cloud and CI/CD",github-actions-ci,beginner,GitHub Actions,"Lint, test and build on every push","CI pipelines, caching",https://github.com/oven-sh/setup-bun https://github.com/randifajar/developer-portfolio
+99,"11. DevOps, Cloud and CI/CD",nginx-reverse-proxy,intermediate,"Nginx, Let's Encrypt",HTTPS reverse proxy for several apps,"TLS, proxying",https://github.com/edo92/AWS-ECS-Pipeline
+100,"11. DevOps, Cloud and CI/CD",k8s-hello-cluster,advanced,"Kubernetes, Helm",Deploy taskflow to a local cluster,"Pods, services, Helm",https://github.com/fastapi-mvc/fastapi-mvc
+101,"11. DevOps, Cloud and CI/CD",terraform-aws-basics,advanced,"Terraform, AWS","VPC, database and container service as code","IaC, state",https://github.com/davidzajac1/zillacode
+102,"11. DevOps, Cloud and CI/CD",monitoring-stack,advanced,"Prometheus, Grafana",Metrics and dashboards for your APIs,"Observability, alerts",https://github.com/robusta-dev/robusta
+103,"11. DevOps, Cloud and CI/CD",serverless-functions,intermediate,Vercel/Cloudflare Workers,Edge functions for an API,"Serverless, edge",https://github.com/good-lly/s3mini https://github.com/violet27chen/qiyuan-blog-template
+104,"11. DevOps, Cloud and CI/CD",vps-deploy-script,intermediate,"Bash, SSH",One-command deploy to a VPS,"Shell scripting, systemd",https://github.com/aegra/aegra
+105,12. Go and a Second Backend Language,go-url-shortener,beginner,"Go, PostgreSQL",URL shortener with the standard library,"net/http, SQL",
+106,12. Go and a Second Backend Language,go-rest-api,intermediate,"Go, chi/Gin",CRUD API with middleware and tests,"Routing, testing",https://github.com/danielgtaylor/huma https://github.com/rest-sh/restish
+107,12. Go and a Second Backend Language,go-concurrency-lab,intermediate,Go,"Worker pools, channels and pipelines","Goroutines, channels",https://github.com/hatchet-dev/hatchet
+108,12. Go and a Second Backend Language,go-cli-tool,beginner,"Go, Cobra",Cross-platform CLI with releases,"CLI, GoReleaser",https://github.com/rest-sh/restish
+109,12. Go and a Second Backend Language,grpc-microservices,advanced,"Go, gRPC",Two services talking over gRPC,"Protobuf, gRPC",https://github.com/jina-ai/serve https://github.com/muratdemirci/backend-dev-roadmap
+110,12. Go and a Second Backend Language,spring-boot-api,intermediate,"Java, Spring Boot",REST API with JPA and tests,"Spring, JPA",https://github.com/xgwangdl/AI-Interview
+111,13. Testing and Code Quality,unit-testing-kata,beginner,Vitest or pytest,TDD katas with full coverage,"TDD, mocking",https://github.com/wellwelwel/poku
+112,13. Testing and Code Quality,playwright-e2e,intermediate,Playwright,End-to-end tests for taskflow-web,"E2E, CI reports",https://github.com/firsttris/vscode-jest-runner https://github.com/factory-js/factory-js
+113,13. Testing and Code Quality,api-contract-tests,intermediate,Postman/Newman or Schemathesis,Contract tests against the OpenAPI spec,API testing,https://github.com/pywinauto/pywinauto https://github.com/pikpikcu/airecon
+114,13. Testing and Code Quality,load-testing-k6,intermediate,k6,Load test your APIs and find limits,Performance testing,
+115,13. Testing and Code Quality,lint-format-setup,beginner,"ESLint, Prettier, Ruff, Husky",Shared lint and format config,"Code quality, pre-commit",https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template https://github.com/incluud/accessible-astro-starter
+116,14. Career and Interview Prep,dsa-in-typescript,beginner,TypeScript,Data structures and algorithms with tests,"DSA, complexity",https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD https://github.com/wislertt/leetcode-py
+117,14. Career and Interview Prep,leetcode-journal,beginner,Python or TypeScript,Daily problem solutions with notes,Problem solving,https://github.com/kdn251/interviews https://github.com/halfrost/LeetCode-Go
+118,14. Career and Interview Prep,system-design-notes,intermediate,"Markdown, diagrams","Design write-ups: URL shortener, chat, feed",System design,https://github.com/binhnguyennus/awesome-scalability https://github.com/armankhondker/best-system-design-resources
+119,14. Career and Interview Prep,frontend-interview-prep,intermediate,React,Machine-coding round practice apps,Frontend interviews,https://github.com/haizlin/fe-interview https://github.com/liyupi/mianshiya
+120,14. Career and Interview Prep,portfolio-site,beginner,Next.js,Portfolio linking every project above,"Personal brand, deployment",https://github.com/ncdai/chanhdai.com https://github.com/kremalicious/portfolio
+121,14. Career and Interview Prep,open-source-contribs,beginner,Git,Log of your PRs to other projects,"Git workflow, collaboration",https://github.com/ArslanYM/Free-Certifications https://github.com/first-contributions-ja/first-contributions-ja.github.io

@@ -271,6 +271,9 @@ def write_outputs(projects: list[dict]) -> None:
         "**Also see [CREATORS.md](CREATORS.md):** projects from YouTube coding creators "
         "with a live demo that was checked to be working.",
         "",
+        "**Start learning with [LEARNING_PATH.md](LEARNING_PATH.md):** 120+ build-it-yourself "
+        "projects across frontend, backend, databases, integrations, AI and DevOps.",
+        "",
         "Raw data for integrations: `data/projects.json`, `data/projects.csv`, "
         "`data/creators.json`, `data/creators.csv`.",
         "",

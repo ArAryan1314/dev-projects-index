@@ -1,0 +1,2284 @@
+[
+  {
+    "id": 1,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "html-css-landing",
+    "level": "beginner",
+    "stack": "HTML, CSS",
+    "build": "Responsive product landing page",
+    "skills": "Flexbox, grid, media queries",
+    "references": [
+      {
+        "name": "EFEELE/NeonMint",
+        "url": "https://github.com/EFEELE/NeonMint",
+        "license": "MIT",
+        "stars": 150
+      },
+      {
+        "name": "ixartz/SaaS-Boilerplate",
+        "url": "https://github.com/ixartz/SaaS-Boilerplate",
+        "license": "MIT",
+        "stars": 7493
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "js-dom-games",
+    "level": "beginner",
+    "stack": "JavaScript",
+    "build": "Tic-tac-toe, memory game and 2048 in vanilla JS",
+    "skills": "DOM events, state, localStorage",
+    "references": [
+      {
+        "name": "mateuszsokola/2048-in-react",
+        "url": "https://github.com/mateuszsokola/2048-in-react",
+        "license": "MIT",
+        "stars": 234
+      },
+      {
+        "name": "dotnize/chessu",
+        "url": "https://github.com/dotnize/chessu",
+        "license": "MIT",
+        "stars": 106
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "weather-widget",
+    "level": "beginner",
+    "stack": "JavaScript, fetch",
+    "build": "Weather card using a free weather API",
+    "skills": "fetch, async/await, error states",
+    "references": []
+  },
+  {
+    "id": 4,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "todo-vanilla",
+    "level": "beginner",
+    "stack": "JavaScript",
+    "build": "Todo app with filters and persistence",
+    "skills": "CRUD in the browser, localStorage",
+    "references": []
+  },
+  {
+    "id": 5,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "ts-fundamentals-lab",
+    "level": "beginner",
+    "stack": "TypeScript, Vitest",
+    "build": "Typed exercises with unit tests",
+    "skills": "Types, generics, narrowing, testing",
+    "references": [
+      {
+        "name": "Xtremilicious/projectlearn-project-based-learning",
+        "url": "https://github.com/Xtremilicious/projectlearn-project-based-learning",
+        "license": "MIT",
+        "stars": 6407
+      },
+      {
+        "name": "Open-Curiosity/gini-agent",
+        "url": "https://github.com/Open-Curiosity/gini-agent",
+        "license": "MIT",
+        "stars": 2419
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "css-animation-gallery",
+    "level": "beginner",
+    "stack": "CSS",
+    "build": "Gallery of pure-CSS animations and transitions",
+    "skills": "Keyframes, transforms, accessibility",
+    "references": [
+      {
+        "name": "sanidhyy/space-portfolio",
+        "url": "https://github.com/sanidhyy/space-portfolio",
+        "license": "MIT",
+        "stars": 547
+      },
+      {
+        "name": "kaizen12219/50-html-css-javascript-projects",
+        "url": "https://github.com/kaizen12219/50-html-css-javascript-projects",
+        "license": "MIT",
+        "stars": 24
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "form-validator",
+    "level": "beginner",
+    "stack": "HTML, TypeScript",
+    "build": "Sign-up form with live validation",
+    "skills": "Constraint API, regex, UX",
+    "references": []
+  },
+  {
+    "id": 8,
+    "track": "1. Web Foundations (HTML, CSS, JavaScript, TypeScript)",
+    "repo": "markdown-previewer",
+    "level": "beginner",
+    "stack": "TypeScript",
+    "build": "Live Markdown editor and preview",
+    "skills": "Parsing, sanitizing HTML",
+    "references": []
+  },
+  {
+    "id": 9,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "react-starter-kit",
+    "level": "beginner",
+    "stack": "React, Vite, TypeScript",
+    "build": "Your own reusable React starter",
+    "skills": "Components, props, hooks, linting",
+    "references": [
+      {
+        "name": "kriasoft/react-starter-kit",
+        "url": "https://github.com/kriasoft/react-starter-kit",
+        "license": "MIT",
+        "stars": 23726
+      },
+      {
+        "name": "t3-oss/create-t3-turbo",
+        "url": "https://github.com/t3-oss/create-t3-turbo",
+        "license": "MIT",
+        "stars": 6113
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "movie-explorer",
+    "level": "beginner",
+    "stack": "React, TMDB API",
+    "build": "Search and browse movies with details pages",
+    "skills": "Routing, data fetching, pagination",
+    "references": [
+      {
+        "name": "orifmilod/iCinema",
+        "url": "https://github.com/orifmilod/iCinema",
+        "license": "MIT",
+        "stars": 333
+      },
+      {
+        "name": "catherineisonline/movies-time",
+        "url": "https://github.com/catherineisonline/movies-time",
+        "license": "MIT",
+        "stars": 23
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "crypto-screener",
+    "level": "intermediate",
+    "stack": "React, Tailwind",
+    "build": "Live crypto price table with charts",
+    "skills": "Polling, charts, context",
+    "references": []
+  },
+  {
+    "id": 12,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "next-blog-mdx",
+    "level": "intermediate",
+    "stack": "Next.js, MDX",
+    "build": "Personal blog with tags and RSS",
+    "skills": "SSG, MDX, SEO metadata",
+    "references": [
+      {
+        "name": "nelsonlaidev/nelsonlai.dev",
+        "url": "https://github.com/nelsonlaidev/nelsonlai.dev",
+        "license": "MIT",
+        "stars": 845
+      },
+      {
+        "name": "jahirfiquitiva/jahir.dev",
+        "url": "https://github.com/jahirfiquitiva/jahir.dev",
+        "license": "MIT",
+        "stars": 357
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "admin-dashboard-ui",
+    "level": "intermediate",
+    "stack": "Next.js, shadcn/ui",
+    "build": "Admin dashboard with tables, charts, dark mode",
+    "skills": "Layouts, data tables, theming",
+    "references": [
+      {
+        "name": "GreatStackDev/gocart",
+        "url": "https://github.com/GreatStackDev/gocart",
+        "license": "MIT",
+        "stars": 1000
+      },
+      {
+        "name": "nellavio/nellavio",
+        "url": "https://github.com/nellavio/nellavio",
+        "license": "MIT",
+        "stars": 515
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "ecommerce-storefront",
+    "level": "intermediate",
+    "stack": "Next.js, Zustand",
+    "build": "Storefront with cart and checkout UI",
+    "skills": "Global state, server components",
+    "references": [
+      {
+        "name": "ntrix/amazin",
+        "url": "https://github.com/ntrix/amazin",
+        "license": "MIT",
+        "stars": 34
+      },
+      {
+        "name": "reliverse/relivator",
+        "url": "https://github.com/reliverse/relivator",
+        "license": "MIT",
+        "stars": 1564
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "kanban-board",
+    "level": "intermediate",
+    "stack": "React, dnd-kit",
+    "build": "Drag-and-drop task board",
+    "skills": "Drag and drop, optimistic UI",
+    "references": [
+      {
+        "name": "drenlia-inc/agila",
+        "url": "https://github.com/drenlia-inc/agila",
+        "license": "MIT",
+        "stars": 46
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "component-library",
+    "level": "advanced",
+    "stack": "React, Storybook, tsup",
+    "build": "Publishable UI component library",
+    "skills": "Storybook, a11y, npm publishing",
+    "references": [
+      {
+        "name": "TailAdmin/vue-tailwind-admin-dashboard",
+        "url": "https://github.com/TailAdmin/vue-tailwind-admin-dashboard",
+        "license": "MIT",
+        "stars": 314
+      },
+      {
+        "name": "gonzalochale/chonza",
+        "url": "https://github.com/gonzalochale/chonza",
+        "license": "MIT",
+        "stars": 31
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "i18n-portfolio",
+    "level": "intermediate",
+    "stack": "Next.js, next-intl",
+    "build": "Multilingual portfolio site",
+    "skills": "i18n, routing, deployment",
+    "references": [
+      {
+        "name": "transitive-bullshit/nextjs-notion-starter-kit",
+        "url": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit",
+        "license": "MIT",
+        "stars": 7040
+      },
+      {
+        "name": "Evavic44/portfolio-ideas",
+        "url": "https://github.com/Evavic44/portfolio-ideas",
+        "license": "MIT",
+        "stars": 6430
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "pwa-notes",
+    "level": "intermediate",
+    "stack": "React, Workbox",
+    "build": "Offline-first notes PWA",
+    "skills": "Service workers, IndexedDB",
+    "references": []
+  },
+  {
+    "id": 19,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "3d-product-viewer",
+    "level": "advanced",
+    "stack": "React Three Fiber",
+    "build": "Interactive 3D product page",
+    "skills": "Three.js, GSAP, performance",
+    "references": [
+      {
+        "name": "ITomPoland/portfolio-itom",
+        "url": "https://github.com/ITomPoland/portfolio-itom",
+        "license": "MIT",
+        "stars": 489
+      },
+      {
+        "name": "Naresh-Khatri/3d-portfolio",
+        "url": "https://github.com/Naresh-Khatri/3d-portfolio",
+        "license": "MIT",
+        "stars": 1361
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "track": "2. Frontend with React and Next.js",
+    "repo": "vue-or-svelte-port",
+    "level": "intermediate",
+    "stack": "Vue or SvelteKit",
+    "build": "Rebuild movie-explorer in a second framework",
+    "skills": "Compare frameworks",
+    "references": [
+      {
+        "name": "capricorn86/happy-dom",
+        "url": "https://github.com/capricorn86/happy-dom",
+        "license": "MIT",
+        "stars": 4757
+      },
+      {
+        "name": "farming-labs/farm.js",
+        "url": "https://github.com/farming-labs/farm.js",
+        "license": "MIT",
+        "stars": 746
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "track": "3. Python",
+    "repo": "py-automation-kit",
+    "level": "beginner",
+    "stack": "Python",
+    "build": "CLI scripts: file renamer, CSV cleaner, backups",
+    "skills": "argparse, pathlib, csv",
+    "references": [
+      {
+        "name": "Panniantong/Agent-Reach",
+        "url": "https://github.com/Panniantong/Agent-Reach",
+        "license": "MIT",
+        "stars": 114455
+      },
+      {
+        "name": "coleam00/Archon",
+        "url": "https://github.com/coleam00/Archon",
+        "license": "MIT",
+        "stars": 23988
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "track": "3. Python",
+    "repo": "web-scraper-jobs",
+    "level": "beginner",
+    "stack": "Python, httpx, BeautifulSoup",
+    "build": "Job listing scraper to CSV",
+    "skills": "HTTP, HTML parsing, rate limits",
+    "references": [
+      {
+        "name": "D4Vinci/Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "license": "BSD-3-Clause",
+        "stars": 105497
+      },
+      {
+        "name": "Evil0ctal/Douyin_TikTok_Download_API",
+        "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+        "license": "Apache-2.0",
+        "stars": 21543
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "track": "3. Python",
+    "repo": "expense-cli",
+    "level": "beginner",
+    "stack": "Python, SQLite, Typer",
+    "build": "Personal expense tracker in the terminal",
+    "skills": "SQLite, CLI UX, tests",
+    "references": [
+      {
+        "name": "ythx-101/x-tweet-fetcher",
+        "url": "https://github.com/ythx-101/x-tweet-fetcher",
+        "license": "MIT",
+        "stars": 1014
+      },
+      {
+        "name": "prime-radiant-inc/engineering-notebook",
+        "url": "https://github.com/prime-radiant-inc/engineering-notebook",
+        "license": "Apache-2.0",
+        "stars": 358
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "track": "3. Python",
+    "repo": "python-oop-bank",
+    "level": "beginner",
+    "stack": "Python, pytest",
+    "build": "Bank account simulator with tests",
+    "skills": "OOP, exceptions, pytest",
+    "references": [
+      {
+        "name": "fastapi/full-stack-fastapi-template",
+        "url": "https://github.com/fastapi/full-stack-fastapi-template",
+        "license": "MIT",
+        "stars": 46326
+      },
+      {
+        "name": "cle-b/httpdbg",
+        "url": "https://github.com/cle-b/httpdbg",
+        "license": "Apache-2.0",
+        "stars": 906
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "track": "3. Python",
+    "repo": "telegram-bot",
+    "level": "intermediate",
+    "stack": "Python, python-telegram-bot",
+    "build": "Reminder bot for Telegram",
+    "skills": "Bot APIs, scheduling",
+    "references": [
+      {
+        "name": "nonebot/nonebot2",
+        "url": "https://github.com/nonebot/nonebot2",
+        "license": "MIT",
+        "stars": 7785
+      },
+      {
+        "name": "paulpierre/RasaGPT",
+        "url": "https://github.com/paulpierre/RasaGPT",
+        "license": "MIT",
+        "stars": 2455
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "track": "3. Python",
+    "repo": "pdf-report-generator",
+    "level": "intermediate",
+    "stack": "Python, ReportLab",
+    "build": "Turn CSV data into PDF reports",
+    "skills": "Templating, file generation",
+    "references": []
+  },
+  {
+    "id": 27,
+    "track": "3. Python",
+    "repo": "data-analysis-notebooks",
+    "level": "intermediate",
+    "stack": "Pandas, Jupyter",
+    "build": "Exploratory analysis of an open dataset",
+    "skills": "Pandas, plotting",
+    "references": []
+  },
+  {
+    "id": 28,
+    "track": "3. Python",
+    "repo": "django-blog",
+    "level": "intermediate",
+    "stack": "Django",
+    "build": "Blog with admin, comments and auth",
+    "skills": "Django ORM, admin, templates",
+    "references": []
+  },
+  {
+    "id": 29,
+    "track": "3. Python",
+    "repo": "flask-url-api",
+    "level": "beginner",
+    "stack": "Flask",
+    "build": "Small REST API for bookmarks",
+    "skills": "Routing, JSON, blueprints",
+    "references": [
+      {
+        "name": "slackapi/bolt-python",
+        "url": "https://github.com/slackapi/bolt-python",
+        "license": "MIT",
+        "stars": 1335
+      },
+      {
+        "name": "ErdemOzgen/Python-developer-roadmap",
+        "url": "https://github.com/ErdemOzgen/Python-developer-roadmap",
+        "license": "MIT",
+        "stars": 414
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "track": "3. Python",
+    "repo": "async-downloader",
+    "level": "advanced",
+    "stack": "Python asyncio, aiohttp",
+    "build": "Concurrent file downloader with progress",
+    "skills": "asyncio, concurrency limits",
+    "references": [
+      {
+        "name": "coleifer/peewee",
+        "url": "https://github.com/coleifer/peewee",
+        "license": "MIT",
+        "stars": 12012
+      },
+      {
+        "name": "fastapi-users/fastapi-users",
+        "url": "https://github.com/fastapi-users/fastapi-users",
+        "license": "MIT",
+        "stars": 6264
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "express-rest-api",
+    "level": "beginner",
+    "stack": "Node, Express",
+    "build": "Notes REST API with validation",
+    "skills": "Routing, middleware, Zod",
+    "references": [
+      {
+        "name": "remult/remult",
+        "url": "https://github.com/remult/remult",
+        "license": "MIT",
+        "stars": 3219
+      },
+      {
+        "name": "Badri467/DubFlow",
+        "url": "https://github.com/Badri467/DubFlow",
+        "license": "MIT",
+        "stars": 23
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "hono-bun-api",
+    "level": "intermediate",
+    "stack": "Bun, Hono",
+    "build": "Fast API on Bun with OpenAPI docs",
+    "skills": "Bun runtime, OpenAPI",
+    "references": [
+      {
+        "name": "honojs/hono",
+        "url": "https://github.com/honojs/hono",
+        "license": "MIT",
+        "stars": 33056
+      },
+      {
+        "name": "AmanVarshney01/create-better-t-stack",
+        "url": "https://github.com/AmanVarshney01/create-better-t-stack",
+        "license": "MIT",
+        "stars": 5865
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "nestjs-inventory",
+    "level": "advanced",
+    "stack": "NestJS, PostgreSQL",
+    "build": "Inventory service with modules and DI",
+    "skills": "NestJS, DI, TypeORM/Prisma",
+    "references": [
+      {
+        "name": "zhangyuang/ssr",
+        "url": "https://github.com/zhangyuang/ssr",
+        "license": "MIT",
+        "stars": 2685
+      },
+      {
+        "name": "NiGhTTraX/ts-monorepo",
+        "url": "https://github.com/NiGhTTraX/ts-monorepo",
+        "license": "MIT",
+        "stars": 1629
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "graphql-bookstore",
+    "level": "intermediate",
+    "stack": "Apollo Server or GraphQL Yoga",
+    "build": "Bookstore GraphQL API",
+    "skills": "Schemas, resolvers, DataLoader",
+    "references": [
+      {
+        "name": "graphql-hive/graphql-yoga",
+        "url": "https://github.com/graphql-hive/graphql-yoga",
+        "license": "MIT",
+        "stars": 8538
+      },
+      {
+        "name": "raulfdm/taco-api",
+        "url": "https://github.com/raulfdm/taco-api",
+        "license": "MIT",
+        "stars": 260
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "file-upload-service",
+    "level": "intermediate",
+    "stack": "Node, S3/R2",
+    "build": "Upload, resize and serve images",
+    "skills": "Multipart, presigned URLs",
+    "references": []
+  },
+  {
+    "id": 36,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "rate-limiter",
+    "level": "intermediate",
+    "stack": "Node, Redis",
+    "build": "Rate-limiting middleware package",
+    "skills": "Token bucket, Redis",
+    "references": [
+      {
+        "name": "Saif-Mohammed1/modern-shop-platform",
+        "url": "https://github.com/Saif-Mohammed1/modern-shop-platform",
+        "license": "MIT",
+        "stars": 47
+      },
+      {
+        "name": "Soju06/codex-lb",
+        "url": "https://github.com/Soju06/codex-lb",
+        "license": "MIT",
+        "stars": 3455
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "email-service",
+    "level": "intermediate",
+    "stack": "Node, Resend/Nodemailer, React Email",
+    "build": "Transactional email microservice",
+    "skills": "Templates, queues",
+    "references": [
+      {
+        "name": "Anil-matcha/open-agent-email",
+        "url": "https://github.com/Anil-matcha/open-agent-email",
+        "license": "Apache-2.0",
+        "stars": 2139
+      },
+      {
+        "name": "BearStudio/start-ui-web",
+        "url": "https://github.com/BearStudio/start-ui-web",
+        "license": "MIT",
+        "stars": 1751
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "cron-job-runner",
+    "level": "intermediate",
+    "stack": "Bun, node-cron",
+    "build": "Scheduled jobs with logs and retries",
+    "skills": "Scheduling, idempotency",
+    "references": [
+      {
+        "name": "egeominotti/bunqueue",
+        "url": "https://github.com/egeominotti/bunqueue",
+        "license": "MIT",
+        "stars": 595
+      },
+      {
+        "name": "P4sca1/cron-schedule",
+        "url": "https://github.com/P4sca1/cron-schedule",
+        "license": "MIT",
+        "stars": 219
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "api-gateway",
+    "level": "advanced",
+    "stack": "Node, Fastify",
+    "build": "Gateway with routing, auth and caching",
+    "skills": "Proxies, caching, observability",
+    "references": [
+      {
+        "name": "IBM/mcp-context-forge",
+        "url": "https://github.com/IBM/mcp-context-forge",
+        "license": "Apache-2.0",
+        "stars": 4885
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "track": "4. Backend with Node.js and Bun",
+    "repo": "bun-cli-tool",
+    "level": "beginner",
+    "stack": "Bun, TypeScript",
+    "build": "Developer CLI published to npm",
+    "skills": "CLI args, packaging",
+    "references": [
+      {
+        "name": "can1357/oh-my-pi",
+        "url": "https://github.com/can1357/oh-my-pi",
+        "license": "MIT",
+        "stars": 39794
+      },
+      {
+        "name": "synthetic-sciences/openscience",
+        "url": "https://github.com/synthetic-sciences/openscience",
+        "license": "Apache-2.0",
+        "stars": 4428
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "track": "5. Databases and SQL",
+    "repo": "sql-practice-50",
+    "level": "beginner",
+    "stack": "PostgreSQL",
+    "build": "50 SQL exercises on a sample schema",
+    "skills": "Joins, group by, window functions",
+    "references": [
+      {
+        "name": "kysely-org/kysely",
+        "url": "https://github.com/kysely-org/kysely",
+        "license": "MIT",
+        "stars": 14383
+      },
+      {
+        "name": "AkashSingh3031/The-Complete-FAANG-Preparation",
+        "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+        "license": "MIT",
+        "stars": 12335
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "track": "5. Databases and SQL",
+    "repo": "prisma-blog-schema",
+    "level": "beginner",
+    "stack": "Prisma, PostgreSQL",
+    "build": "Relational schema with migrations and seeds",
+    "skills": "Relations, migrations",
+    "references": [
+      {
+        "name": "zenstackhq/zenstack",
+        "url": "https://github.com/zenstackhq/zenstack",
+        "license": "MIT",
+        "stars": 2965
+      },
+      {
+        "name": "aeria-org/aeria",
+        "url": "https://github.com/aeria-org/aeria",
+        "license": "MIT",
+        "stars": 472
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "track": "5. Databases and SQL",
+    "repo": "drizzle-saas-db",
+    "level": "intermediate",
+    "stack": "Drizzle, PostgreSQL",
+    "build": "Multi-tenant SaaS schema",
+    "skills": "Tenancy, indexes",
+    "references": [
+      {
+        "name": "mugnavo/cove",
+        "url": "https://github.com/mugnavo/cove",
+        "license": "Unlicense",
+        "stars": 1406
+      },
+      {
+        "name": "VityaSchel/lufin",
+        "url": "https://github.com/VityaSchel/lufin",
+        "license": "MIT",
+        "stars": 235
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "track": "5. Databases and SQL",
+    "repo": "mongodb-reviews-api",
+    "level": "intermediate",
+    "stack": "MongoDB, Mongoose",
+    "build": "Product reviews API",
+    "skills": "Document modeling, aggregation",
+    "references": [
+      {
+        "name": "mouredev/Hello-Python",
+        "url": "https://github.com/mouredev/Hello-Python",
+        "license": "Apache-2.0",
+        "stars": 38118
+      },
+      {
+        "name": "async-labs/saas",
+        "url": "https://github.com/async-labs/saas",
+        "license": "MIT",
+        "stars": 4536
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "track": "5. Databases and SQL",
+    "repo": "redis-cache-demo",
+    "level": "intermediate",
+    "stack": "Redis",
+    "build": "Cache layer for a slow API",
+    "skills": "TTL, cache invalidation",
+    "references": [
+      {
+        "name": "benavlabs/FastAPI-boilerplate",
+        "url": "https://github.com/benavlabs/FastAPI-boilerplate",
+        "license": "MIT",
+        "stars": 2116
+      },
+      {
+        "name": "long2ice/fastapi-cache",
+        "url": "https://github.com/long2ice/fastapi-cache",
+        "license": "Apache-2.0",
+        "stars": 1862
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "track": "5. Databases and SQL",
+    "repo": "full-text-search",
+    "level": "intermediate",
+    "stack": "PostgreSQL or Meilisearch",
+    "build": "Search over articles with ranking",
+    "skills": "Full-text search, indexes",
+    "references": [
+      {
+        "name": "supabase-community/nextjs-openai-doc-search",
+        "url": "https://github.com/supabase-community/nextjs-openai-doc-search",
+        "license": "Apache-2.0",
+        "stars": 1725
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "track": "5. Databases and SQL",
+    "repo": "db-backup-tool",
+    "level": "intermediate",
+    "stack": "Python or Bash",
+    "build": "Scheduled DB backups to cloud storage",
+    "skills": "pg_dump, retention",
+    "references": []
+  },
+  {
+    "id": 48,
+    "track": "5. Databases and SQL",
+    "repo": "supabase-realtime-app",
+    "level": "intermediate",
+    "stack": "Supabase",
+    "build": "App using Supabase auth, DB and RLS",
+    "skills": "Row-level security",
+    "references": [
+      {
+        "name": "supabase/supabase-py",
+        "url": "https://github.com/supabase/supabase-py",
+        "license": "MIT",
+        "stars": 2639
+      },
+      {
+        "name": "supabase-community/nextjs-openai-doc-search",
+        "url": "https://github.com/supabase-community/nextjs-openai-doc-search",
+        "license": "Apache-2.0",
+        "stars": 1725
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "stripe-payments-demo",
+    "level": "intermediate",
+    "stack": "Next.js, Stripe",
+    "build": "Checkout, subscriptions and webhooks",
+    "skills": "Payments, webhook signatures",
+    "references": [
+      {
+        "name": "velobase/velobase-harness",
+        "url": "https://github.com/velobase/velobase-harness",
+        "license": "MIT",
+        "stars": 625
+      },
+      {
+        "name": "t3dotgg/stripe-recommendations",
+        "url": "https://github.com/t3dotgg/stripe-recommendations",
+        "license": "MIT",
+        "stars": 6474
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "razorpay-integration",
+    "level": "intermediate",
+    "stack": "Node, Razorpay",
+    "build": "Indian payment gateway flow",
+    "skills": "Orders, signature verification",
+    "references": []
+  },
+  {
+    "id": 51,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "github-webhook-bot",
+    "level": "intermediate",
+    "stack": "Node, Octokit",
+    "build": "Bot that labels issues and PRs",
+    "skills": "GitHub API, webhooks",
+    "references": []
+  },
+  {
+    "id": 52,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "slack-notifier",
+    "level": "beginner",
+    "stack": "Node, Slack API",
+    "build": "Post alerts to Slack from any app",
+    "skills": "Incoming webhooks, Block Kit",
+    "references": [
+      {
+        "name": "robusta-dev/robusta",
+        "url": "https://github.com/robusta-dev/robusta",
+        "license": "MIT",
+        "stars": 3142
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "google-sheets-sync",
+    "level": "intermediate",
+    "stack": "Python, Google Sheets API",
+    "build": "Sync a database table to Google Sheets",
+    "skills": "OAuth service accounts",
+    "references": [
+      {
+        "name": "nshiab/simple-data-analysis",
+        "url": "https://github.com/nshiab/simple-data-analysis",
+        "license": "MIT",
+        "stars": 359
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "twilio-sms-otp",
+    "level": "intermediate",
+    "stack": "Node, Twilio",
+    "build": "Phone OTP verification",
+    "skills": "SMS APIs, rate limits",
+    "references": []
+  },
+  {
+    "id": 55,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "maps-store-locator",
+    "level": "intermediate",
+    "stack": "React, Leaflet/Mapbox",
+    "build": "Store locator with geosearch",
+    "skills": "Maps APIs, geocoding",
+    "references": []
+  },
+  {
+    "id": 56,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "calendar-booking",
+    "level": "advanced",
+    "stack": "Next.js, Google Calendar API",
+    "build": "Appointment booking like a mini Calendly",
+    "skills": "OAuth, timezones",
+    "references": []
+  },
+  {
+    "id": 57,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "zapier-lite",
+    "level": "advanced",
+    "stack": "Node, BullMQ",
+    "build": "Trigger-action automation engine",
+    "skills": "Queues, connectors, retries",
+    "references": [
+      {
+        "name": "apache/airflow",
+        "url": "https://github.com/apache/airflow",
+        "license": "Apache-2.0",
+        "stars": 47650
+      },
+      {
+        "name": "PrefectHQ/prefect",
+        "url": "https://github.com/PrefectHQ/prefect",
+        "license": "Apache-2.0",
+        "stars": 24224
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "openapi-client-gen",
+    "level": "intermediate",
+    "stack": "TypeScript, openapi-typescript",
+    "build": "Typed SDK generated from an OpenAPI spec",
+    "skills": "OpenAPI, codegen",
+    "references": []
+  },
+  {
+    "id": 59,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "cms-headless-site",
+    "level": "intermediate",
+    "stack": "Next.js, Strapi/Sanity/Payload",
+    "build": "Marketing site driven by a headless CMS",
+    "skills": "CMS integration, ISR",
+    "references": [
+      {
+        "name": "9d8dev/next-wp",
+        "url": "https://github.com/9d8dev/next-wp",
+        "license": "MIT",
+        "stars": 1305
+      },
+      {
+        "name": "alineacms/alinea",
+        "url": "https://github.com/alineacms/alinea",
+        "license": "MIT",
+        "stars": 855
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "track": "6. API and Third-Party Integrations",
+    "repo": "whatsapp-cloud-bot",
+    "level": "advanced",
+    "stack": "Node, WhatsApp Cloud API",
+    "build": "Order-status bot over WhatsApp",
+    "skills": "Meta APIs, webhooks",
+    "references": [
+      {
+        "name": "krypton-byte/neonize",
+        "url": "https://github.com/krypton-byte/neonize",
+        "license": "Apache-2.0",
+        "stars": 773
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "track": "7. Authentication and Security",
+    "repo": "jwt-auth-api",
+    "level": "beginner",
+    "stack": "Node or FastAPI",
+    "build": "Sign-up, login and refresh tokens",
+    "skills": "Hashing, JWT, refresh rotation",
+    "references": [
+      {
+        "name": "yezz123/authx",
+        "url": "https://github.com/yezz123/authx",
+        "license": "MIT",
+        "stars": 1202
+      },
+      {
+        "name": "tweneboah/Full-Stack-Web-Development-Bootcamp-Course",
+        "url": "https://github.com/tweneboah/Full-Stack-Web-Development-Bootcamp-Course",
+        "license": "MIT",
+        "stars": 230
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "track": "7. Authentication and Security",
+    "repo": "oauth-social-login",
+    "level": "intermediate",
+    "stack": "Next.js, Auth.js/Better Auth",
+    "build": "Google and GitHub login",
+    "skills": "OAuth 2.0, sessions",
+    "references": [
+      {
+        "name": "rest-sh/restish",
+        "url": "https://github.com/rest-sh/restish",
+        "license": "MIT",
+        "stars": 1398
+      },
+      {
+        "name": "opencoredev/social-sdk",
+        "url": "https://github.com/opencoredev/social-sdk",
+        "license": "MIT",
+        "stars": 865
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "track": "7. Authentication and Security",
+    "repo": "rbac-admin",
+    "level": "intermediate",
+    "stack": "Next.js, Prisma",
+    "build": "Role-based access control panel",
+    "skills": "Permissions, middleware",
+    "references": [
+      {
+        "name": "zenstackhq/zenstack",
+        "url": "https://github.com/zenstackhq/zenstack",
+        "license": "MIT",
+        "stars": 2965
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "track": "7. Authentication and Security",
+    "repo": "2fa-totp",
+    "level": "intermediate",
+    "stack": "Node, otplib",
+    "build": "Two-factor auth with authenticator apps",
+    "skills": "TOTP, QR codes, backup codes",
+    "references": [
+      {
+        "name": "Saif-Mohammed1/modern-shop-platform",
+        "url": "https://github.com/Saif-Mohammed1/modern-shop-platform",
+        "license": "MIT",
+        "stars": 47
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "track": "7. Authentication and Security",
+    "repo": "passkeys-demo",
+    "level": "advanced",
+    "stack": "SimpleWebAuthn",
+    "build": "Passwordless login with passkeys",
+    "skills": "WebAuthn",
+    "references": []
+  },
+  {
+    "id": 66,
+    "track": "7. Authentication and Security",
+    "repo": "api-key-manager",
+    "level": "intermediate",
+    "stack": "Hono, PostgreSQL",
+    "build": "Issue, hash and revoke API keys",
+    "skills": "Key hashing, scopes",
+    "references": []
+  },
+  {
+    "id": 67,
+    "track": "7. Authentication and Security",
+    "repo": "owasp-top10-lab",
+    "level": "advanced",
+    "stack": "Any",
+    "build": "Deliberately vulnerable app plus the fixes",
+    "skills": "OWASP Top 10, secure coding",
+    "references": [
+      {
+        "name": "OWASP/Nettacker",
+        "url": "https://github.com/OWASP/Nettacker",
+        "license": "Apache-2.0",
+        "stars": 5759
+      },
+      {
+        "name": "DefectDojo/django-DefectDojo",
+        "url": "https://github.com/DefectDojo/django-DefectDojo",
+        "license": "BSD-3-Clause",
+        "stars": 5274
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "track": "8. Full-Stack Applications",
+    "repo": "taskflow-api",
+    "level": "intermediate",
+    "stack": "FastAPI, PostgreSQL, Docker",
+    "build": "Task manager backend",
+    "skills": "REST, auth, Docker",
+    "references": [
+      {
+        "name": "hatchet-dev/hatchet",
+        "url": "https://github.com/hatchet-dev/hatchet",
+        "license": "MIT",
+        "stars": 8338
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "track": "8. Full-Stack Applications",
+    "repo": "taskflow-web",
+    "level": "intermediate",
+    "stack": "Next.js, TanStack Query",
+    "build": "Frontend for taskflow-api",
+    "skills": "API client, caching, forms",
+    "references": [
+      {
+        "name": "Razikus/supabase-nextjs-template",
+        "url": "https://github.com/Razikus/supabase-nextjs-template",
+        "license": "Apache-2.0",
+        "stars": 319
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "track": "8. Full-Stack Applications",
+    "repo": "expense-split",
+    "level": "intermediate",
+    "stack": "Next.js, Prisma",
+    "build": "Split expenses among friends",
+    "skills": "Full-stack CRUD, server actions",
+    "references": [
+      {
+        "name": "spliit-app/spliit",
+        "url": "https://github.com/spliit-app/spliit",
+        "license": "MIT",
+        "stars": 3088
+      },
+      {
+        "name": "tuzup/SplitApp",
+        "url": "https://github.com/tuzup/SplitApp",
+        "license": "MIT",
+        "stars": 69
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "track": "8. Full-Stack Applications",
+    "repo": "url-shortener-saas",
+    "level": "intermediate",
+    "stack": "Next.js, Redis",
+    "build": "Short links with click analytics",
+    "skills": "Redirects, analytics",
+    "references": []
+  },
+  {
+    "id": 72,
+    "track": "8. Full-Stack Applications",
+    "repo": "job-board",
+    "level": "intermediate",
+    "stack": "MERN",
+    "build": "Job board with search and filters",
+    "skills": "Search, filters, auth",
+    "references": [
+      {
+        "name": "feder-cr/Jobs_Applier_AI_Agent",
+        "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+        "license": "MIT",
+        "stars": 32633
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "track": "8. Full-Stack Applications",
+    "repo": "lms-mini",
+    "level": "advanced",
+    "stack": "Next.js, Stripe, Supabase",
+    "build": "Course platform with paid enrollment",
+    "skills": "Payments, video, access control",
+    "references": [
+      {
+        "name": "guillermoscript/lms-front",
+        "url": "https://github.com/guillermoscript/lms-front",
+        "license": "MIT",
+        "stars": 49
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "track": "8. Full-Stack Applications",
+    "repo": "social-feed",
+    "level": "advanced",
+    "stack": "Next.js, PostgreSQL",
+    "build": "Posts, likes, follows and infinite scroll",
+    "skills": "Feeds, pagination",
+    "references": [
+      {
+        "name": "merikbest/twitter-spring-reactjs",
+        "url": "https://github.com/merikbest/twitter-spring-reactjs",
+        "license": "MIT",
+        "stars": 404
+      },
+      {
+        "name": "yogyy/burungbiru",
+        "url": "https://github.com/yogyy/burungbiru",
+        "license": "MIT",
+        "stars": 47
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "track": "8. Full-Stack Applications",
+    "repo": "invoice-generator",
+    "level": "intermediate",
+    "stack": "Next.js, react-pdf",
+    "build": "Create and email invoices as PDFs",
+    "skills": "PDF generation, email",
+    "references": []
+  },
+  {
+    "id": 76,
+    "track": "8. Full-Stack Applications",
+    "repo": "event-ticketing",
+    "level": "advanced",
+    "stack": "Next.js, Stripe, QR",
+    "build": "Sell tickets with QR check-in",
+    "skills": "Payments, QR, concurrency",
+    "references": [
+      {
+        "name": "cenksari/react-ticketing-website-template",
+        "url": "https://github.com/cenksari/react-ticketing-website-template",
+        "license": "MIT",
+        "stars": 27
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "track": "8. Full-Stack Applications",
+    "repo": "saas-starter",
+    "level": "advanced",
+    "stack": "Next.js, Better Auth, Stripe, Prisma",
+    "build": "Your own SaaS boilerplate",
+    "skills": "Auth, billing, teams",
+    "references": [
+      {
+        "name": "boxyhq/saas-starter-kit",
+        "url": "https://github.com/boxyhq/saas-starter-kit",
+        "license": "Apache-2.0",
+        "stars": 4971
+      },
+      {
+        "name": "Blazity/next-saas-starter",
+        "url": "https://github.com/Blazity/next-saas-starter",
+        "license": "MIT",
+        "stars": 1704
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "track": "8. Full-Stack Applications",
+    "repo": "restaurant-ordering",
+    "level": "intermediate",
+    "stack": "MERN",
+    "build": "Menu, cart and order tracking",
+    "skills": "Order states, admin panel",
+    "references": [
+      {
+        "name": "jonathanrao99/Restaurant-Template",
+        "url": "https://github.com/jonathanrao99/Restaurant-Template",
+        "license": "MIT",
+        "stars": 21
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "track": "8. Full-Stack Applications",
+    "repo": "hotel-booking",
+    "level": "advanced",
+    "stack": "Next.js, PostgreSQL",
+    "build": "Room search and booking with availability",
+    "skills": "Date ranges, locking",
+    "references": [
+      {
+        "name": "SamiurRahmanMukul/Hotel-Room-Booking-System",
+        "url": "https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System",
+        "license": "Apache-2.0",
+        "stars": 285
+      },
+      {
+        "name": "skmirajulislam/JourneyCusine",
+        "url": "https://github.com/skmirajulislam/JourneyCusine",
+        "license": "MIT",
+        "stars": 42
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "track": "9. Real-Time and Messaging",
+    "repo": "realtime-chat",
+    "level": "intermediate",
+    "stack": "Bun, WebSockets, Redis",
+    "build": "Chat rooms with typing indicators",
+    "skills": "WebSockets, pub/sub",
+    "references": [
+      {
+        "name": "Sharkord/sharkord",
+        "url": "https://github.com/Sharkord/sharkord",
+        "license": "MIT",
+        "stars": 1592
+      },
+      {
+        "name": "Timonwa/react-chat",
+        "url": "https://github.com/Timonwa/react-chat",
+        "license": "MIT",
+        "stars": 139
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "track": "9. Real-Time and Messaging",
+    "repo": "socketio-whiteboard",
+    "level": "intermediate",
+    "stack": "Socket.IO, Canvas",
+    "build": "Shared drawing board",
+    "skills": "Broadcasting, canvas",
+    "references": []
+  },
+  {
+    "id": 82,
+    "track": "9. Real-Time and Messaging",
+    "repo": "live-polls",
+    "level": "beginner",
+    "stack": "Next.js, SSE",
+    "build": "Live voting with server-sent events",
+    "skills": "SSE, live updates",
+    "references": []
+  },
+  {
+    "id": 83,
+    "track": "9. Real-Time and Messaging",
+    "repo": "notification-center",
+    "level": "intermediate",
+    "stack": "Node, Redis Streams",
+    "build": "In-app and push notifications",
+    "skills": "Fan-out, web push",
+    "references": [
+      {
+        "name": "devswha/ovis",
+        "url": "https://github.com/devswha/ovis",
+        "license": "MIT",
+        "stars": 2202
+      },
+      {
+        "name": "better-notify/better-notify",
+        "url": "https://github.com/better-notify/better-notify",
+        "license": "MIT",
+        "stars": 321
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "track": "9. Real-Time and Messaging",
+    "repo": "collab-editor",
+    "level": "advanced",
+    "stack": "Yjs, WebSockets",
+    "build": "Google-Docs-style shared editor",
+    "skills": "CRDTs, presence",
+    "references": []
+  },
+  {
+    "id": 85,
+    "track": "9. Real-Time and Messaging",
+    "repo": "video-call-webrtc",
+    "level": "advanced",
+    "stack": "WebRTC",
+    "build": "1:1 video calling",
+    "skills": "Signaling, STUN/TURN",
+    "references": [
+      {
+        "name": "Sharkord/sharkord",
+        "url": "https://github.com/Sharkord/sharkord",
+        "license": "MIT",
+        "stars": 1592
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "track": "9. Real-Time and Messaging",
+    "repo": "kafka-order-pipeline",
+    "level": "advanced",
+    "stack": "Kafka or RabbitMQ",
+    "build": "Event-driven order processing",
+    "skills": "Event sourcing, consumers",
+    "references": []
+  },
+  {
+    "id": 87,
+    "track": "10. AI and LLM Integration",
+    "repo": "claude-chat-ui",
+    "level": "beginner",
+    "stack": "Next.js, Claude API",
+    "build": "Streaming chat interface",
+    "skills": "Streaming, prompt design",
+    "references": [
+      {
+        "name": "Amm1rr/WebAI-to-API",
+        "url": "https://github.com/Amm1rr/WebAI-to-API",
+        "license": "MIT",
+        "stars": 1414
+      },
+      {
+        "name": "DemonDamon/AgenticX",
+        "url": "https://github.com/DemonDamon/AgenticX",
+        "license": "Apache-2.0",
+        "stars": 1190
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "track": "10. AI and LLM Integration",
+    "repo": "doc-qa-bot",
+    "level": "intermediate",
+    "stack": "Python, Claude API, pgvector",
+    "build": "Ask questions about your PDFs (RAG)",
+    "skills": "Embeddings, retrieval",
+    "references": [
+      {
+        "name": "xberg-io/xberg",
+        "url": "https://github.com/xberg-io/xberg",
+        "license": "MIT",
+        "stars": 9615
+      },
+      {
+        "name": "aiptimizer/TurboOCR",
+        "url": "https://github.com/aiptimizer/TurboOCR",
+        "license": "MIT",
+        "stars": 1164
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "track": "10. AI and LLM Integration",
+    "repo": "ai-resume-reviewer",
+    "level": "intermediate",
+    "stack": "Next.js, Claude API",
+    "build": "Upload a resume and get structured feedback",
+    "skills": "Structured output, file parsing",
+    "references": [
+      {
+        "name": "nishant-Tiwari24/cracked",
+        "url": "https://github.com/nishant-Tiwari24/cracked",
+        "license": "MIT",
+        "stars": 353
+      },
+      {
+        "name": "xgwangdl/AI-Interview",
+        "url": "https://github.com/xgwangdl/AI-Interview",
+        "license": "Apache-2.0",
+        "stars": 264
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "track": "10. AI and LLM Integration",
+    "repo": "tool-use-agent",
+    "level": "advanced",
+    "stack": "TypeScript, Claude API tool use",
+    "build": "Agent that calls your own APIs",
+    "skills": "Tool calling, agent loops",
+    "references": [
+      {
+        "name": "headroomlabs-ai/headroom",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "license": "Apache-2.0",
+        "stars": 80739
+      },
+      {
+        "name": "JCodesMore/ai-website-cloner-template",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+        "license": "MIT",
+        "stars": 39719
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "track": "10. AI and LLM Integration",
+    "repo": "mcp-server-demo",
+    "level": "advanced",
+    "stack": "TypeScript, MCP SDK",
+    "build": "MCP server exposing your app's data",
+    "skills": "Model Context Protocol",
+    "references": [
+      {
+        "name": "tadata-org/fastapi_mcp",
+        "url": "https://github.com/tadata-org/fastapi_mcp",
+        "license": "MIT",
+        "stars": 12032
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "track": "10. AI and LLM Integration",
+    "repo": "ai-image-captioner",
+    "level": "intermediate",
+    "stack": "Python, vision model",
+    "build": "Caption and tag uploaded images",
+    "skills": "Multimodal input",
+    "references": [
+      {
+        "name": "apify/crawlee-python",
+        "url": "https://github.com/apify/crawlee-python",
+        "license": "Apache-2.0",
+        "stars": 9686
+      },
+      {
+        "name": "SamurAIGPT/AI-Influencer-Generator",
+        "url": "https://github.com/SamurAIGPT/AI-Influencer-Generator",
+        "license": "MIT",
+        "stars": 351
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "track": "10. AI and LLM Integration",
+    "repo": "speech-to-notes",
+    "level": "intermediate",
+    "stack": "Python, Whisper",
+    "build": "Transcribe meetings into summaries",
+    "skills": "Audio, transcription",
+    "references": [
+      {
+        "name": "iskandaryv/meetingly-ai",
+        "url": "https://github.com/iskandaryv/meetingly-ai",
+        "license": "Apache-2.0",
+        "stars": 672
+      },
+      {
+        "name": "Badri467/DubFlow",
+        "url": "https://github.com/Badri467/DubFlow",
+        "license": "MIT",
+        "stars": 23
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "track": "10. AI and LLM Integration",
+    "repo": "ai-code-reviewer",
+    "level": "advanced",
+    "stack": "GitHub Actions, Claude API",
+    "build": "Bot that reviews pull requests",
+    "skills": "CI integration, diffs",
+    "references": [
+      {
+        "name": "ZaxbyHub/opencode-swarm",
+        "url": "https://github.com/ZaxbyHub/opencode-swarm",
+        "license": "MIT",
+        "stars": 542
+      },
+      {
+        "name": "0xfnzero/AI-Code-Tutorials",
+        "url": "https://github.com/0xfnzero/AI-Code-Tutorials",
+        "license": "MIT",
+        "stars": 81
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "track": "10. AI and LLM Integration",
+    "repo": "support-ticket-classifier",
+    "level": "intermediate",
+    "stack": "FastAPI, Claude API",
+    "build": "Route support emails by topic and urgency",
+    "skills": "Classification, evals",
+    "references": [
+      {
+        "name": "haoranD/Awesome-Embodied-AI",
+        "url": "https://github.com/haoranD/Awesome-Embodied-AI",
+        "license": "MIT",
+        "stars": 539
+      },
+      {
+        "name": "hanhuark/machine-learning-for-engineers",
+        "url": "https://github.com/hanhuark/machine-learning-for-engineers",
+        "license": "BSD-3-Clause",
+        "stars": 57
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "track": "10. AI and LLM Integration",
+    "repo": "llm-eval-harness",
+    "level": "advanced",
+    "stack": "Python",
+    "build": "Test prompts against a dataset",
+    "skills": "Evals, regression testing",
+    "references": [
+      {
+        "name": "pydantic/logfire",
+        "url": "https://github.com/pydantic/logfire",
+        "license": "MIT",
+        "stars": 4566
+      },
+      {
+        "name": "ombharatiya/ai-system-design-guide",
+        "url": "https://github.com/ombharatiya/ai-system-design-guide",
+        "license": "MIT",
+        "stars": 4456
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "docker-compose-stack",
+    "level": "beginner",
+    "stack": "Docker Compose",
+    "build": "App, database, cache and proxy in one file",
+    "skills": "Containers, networks, volumes",
+    "references": [
+      {
+        "name": "hunvreus/devpush",
+        "url": "https://github.com/hunvreus/devpush",
+        "license": "MIT",
+        "stars": 4831
+      },
+      {
+        "name": "vargasjona/fastapi-alembic-sqlmodel-async",
+        "url": "https://github.com/vargasjona/fastapi-alembic-sqlmodel-async",
+        "license": "MIT",
+        "stars": 1266
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "github-actions-ci",
+    "level": "beginner",
+    "stack": "GitHub Actions",
+    "build": "Lint, test and build on every push",
+    "skills": "CI pipelines, caching",
+    "references": [
+      {
+        "name": "oven-sh/setup-bun",
+        "url": "https://github.com/oven-sh/setup-bun",
+        "license": "MIT",
+        "stars": 736
+      },
+      {
+        "name": "randifajar/developer-portfolio",
+        "url": "https://github.com/randifajar/developer-portfolio",
+        "license": "MIT",
+        "stars": 452
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "nginx-reverse-proxy",
+    "level": "intermediate",
+    "stack": "Nginx, Let's Encrypt",
+    "build": "HTTPS reverse proxy for several apps",
+    "skills": "TLS, proxying",
+    "references": [
+      {
+        "name": "edo92/AWS-ECS-Pipeline",
+        "url": "https://github.com/edo92/AWS-ECS-Pipeline",
+        "license": "MIT",
+        "stars": 30
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "k8s-hello-cluster",
+    "level": "advanced",
+    "stack": "Kubernetes, Helm",
+    "build": "Deploy taskflow to a local cluster",
+    "skills": "Pods, services, Helm",
+    "references": [
+      {
+        "name": "fastapi-mvc/fastapi-mvc",
+        "url": "https://github.com/fastapi-mvc/fastapi-mvc",
+        "license": "MIT",
+        "stars": 803
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "terraform-aws-basics",
+    "level": "advanced",
+    "stack": "Terraform, AWS",
+    "build": "VPC, database and container service as code",
+    "skills": "IaC, state",
+    "references": [
+      {
+        "name": "davidzajac1/zillacode",
+        "url": "https://github.com/davidzajac1/zillacode",
+        "license": "Apache-2.0",
+        "stars": 361
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "monitoring-stack",
+    "level": "advanced",
+    "stack": "Prometheus, Grafana",
+    "build": "Metrics and dashboards for your APIs",
+    "skills": "Observability, alerts",
+    "references": [
+      {
+        "name": "robusta-dev/robusta",
+        "url": "https://github.com/robusta-dev/robusta",
+        "license": "MIT",
+        "stars": 3142
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "serverless-functions",
+    "level": "intermediate",
+    "stack": "Vercel/Cloudflare Workers",
+    "build": "Edge functions for an API",
+    "skills": "Serverless, edge",
+    "references": [
+      {
+        "name": "good-lly/s3mini",
+        "url": "https://github.com/good-lly/s3mini",
+        "license": "MIT",
+        "stars": 1346
+      },
+      {
+        "name": "violet27chen/qiyuan-blog-template",
+        "url": "https://github.com/violet27chen/qiyuan-blog-template",
+        "license": "MIT",
+        "stars": 20
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "track": "11. DevOps, Cloud and CI/CD",
+    "repo": "vps-deploy-script",
+    "level": "intermediate",
+    "stack": "Bash, SSH",
+    "build": "One-command deploy to a VPS",
+    "skills": "Shell scripting, systemd",
+    "references": [
+      {
+        "name": "aegra/aegra",
+        "url": "https://github.com/aegra/aegra",
+        "license": "Apache-2.0",
+        "stars": 1333
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "go-url-shortener",
+    "level": "beginner",
+    "stack": "Go, PostgreSQL",
+    "build": "URL shortener with the standard library",
+    "skills": "net/http, SQL",
+    "references": []
+  },
+  {
+    "id": 106,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "go-rest-api",
+    "level": "intermediate",
+    "stack": "Go, chi/Gin",
+    "build": "CRUD API with middleware and tests",
+    "skills": "Routing, testing",
+    "references": [
+      {
+        "name": "danielgtaylor/huma",
+        "url": "https://github.com/danielgtaylor/huma",
+        "license": "MIT",
+        "stars": 4558
+      },
+      {
+        "name": "rest-sh/restish",
+        "url": "https://github.com/rest-sh/restish",
+        "license": "MIT",
+        "stars": 1398
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "go-concurrency-lab",
+    "level": "intermediate",
+    "stack": "Go",
+    "build": "Worker pools, channels and pipelines",
+    "skills": "Goroutines, channels",
+    "references": [
+      {
+        "name": "hatchet-dev/hatchet",
+        "url": "https://github.com/hatchet-dev/hatchet",
+        "license": "MIT",
+        "stars": 8338
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "go-cli-tool",
+    "level": "beginner",
+    "stack": "Go, Cobra",
+    "build": "Cross-platform CLI with releases",
+    "skills": "CLI, GoReleaser",
+    "references": [
+      {
+        "name": "rest-sh/restish",
+        "url": "https://github.com/rest-sh/restish",
+        "license": "MIT",
+        "stars": 1398
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "grpc-microservices",
+    "level": "advanced",
+    "stack": "Go, gRPC",
+    "build": "Two services talking over gRPC",
+    "skills": "Protobuf, gRPC",
+    "references": [
+      {
+        "name": "jina-ai/serve",
+        "url": "https://github.com/jina-ai/serve",
+        "license": "Apache-2.0",
+        "stars": 21850
+      },
+      {
+        "name": "muratdemirci/backend-dev-roadmap",
+        "url": "https://github.com/muratdemirci/backend-dev-roadmap",
+        "license": "Apache-2.0",
+        "stars": 37
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "track": "12. Go and a Second Backend Language",
+    "repo": "spring-boot-api",
+    "level": "intermediate",
+    "stack": "Java, Spring Boot",
+    "build": "REST API with JPA and tests",
+    "skills": "Spring, JPA",
+    "references": [
+      {
+        "name": "xgwangdl/AI-Interview",
+        "url": "https://github.com/xgwangdl/AI-Interview",
+        "license": "Apache-2.0",
+        "stars": 264
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "track": "13. Testing and Code Quality",
+    "repo": "unit-testing-kata",
+    "level": "beginner",
+    "stack": "Vitest or pytest",
+    "build": "TDD katas with full coverage",
+    "skills": "TDD, mocking",
+    "references": [
+      {
+        "name": "wellwelwel/poku",
+        "url": "https://github.com/wellwelwel/poku",
+        "license": "MIT",
+        "stars": 1182
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "track": "13. Testing and Code Quality",
+    "repo": "playwright-e2e",
+    "level": "intermediate",
+    "stack": "Playwright",
+    "build": "End-to-end tests for taskflow-web",
+    "skills": "E2E, CI reports",
+    "references": [
+      {
+        "name": "firsttris/vscode-jest-runner",
+        "url": "https://github.com/firsttris/vscode-jest-runner",
+        "license": "MIT",
+        "stars": 303
+      },
+      {
+        "name": "factory-js/factory-js",
+        "url": "https://github.com/factory-js/factory-js",
+        "license": "MIT",
+        "stars": 86
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "track": "13. Testing and Code Quality",
+    "repo": "api-contract-tests",
+    "level": "intermediate",
+    "stack": "Postman/Newman or Schemathesis",
+    "build": "Contract tests against the OpenAPI spec",
+    "skills": "API testing",
+    "references": [
+      {
+        "name": "pywinauto/pywinauto",
+        "url": "https://github.com/pywinauto/pywinauto",
+        "license": "BSD-3-Clause",
+        "stars": 6454
+      },
+      {
+        "name": "pikpikcu/airecon",
+        "url": "https://github.com/pikpikcu/airecon",
+        "license": "MIT",
+        "stars": 1102
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "track": "13. Testing and Code Quality",
+    "repo": "load-testing-k6",
+    "level": "intermediate",
+    "stack": "k6",
+    "build": "Load test your APIs and find limits",
+    "skills": "Performance testing",
+    "references": []
+  },
+  {
+    "id": 115,
+    "track": "13. Testing and Code Quality",
+    "repo": "lint-format-setup",
+    "level": "beginner",
+    "stack": "ESLint, Prettier, Ruff, Husky",
+    "build": "Shared lint and format config",
+    "skills": "Code quality, pre-commit",
+    "references": [
+      {
+        "name": "ixartz/Next-JS-Landing-Page-Starter-Template",
+        "url": "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+        "license": "MIT",
+        "stars": 2137
+      },
+      {
+        "name": "incluud/accessible-astro-starter",
+        "url": "https://github.com/incluud/accessible-astro-starter",
+        "license": "MIT",
+        "stars": 1197
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "track": "14. Career and Interview Prep",
+    "repo": "dsa-in-typescript",
+    "level": "beginner",
+    "stack": "TypeScript",
+    "build": "Data structures and algorithms with tests",
+    "skills": "DSA, complexity",
+    "references": [
+      {
+        "name": "arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
+        "url": "https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD",
+        "license": "MIT",
+        "stars": 2663
+      },
+      {
+        "name": "wislertt/leetcode-py",
+        "url": "https://github.com/wislertt/leetcode-py",
+        "license": "Apache-2.0",
+        "stars": 148
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "track": "14. Career and Interview Prep",
+    "repo": "leetcode-journal",
+    "level": "beginner",
+    "stack": "Python or TypeScript",
+    "build": "Daily problem solutions with notes",
+    "skills": "Problem solving",
+    "references": [
+      {
+        "name": "kdn251/interviews",
+        "url": "https://github.com/kdn251/interviews",
+        "license": "MIT",
+        "stars": 65577
+      },
+      {
+        "name": "halfrost/LeetCode-Go",
+        "url": "https://github.com/halfrost/LeetCode-Go",
+        "license": "MIT",
+        "stars": 33804
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "track": "14. Career and Interview Prep",
+    "repo": "system-design-notes",
+    "level": "intermediate",
+    "stack": "Markdown, diagrams",
+    "build": "Design write-ups: URL shortener, chat, feed",
+    "skills": "System design",
+    "references": [
+      {
+        "name": "binhnguyennus/awesome-scalability",
+        "url": "https://github.com/binhnguyennus/awesome-scalability",
+        "license": "MIT",
+        "stars": 76007
+      },
+      {
+        "name": "armankhondker/best-system-design-resources",
+        "url": "https://github.com/armankhondker/best-system-design-resources",
+        "license": "MIT",
+        "stars": 1434
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "track": "14. Career and Interview Prep",
+    "repo": "frontend-interview-prep",
+    "level": "intermediate",
+    "stack": "React",
+    "build": "Machine-coding round practice apps",
+    "skills": "Frontend interviews",
+    "references": [
+      {
+        "name": "haizlin/fe-interview",
+        "url": "https://github.com/haizlin/fe-interview",
+        "license": "MIT",
+        "stars": 26250
+      },
+      {
+        "name": "liyupi/mianshiya",
+        "url": "https://github.com/liyupi/mianshiya",
+        "license": "MIT",
+        "stars": 6069
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "track": "14. Career and Interview Prep",
+    "repo": "portfolio-site",
+    "level": "beginner",
+    "stack": "Next.js",
+    "build": "Portfolio linking every project above",
+    "skills": "Personal brand, deployment",
+    "references": [
+      {
+        "name": "ncdai/chanhdai.com",
+        "url": "https://github.com/ncdai/chanhdai.com",
+        "license": "MIT",
+        "stars": 2436
+      },
+      {
+        "name": "kremalicious/portfolio",
+        "url": "https://github.com/kremalicious/portfolio",
+        "license": "MIT",
+        "stars": 512
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "track": "14. Career and Interview Prep",
+    "repo": "open-source-contribs",
+    "level": "beginner",
+    "stack": "Git",
+    "build": "Log of your PRs to other projects",
+    "skills": "Git workflow, collaboration",
+    "references": [
+      {
+        "name": "ArslanYM/Free-Certifications",
+        "url": "https://github.com/ArslanYM/Free-Certifications",
+        "license": "MIT",
+        "stars": 1154
+      },
+      {
+        "name": "first-contributions-ja/first-contributions-ja.github.io",
+        "url": "https://github.com/first-contributions-ja/first-contributions-ja.github.io",
+        "license": "MIT",
+        "stars": 160
+      }
+    ]
+  }
+]
