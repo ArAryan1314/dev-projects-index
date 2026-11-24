@@ -1242,6 +1242,24 @@
   },
   {
     "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/threads",
+    "url": "https://github.com/adrianhajdin/threads",
+    "demo": "https://threads-psi.vercel.app",
+    "description": "Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "nextjs",
+      "nextjs13",
+      "nextjs13-4",
+      "nextjs13-app-router"
+    ],
+    "stars": 1600,
+    "license": "none (learn only)",
+    "last_push": "2024-04-03"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
     "name": "adrianhajdin/social_media_app",
     "url": "https://github.com/adrianhajdin/social_media_app",
     "demo": "https://jsmastery.pro",
@@ -1488,22 +1506,6 @@
   },
   {
     "creator": "JavaScript Mastery (Next.js, React, full-stack)",
-    "name": "adrianhajdin/event_platform",
-    "url": "https://github.com/adrianhajdin/event_platform",
-    "demo": "https://event-platform-4yc7.vercel.app/",
-    "description": "Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.",
-    "language": "TypeScript",
-    "topics": [
-      "clerk",
-      "next14",
-      "server-actions"
-    ],
-    "stars": 960,
-    "license": "none (learn only)",
-    "last_push": "2024-07-20"
-  },
-  {
-    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
     "name": "adrianhajdin/yc_directory",
     "url": "https://github.com/adrianhajdin/yc_directory",
     "demo": "https://yc-directory.vercel.app",
@@ -1579,6 +1581,21 @@
     "stars": 781,
     "license": "none (learn only)",
     "last_push": "2024-06-22"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/podcastr",
+    "url": "https://github.com/adrianhajdin/podcastr",
+    "demo": "https://podcastr-23zf.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [
+      "convex",
+      "nextjs"
+    ],
+    "stars": 775,
+    "license": "none (learn only)",
+    "last_push": "2024-06-01"
   },
   {
     "creator": "JavaScript Mastery (Next.js, React, full-stack)",
@@ -2680,6 +2697,18 @@
   },
   {
     "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/genai-cohort",
+    "url": "https://github.com/piyushgarg-dev/genai-cohort",
+    "demo": "https://piyushgarg.pro/genai",
+    "description": "",
+    "language": "Python",
+    "topics": [],
+    "stars": 216,
+    "license": "none (learn only)",
+    "last_push": "2025-05-07"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
     "name": "piyushgarg-dev/Scaleable-WebSockets",
     "url": "https://github.com/piyushgarg-dev/Scaleable-WebSockets",
     "demo": "https://youtu.be/CQQc8QyIGl0?si=u1MZiGSRHGfzWg2B",
@@ -3473,7 +3502,7 @@
       "react",
       "teachers"
     ],
-    "stars": 459568,
+    "stars": 459567,
     "license": "BSD-3-Clause",
     "last_push": "2026-11-24"
   },
@@ -3807,6 +3836,20 @@
   },
   {
     "creator": "midudev (JS, Next.js)",
+    "name": "midudev/jscamp",
+    "url": "https://github.com/midudev/jscamp",
+    "demo": "https://jscamp.dev",
+    "description": "Contenido y ejercicios del JSCamp InfoJobs",
+    "language": "JavaScript",
+    "topics": [
+      "bootcamp"
+    ],
+    "stars": 4750,
+    "license": "none (learn only)",
+    "last_push": "2026-07-02"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
     "name": "midudev/javascript-100-proyectos",
     "url": "https://github.com/midudev/javascript-100-proyectos",
     "demo": "https://javascript100.dev",
@@ -3926,7 +3969,7 @@
       "webgpu",
       "webgpu-ai"
     ],
-    "stars": 804,
+    "stars": 805,
     "license": "MIT",
     "last_push": "2026-10-24"
   },
@@ -3941,24 +3984,6 @@
     "stars": 801,
     "license": "none (learn only)",
     "last_push": "2026-11-12"
-  },
-  {
-    "creator": "midudev (JS, Next.js)",
-    "name": "midudev/miduconf-website",
-    "url": "https://github.com/midudev/miduconf-website",
-    "demo": "https://miduconf.com",
-    "description": "¡La conferencia de desarrollo y programación web!",
-    "language": "TypeScript",
-    "topics": [
-      "conference",
-      "conferencia",
-      "miduconf",
-      "web-conference",
-      "web-conferences"
-    ],
-    "stars": 607,
-    "license": "none (learn only)",
-    "last_push": "2026-11-15"
   },
   {
     "creator": "midudev (JS, Next.js)",
@@ -4116,6 +4141,18 @@
     "stars": 170,
     "license": "none (learn only)",
     "last_push": "2026-10-16"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/lolalolitaland.com",
+    "url": "https://github.com/midudev/lolalolitaland.com",
+    "demo": "https://lolalolitaland.com",
+    "description": "",
+    "language": "Astro",
+    "topics": [],
+    "stars": 155,
+    "license": "none (learn only)",
+    "last_push": "2025-06-17"
   },
   {
     "creator": "midudev (JS, Next.js)",

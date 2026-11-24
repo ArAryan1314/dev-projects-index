@@ -2324,6 +2324,28 @@
     "category": "Next.js",
     "level": "intermediate",
     "size": "medium",
+    "name": "cenksari/react-ticketing-website-template",
+    "url": "https://github.com/cenksari/react-ticketing-website-template",
+    "description": "A fully responsive event ticketing system template built with React and Next.js. Features a minimal design for easy navigation and ticket management, perfect for event organizers and attendees alike.",
+    "language": "TypeScript",
+    "stars": 27,
+    "license": "MIT",
+    "last_push": "2026-06-12",
+    "topics": [
+      "event-tickets",
+      "javascript",
+      "nextjs",
+      "reactjs",
+      "template",
+      "ticketing",
+      "ticketing-system",
+      "typescript"
+    ]
+  },
+  {
+    "category": "Next.js",
+    "level": "intermediate",
+    "size": "medium",
     "name": "marpeand/lotse",
     "url": "https://github.com/marpeand/lotse",
     "description": "Minimalistic dark mode blogging and portfolio template made using NextJS & TailwindCSS (https://lotse.vercel.app/)",
@@ -2342,28 +2364,6 @@
       "portfolio",
       "tailwind",
       "template"
-    ]
-  },
-  {
-    "category": "Next.js",
-    "level": "intermediate",
-    "size": "medium",
-    "name": "cenksari/react-ticketing-website-template",
-    "url": "https://github.com/cenksari/react-ticketing-website-template",
-    "description": "A fully responsive event ticketing system template built with React and Next.js. Features a minimal design for easy navigation and ticket management, perfect for event organizers and attendees alike.",
-    "language": "TypeScript",
-    "stars": 27,
-    "license": "MIT",
-    "last_push": "2026-06-12",
-    "topics": [
-      "event-tickets",
-      "javascript",
-      "nextjs",
-      "reactjs",
-      "template",
-      "ticketing",
-      "ticketing-system",
-      "typescript"
     ]
   },
   {
@@ -3407,40 +3407,6 @@
     "category": "Next.js",
     "level": "advanced",
     "size": "medium",
-    "name": "mohamed-elsayed-200/fullstack-saas-starter",
-    "url": "https://github.com/mohamed-elsayed-200/fullstack-saas-starter",
-    "description": "A modern, open-source full-stack SaaS starter built with Next.js, TypeScript, MongoDB, and shadcn/ui a solid foundation for building scalable SaaS applications.",
-    "language": "TypeScript",
-    "stars": 52,
-    "license": "MIT",
-    "last_push": "2026-10-17",
-    "topics": [
-      "admin-dashboard",
-      "authentication",
-      "authorization",
-      "cloudinary",
-      "fullstack",
-      "fullstack-nextjs",
-      "jwt",
-      "mongodb",
-      "mongoose",
-      "nextjs",
-      "rbac",
-      "react",
-      "react-query",
-      "saas",
-      "saas-starter",
-      "shadcn-ui",
-      "tailwindcss",
-      "typescript",
-      "zod",
-      "zustand"
-    ]
-  },
-  {
-    "category": "Next.js",
-    "level": "advanced",
-    "size": "medium",
     "name": "deepsingh132/aionair",
     "url": "https://github.com/deepsingh132/aionair",
     "description": "A cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail image generation, and seamless playback. The platform is built using Next.js, TypeScript, Convex, OpenAI, Stripe, Clerk, ShadCN, and Tailwind CSS.",
@@ -3469,6 +3435,40 @@
       "transcription",
       "typescript",
       "zod"
+    ]
+  },
+  {
+    "category": "Next.js",
+    "level": "advanced",
+    "size": "medium",
+    "name": "mohamed-elsayed-200/fullstack-saas-starter",
+    "url": "https://github.com/mohamed-elsayed-200/fullstack-saas-starter",
+    "description": "A modern, open-source full-stack SaaS starter built with Next.js, TypeScript, MongoDB, and shadcn/ui a solid foundation for building scalable SaaS applications.",
+    "language": "TypeScript",
+    "stars": 52,
+    "license": "MIT",
+    "last_push": "2026-10-17",
+    "topics": [
+      "admin-dashboard",
+      "authentication",
+      "authorization",
+      "cloudinary",
+      "fullstack",
+      "fullstack-nextjs",
+      "jwt",
+      "mongodb",
+      "mongoose",
+      "nextjs",
+      "rbac",
+      "react",
+      "react-query",
+      "saas",
+      "saas-starter",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript",
+      "zod",
+      "zustand"
     ]
   },
   {
@@ -3870,6 +3870,40 @@
       "nextjs",
       "react",
       "saas"
+    ]
+  },
+  {
+    "category": "Next.js",
+    "level": "advanced",
+    "size": "small",
+    "name": "be-a-guptaji/AI-PPT-Builder",
+    "url": "https://github.com/be-a-guptaji/AI-PPT-Builder",
+    "description": "AI Presentation SaaS Platform is a modern web application built with Next.js, OpenAI, Clerk, Prisma, and Lemon Squeezy. It enables users to generate, edit, and manage professional presentations in minutes using AI. The platform includes authentication, subscription management, payment integration, and a user-friendly dashboard for seamless access.",
+    "language": "TypeScript",
+    "stars": 26,
+    "license": "MIT",
+    "last_push": "2025-12-31",
+    "topics": [
+      "ai",
+      "clerk-authentication",
+      "content-generation-ai",
+      "dashboard",
+      "fullstack",
+      "lemonsqueezy",
+      "nextjs",
+      "openai",
+      "payment-integration",
+      "presentations",
+      "prisma-orm",
+      "productivity-tools",
+      "reactjs",
+      "saas",
+      "slideshow-maker",
+      "startup",
+      "subscription",
+      "tailwindcss-v4",
+      "typescript",
+      "webapplication"
     ]
   },
   {
@@ -5333,7 +5367,7 @@
     "language": "TypeScript",
     "stars": 865,
     "license": "MIT",
-    "last_push": "2026-11-22",
+    "last_push": "2026-11-24",
     "topics": [
       "ahead-of-time",
       "ai-agent",
@@ -7053,7 +7087,7 @@
     "url": "https://github.com/Sec-ant/zxing-wasm",
     "description": "ZXing-C++ WebAssembly as an ES/CJS module with types. Read or write barcodes in various JS runtimes: Web, Node.js, Bun, and Deno.",
     "language": "TypeScript",
-    "stars": 300,
+    "stars": 301,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -7583,6 +7617,36 @@
     ]
   },
   {
+    "category": "Bun",
+    "level": "advanced",
+    "size": "large",
+    "name": "P4sca1/cron-schedule",
+    "url": "https://github.com/P4sca1/cron-schedule",
+    "description": "A zero-dependency cron parser and scheduler for Node.js, Deno, Bun and the browser.",
+    "language": "TypeScript",
+    "stars": 219,
+    "license": "MIT",
+    "last_push": "2026-11-23",
+    "topics": [
+      "bun",
+      "cron",
+      "cron-expression",
+      "cron-schedule",
+      "deno",
+      "hacktoberfest",
+      "interval",
+      "iterator",
+      "javascript",
+      "job",
+      "nodejs",
+      "parser",
+      "schedule",
+      "schedule-tasks",
+      "timer",
+      "typescript"
+    ]
+  },
+  {
     "category": "Python",
     "level": "beginner",
     "size": "small",
@@ -7590,7 +7654,7 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "Python",
-    "stars": 290386,
+    "stars": 290387,
     "license": "MIT",
     "last_push": "2026-11-23",
     "topics": [
@@ -8208,7 +8272,7 @@
     "url": "https://github.com/Panniantong/Agent-Reach",
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "language": "Python",
-    "stars": 114453,
+    "stars": 114455,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -8239,7 +8303,7 @@
     "url": "https://github.com/D4Vinci/Scrapling",
     "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
     "language": "Python",
-    "stars": 105496,
+    "stars": 105497,
     "license": "BSD-3-Clause",
     "last_push": "2026-11-23",
     "topics": [
@@ -8307,7 +8371,7 @@
     "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
     "description": "AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.",
     "language": "Python",
-    "stars": 32632,
+    "stars": 32633,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -8416,7 +8480,7 @@
     "url": "https://github.com/Skyvern-AI/skyvern",
     "description": "Automate browser based workflows with AI",
     "language": "Python",
-    "stars": 23504,
+    "stars": 23505,
     "license": "AGPL-3.0",
     "last_push": "2026-11-24",
     "topics": [
@@ -8480,7 +8544,7 @@
     "url": "https://github.com/InstaPy/InstaPy",
     "description": "📷 Instagram Bot - Tool for automated Instagram interactions",
     "language": "Python",
-    "stars": 18440,
+    "stars": 18441,
     "license": "GPL-3.0",
     "last_push": "2026-10-26",
     "topics": [
@@ -11338,6 +11402,28 @@
     ]
   },
   {
+    "category": "Python",
+    "level": "advanced",
+    "size": "large",
+    "name": "Mats2208/MCP-Packet-Tracer",
+    "url": "https://github.com/Mats2208/MCP-Packet-Tracer",
+    "description": "AI-powered Cisco Packet Tracer automation over MCP. Describe a network in natural language and it generates, validates and deploys full topologies (OSPF, EIGRP, RIP, DHCP).",
+    "language": "Python",
+    "stars": 415,
+    "license": "MIT",
+    "last_push": "2026-11-11",
+    "topics": [
+      "ai-agents",
+      "automation",
+      "cisco-packet-tracer",
+      "llm",
+      "mcp",
+      "networking",
+      "ospf",
+      "python"
+    ]
+  },
+  {
     "category": "Frontend",
     "level": "intermediate",
     "size": "medium",
@@ -11484,7 +11570,7 @@
     "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
     "description": "A Collection of application ideas that can be used to improve your coding skills ❤.",
     "language": "",
-    "stars": 17310,
+    "stars": 17311,
     "license": "MIT",
     "last_push": "2026-10-16",
     "topics": [
@@ -12916,6 +13002,24 @@
   {
     "category": "Frontend",
     "level": "intermediate",
+    "size": "medium",
+    "name": "michelegera/tailwindcss-open-template",
+    "url": "https://github.com/michelegera/tailwindcss-open-template",
+    "description": "🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.",
+    "language": "HTML",
+    "stars": 150,
+    "license": "MIT",
+    "last_push": "2026-11-02",
+    "topics": [
+      "landing-page",
+      "tailwind-css",
+      "tailwindcss",
+      "template"
+    ]
+  },
+  {
+    "category": "Frontend",
+    "level": "intermediate",
     "size": "small",
     "name": "EFEELE/NeonMint",
     "url": "https://github.com/EFEELE/NeonMint",
@@ -12943,24 +13047,6 @@
       "template",
       "theme",
       "web-template"
-    ]
-  },
-  {
-    "category": "Frontend",
-    "level": "intermediate",
-    "size": "medium",
-    "name": "michelegera/tailwindcss-open-template",
-    "url": "https://github.com/michelegera/tailwindcss-open-template",
-    "description": "🛬 An implementation of the “Open” landing page template using Tailwind CSS Boilerplate.",
-    "language": "HTML",
-    "stars": 150,
-    "license": "MIT",
-    "last_push": "2026-11-02",
-    "topics": [
-      "landing-page",
-      "tailwind-css",
-      "tailwindcss",
-      "template"
     ]
   },
   {
@@ -13612,29 +13698,6 @@
   {
     "category": "Frontend",
     "level": "advanced",
-    "size": "large",
-    "name": "JasonLovesDoggo/nyx",
-    "url": "https://github.com/JasonLovesDoggo/nyx",
-    "description": "My third iteration of a portfolio website",
-    "language": "mdsvex",
-    "stars": 64,
-    "license": "AGPL-3.0",
-    "last_push": "2026-10-31",
-    "topics": [
-      "developer",
-      "developer-portfolio",
-      "portfolio",
-      "svelte",
-      "sveltekit",
-      "tailwind",
-      "tailwindcss",
-      "template",
-      "website"
-    ]
-  },
-  {
-    "category": "Frontend",
-    "level": "advanced",
     "size": "medium",
     "name": "stickerdaniel/saas-starter",
     "url": "https://github.com/stickerdaniel/saas-starter",
@@ -13659,6 +13722,29 @@
       "template",
       "tolgee",
       "typescript"
+    ]
+  },
+  {
+    "category": "Frontend",
+    "level": "advanced",
+    "size": "large",
+    "name": "JasonLovesDoggo/nyx",
+    "url": "https://github.com/JasonLovesDoggo/nyx",
+    "description": "My third iteration of a portfolio website",
+    "language": "mdsvex",
+    "stars": 64,
+    "license": "AGPL-3.0",
+    "last_push": "2026-10-31",
+    "topics": [
+      "developer",
+      "developer-portfolio",
+      "portfolio",
+      "svelte",
+      "sveltekit",
+      "tailwind",
+      "tailwindcss",
+      "template",
+      "website"
     ]
   },
   {
@@ -15039,6 +15125,40 @@
     ]
   },
   {
+    "category": "Frontend",
+    "level": "intermediate",
+    "size": "medium",
+    "name": "vinodjangid07/vinodjangid07.github.io",
+    "url": "https://github.com/vinodjangid07/vinodjangid07.github.io",
+    "description": "Portfolio V1",
+    "language": "CSS",
+    "stars": 329,
+    "license": "MIT",
+    "last_push": "2026-05-21",
+    "topics": [
+      "best-github-portfolio",
+      "best-portfolio-website",
+      "best-website-portfolio-websites",
+      "css3",
+      "developer-folio",
+      "developer-portfolio",
+      "frontend",
+      "frontend-web-developer",
+      "frontend-web-development",
+      "html5",
+      "master-portfolio",
+      "portfolio",
+      "portfolio-page",
+      "portfolio-site",
+      "portfolio-template",
+      "portfolio-website",
+      "react",
+      "resume-template",
+      "resume-website",
+      "template"
+    ]
+  },
+  {
     "category": "Backend",
     "level": "beginner",
     "size": "large",
@@ -15046,7 +15166,7 @@
     "url": "https://github.com/fastapi/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "stars": 104921,
+    "stars": 104922,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -15204,7 +15324,7 @@
     "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
     "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
     "language": "Python",
-    "stars": 21771,
+    "stars": 21772,
     "license": "Apache-2.0",
     "last_push": "2026-07-03",
     "topics": [
@@ -15264,7 +15384,7 @@
     "url": "https://github.com/fastapi/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "stars": 18661,
+    "stars": 18662,
     "license": "MIT",
     "last_push": "2026-11-16",
     "topics": [
@@ -15319,7 +15439,7 @@
     "url": "https://github.com/tadata-org/fastapi_mcp",
     "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
     "language": "Python",
-    "stars": 12031,
+    "stars": 12032,
     "license": "MIT",
     "last_push": "2025-11-24",
     "topics": [
@@ -15460,7 +15580,7 @@
     "url": "https://github.com/shy3130/tick-stock-panel",
     "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据",
     "language": "Python",
-    "stars": 8245,
+    "stars": 8246,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -15974,7 +16094,7 @@
     "url": "https://github.com/Lightning-AI/LitServe",
     "description": "A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.",
     "language": "Python",
-    "stars": 4019,
+    "stars": 4020,
     "license": "Apache-2.0",
     "last_push": "2026-11-01",
     "topics": [
@@ -16855,7 +16975,7 @@
     "url": "https://github.com/polius/FileSync",
     "description": "Send files from one device to many in real-time.",
     "language": "JavaScript",
-    "stars": 1932,
+    "stars": 1933,
     "license": "MIT",
     "last_push": "2026-11-24",
     "topics": [
@@ -18489,7 +18609,7 @@
     "url": "https://github.com/vstorm-co/agenticos",
     "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
     "language": "Python",
-    "stars": 829,
+    "stars": 830,
     "license": "Apache-2.0",
     "last_push": "2026-11-24",
     "topics": [
@@ -18900,6 +19020,32 @@
       "genai",
       "python",
       "rag"
+    ]
+  },
+  {
+    "category": "Backend",
+    "level": "intermediate",
+    "size": "medium",
+    "name": "mawoka-myblock/ClassQuiz",
+    "url": "https://github.com/mawoka-myblock/ClassQuiz",
+    "description": "ClassQuiz is a quiz-application like Kahoot!, but open-source.",
+    "language": "Svelte",
+    "stars": 739,
+    "license": "MPL-2.0",
+    "last_push": "2026-11-23",
+    "topics": [
+      "edu",
+      "education",
+      "educational-software",
+      "fastapi",
+      "hacktoberfest",
+      "i18n",
+      "kahoot",
+      "ormar",
+      "socket-io",
+      "svelte",
+      "sveltekit",
+      "tailwindcss"
     ]
   },
   {
@@ -19503,40 +19649,6 @@
   },
   {
     "category": "Full-stack",
-    "level": "advanced",
-    "size": "small",
-    "name": "be-a-guptaji/AI-PPT-Builder",
-    "url": "https://github.com/be-a-guptaji/AI-PPT-Builder",
-    "description": "AI Presentation SaaS Platform is a modern web application built with Next.js, OpenAI, Clerk, Prisma, and Lemon Squeezy. It enables users to generate, edit, and manage professional presentations in minutes using AI. The platform includes authentication, subscription management, payment integration, and a user-friendly dashboard for seamless access.",
-    "language": "TypeScript",
-    "stars": 26,
-    "license": "MIT",
-    "last_push": "2025-12-31",
-    "topics": [
-      "ai",
-      "clerk-authentication",
-      "content-generation-ai",
-      "dashboard",
-      "fullstack",
-      "lemonsqueezy",
-      "nextjs",
-      "openai",
-      "payment-integration",
-      "presentations",
-      "prisma-orm",
-      "productivity-tools",
-      "reactjs",
-      "saas",
-      "slideshow-maker",
-      "startup",
-      "subscription",
-      "tailwindcss-v4",
-      "typescript",
-      "webapplication"
-    ]
-  },
-  {
-    "category": "Full-stack",
     "level": "intermediate",
     "size": "medium",
     "name": "Badri467/DubFlow",
@@ -19569,27 +19681,6 @@
   {
     "category": "Full-stack",
     "level": "intermediate",
-    "size": "small",
-    "name": "vikasthakurr/FullStack-WebDev-Notes",
-    "url": "https://github.com/vikasthakurr/FullStack-WebDev-Notes",
-    "description": "100+ structured engineering notes covering HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, System Design & Deployment.",
-    "language": "",
-    "stars": 22,
-    "license": "MIT",
-    "last_push": "2026-11-19",
-    "topics": [
-      "fullstack",
-      "nextjs",
-      "nodejs",
-      "notes",
-      "react",
-      "study-guide",
-      "system-design"
-    ]
-  },
-  {
-    "category": "Full-stack",
-    "level": "intermediate",
     "size": "medium",
     "name": "Folody-Team/Shartube",
     "url": "https://github.com/Folody-Team/Shartube",
@@ -19612,6 +19703,27 @@
       "rust-lang",
       "socket",
       "typescript"
+    ]
+  },
+  {
+    "category": "Full-stack",
+    "level": "intermediate",
+    "size": "small",
+    "name": "vikasthakurr/FullStack-WebDev-Notes",
+    "url": "https://github.com/vikasthakurr/FullStack-WebDev-Notes",
+    "description": "100+ structured engineering notes covering HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, System Design & Deployment.",
+    "language": "",
+    "stars": 22,
+    "license": "MIT",
+    "last_push": "2026-11-19",
+    "topics": [
+      "fullstack",
+      "nextjs",
+      "nodejs",
+      "notes",
+      "react",
+      "study-guide",
+      "system-design"
     ]
   },
   {
@@ -21090,6 +21202,34 @@
       "mern-stack",
       "nginx",
       "nodejs",
+      "reactjs"
+    ]
+  },
+  {
+    "category": "Full-stack",
+    "level": "beginner",
+    "size": "small",
+    "name": "MiladJoodi/MERN_Stack_CRUD",
+    "url": "https://github.com/MiladJoodi/MERN_Stack_CRUD",
+    "description": "This project demonstrates a simple full-stack CRUD application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). It covers the basics of working with APIs, handling user data, and displaying it in a React frontend.",
+    "language": "JavaScript",
+    "stars": 29,
+    "license": "MIT",
+    "last_push": "2024-12-20",
+    "topics": [
+      "axios",
+      "bulma",
+      "dotenv",
+      "express",
+      "expressjs",
+      "fullstack",
+      "fullstackreact",
+      "mern-stack",
+      "mernstack",
+      "mongodb",
+      "mongoose",
+      "nodejs",
+      "react",
       "reactjs"
     ]
   },
@@ -22630,6 +22770,31 @@
   {
     "category": "Full-stack",
     "level": "intermediate",
+    "size": "medium",
+    "name": "qufei1993/ai-agent-guide",
+    "url": "https://github.com/qufei1993/ai-agent-guide",
+    "description": "AI Agent Guide — An open-source interactive engineering guide to LLMs, Agents, and RAG (EN / 中文)",
+    "language": "JavaScript",
+    "stars": 40,
+    "license": "CC-BY-4.0",
+    "last_push": "2026-11-22",
+    "topics": [
+      "ai-agent",
+      "context-engineering",
+      "fullstack",
+      "interactive-guide",
+      "llm",
+      "mcp",
+      "nodejs",
+      "prompt-engineering",
+      "rag",
+      "roadmap",
+      "typescript"
+    ]
+  },
+  {
+    "category": "Full-stack",
+    "level": "intermediate",
     "size": "small",
     "name": "vincenzo-afk/vincenzo-afk",
     "url": "https://github.com/vincenzo-afk/vincenzo-afk",
@@ -22659,27 +22824,35 @@
   },
   {
     "category": "Full-stack",
-    "level": "intermediate",
+    "level": "advanced",
     "size": "medium",
-    "name": "qufei1993/ai-agent-guide",
-    "url": "https://github.com/qufei1993/ai-agent-guide",
-    "description": "AI Agent Guide — An open-source interactive engineering guide to LLMs, Agents, and RAG (EN / 中文)",
-    "language": "JavaScript",
-    "stars": 40,
-    "license": "CC-BY-4.0",
-    "last_push": "2026-11-22",
+    "name": "liustack/tifa",
+    "url": "https://github.com/liustack/tifa",
+    "description": "Full-stack Go web framework with pure-Go React SSR. Ships as one executable with no Node in production.",
+    "language": "Go",
+    "stars": 39,
+    "license": "MIT",
+    "last_push": "2026-11-24",
     "topics": [
-      "ai-agent",
-      "context-engineering",
       "fullstack",
-      "interactive-guide",
-      "llm",
-      "mcp",
-      "nodejs",
-      "prompt-engineering",
-      "rag",
-      "roadmap",
-      "typescript"
+      "go",
+      "go-framework",
+      "golang",
+      "javascript-engine",
+      "markdown",
+      "nextjs-alternative",
+      "quickjs",
+      "react",
+      "self-hosted",
+      "server-side-rendering",
+      "single-binary",
+      "ssr",
+      "tanstack-router",
+      "typesafe",
+      "typescript",
+      "vite",
+      "vps",
+      "web-framework"
     ]
   },
   {
@@ -24112,6 +24285,38 @@
   {
     "category": "Learning & Roadmaps",
     "level": "beginner",
+    "size": "medium",
+    "name": "Shashwat-19/awesome-student-resources",
+    "url": "https://github.com/Shashwat-19/awesome-student-resources",
+    "description": "A curated collection of free resources, tools, courses, and perks available for students, especially those with a Student ID or .edu / college email.",
+    "language": "",
+    "stars": 28,
+    "license": "MIT",
+    "last_push": "2026-11-18",
+    "topics": [
+      "ai-tools",
+      "awesome-freebies",
+      "awesome-list",
+      "cloud-credits",
+      "education",
+      "free-courses",
+      "free-for-students",
+      "free-learning",
+      "freebies",
+      "github-student-pack",
+      "hacktoberfest",
+      "learn-to-code",
+      "learning",
+      "productivity-tools",
+      "student-discounts",
+      "student-resources",
+      "students",
+      "university"
+    ]
+  },
+  {
+    "category": "Learning & Roadmaps",
+    "level": "beginner",
     "size": "small",
     "name": "appuv/learning",
     "url": "https://github.com/appuv/learning",
@@ -24141,38 +24346,6 @@
       "learning",
       "skilljar",
       "snowflake"
-    ]
-  },
-  {
-    "category": "Learning & Roadmaps",
-    "level": "beginner",
-    "size": "medium",
-    "name": "Shashwat-19/awesome-student-resources",
-    "url": "https://github.com/Shashwat-19/awesome-student-resources",
-    "description": "A curated collection of free resources, tools, courses, and perks available for students, especially those with a Student ID or .edu / college email.",
-    "language": "",
-    "stars": 28,
-    "license": "MIT",
-    "last_push": "2026-11-18",
-    "topics": [
-      "ai-tools",
-      "awesome-freebies",
-      "awesome-list",
-      "cloud-credits",
-      "education",
-      "free-courses",
-      "free-for-students",
-      "free-learning",
-      "freebies",
-      "github-student-pack",
-      "hacktoberfest",
-      "learn-to-code",
-      "learning",
-      "productivity-tools",
-      "student-discounts",
-      "student-resources",
-      "students",
-      "university"
     ]
   },
   {
@@ -26179,7 +26352,7 @@
     "url": "https://github.com/ombharatiya/ai-system-design-guide",
     "description": "AI system design guide for engineers building production AI systems and evals.",
     "language": "",
-    "stars": 4455,
+    "stars": 4456,
     "license": "MIT",
     "last_push": "2026-11-10",
     "topics": [
@@ -26567,6 +26740,30 @@
       "interview-questions",
       "system-design",
       "system-design-interview"
+    ]
+  },
+  {
+    "category": "Learning & Roadmaps",
+    "level": "intermediate",
+    "size": "small",
+    "name": "danieldelcore/mega-interview-guide",
+    "url": "https://github.com/danieldelcore/mega-interview-guide",
+    "description": "The MEGA interview guide, JavaSciript, Front End, Comp Sci",
+    "language": "HTML",
+    "stars": 1102,
+    "license": "MIT",
+    "last_push": "2026-06-19",
+    "topics": [
+      "algorithms",
+      "computer-science",
+      "data-structures",
+      "frontend",
+      "interview",
+      "interview-questions",
+      "javascript",
+      "questions",
+      "questions-and-answers",
+      "sort"
     ]
   }
 ]
