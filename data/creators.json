@@ -1,0 +1,4361 @@
+[
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/microservices",
+    "url": "https://github.com/amigoscode/microservices",
+    "demo": "https://www.amigoscode.com/courses/microservices",
+    "description": "",
+    "language": "Java",
+    "topics": [],
+    "stars": 540,
+    "license": "none (learn only)",
+    "last_push": "2024-05-31"
+  },
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/full-stack-professional",
+    "url": "https://github.com/amigoscode/full-stack-professional",
+    "demo": "https://amigoscode.com/courses/full-stack-professional",
+    "description": "",
+    "language": "Java",
+    "topics": [],
+    "stars": 479,
+    "license": "none (learn only)",
+    "last_push": "2024-08-06"
+  },
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/software-testing",
+    "url": "https://github.com/amigoscode/software-testing",
+    "demo": "https://www.amigoscode.com/courses/software-testing",
+    "description": "Source code for software testing course",
+    "language": "Java",
+    "topics": [],
+    "stars": 209,
+    "license": "none (learn only)",
+    "last_push": "2024-04-05"
+  },
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/spring-security",
+    "url": "https://github.com/amigoscode/spring-security",
+    "demo": "https://amigoscode.com/courses/spring-security",
+    "description": "",
+    "language": "Java",
+    "topics": [],
+    "stars": 30,
+    "license": "none (learn only)",
+    "last_push": "2026-06-09"
+  },
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/spring-boot-graphql",
+    "url": "https://github.com/amigoscode/spring-boot-graphql",
+    "demo": "https://www.amigoscode.com/courses/spring-boot-graphql",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 11,
+    "license": "none (learn only)",
+    "last_push": "2024-07-11"
+  },
+  {
+    "creator": "Amigoscode (backend)",
+    "name": "amigoscode/mockito-java-unit-testing",
+    "url": "https://github.com/amigoscode/mockito-java-unit-testing",
+    "demo": "https://amigoscode.com/courses/testing/mockito-java-unit-testing",
+    "description": "Mockito and JUnit Course",
+    "language": "Java",
+    "topics": [],
+    "stars": 6,
+    "license": "none (learn only)",
+    "last_push": "2025-05-31"
+  },
+  {
+    "creator": "ArjanCodes (Python design)",
+    "name": "ArjanCodes/examples",
+    "url": "https://github.com/ArjanCodes/examples",
+    "demo": "https://www.youtube.com/c/arjancodes",
+    "description": "All the code examples I use in my videos",
+    "language": "HTML",
+    "topics": [
+      "design-patterns",
+      "python",
+      "software",
+      "tutorials"
+    ],
+    "stars": 1261,
+    "license": "MIT",
+    "last_push": "2026-11-19"
+  },
+  {
+    "creator": "ArjanCodes (Python design)",
+    "name": "ArjanCodes/bragir",
+    "url": "https://github.com/ArjanCodes/bragir",
+    "demo": "https://arjancodes.com",
+    "description": "CLI tool for translation and transcription of Video and Audio",
+    "language": "Python",
+    "topics": [],
+    "stars": 37,
+    "license": "MIT",
+    "last_push": "2025-01-29"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/whatsapp-clone",
+    "url": "https://github.com/burakorkmez/whatsapp-clone",
+    "demo": "https://youtu.be/sQ1zvdS8eU8",
+    "description": "WhatsApp but AI Powered",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 303,
+    "license": "MIT",
+    "last_push": "2024-06-03"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/leetcode-clone-youtube",
+    "url": "https://github.com/burakorkmez/leetcode-clone-youtube",
+    "demo": "https://www.youtube.com/watch?v=igqiduZR-Gg&t=5863s",
+    "description": "LeetCode Clone Tutorial | NextJS, TypeScript and Firebase",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 298,
+    "license": "MIT",
+    "last_push": "2024-05-31"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/react-admin-dashboard",
+    "url": "https://github.com/burakorkmez/react-admin-dashboard",
+    "demo": "https://react-admin-dashboard-seven-rho.vercel.app",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 255,
+    "license": "none (learn only)",
+    "last_push": "2026-02-16"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/x-clone-rn",
+    "url": "https://github.com/burakorkmez/x-clone-rn",
+    "demo": "https://x-clone-rn.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 167,
+    "license": "none (learn only)",
+    "last_push": "2025-06-30"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/snapchat-clone",
+    "url": "https://github.com/burakorkmez/snapchat-clone",
+    "demo": "https://www.youtube.com/watch?v=8c8nbc-5qpI&t=2427s&ab_channel=AsaProgrammer",
+    "description": "NextJS 14 Tutorial by Building a SnapChat App",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 33,
+    "license": "none (learn only)",
+    "last_push": "2024-01-23"
+  },
+  {
+    "creator": "As a Programmer (MERN, Next.js)",
+    "name": "burakorkmez/clerk_auth_components",
+    "url": "https://github.com/burakorkmez/clerk_auth_components",
+    "demo": "https://clerk-copypaste.vercel.app/",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 21,
+    "license": "none (learn only)",
+    "last_push": "2025-07-13"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Next.js-Developer-Portfolio-Starter-Code",
+    "url": "https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code",
+    "demo": "https://minimal-nextjs-portfolio-website.vercel.app/",
+    "description": "⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.",
+    "language": "CSS",
+    "topics": [
+      "framer-motion",
+      "framermotion",
+      "next-js",
+      "nextjs",
+      "nextjs-starter",
+      "nextjs-template",
+      "portfolio",
+      "portfolio-project",
+      "portfolio-template",
+      "portfolio-website",
+      "react",
+      "reactjs",
+      "ssg",
+      "tailwind-css",
+      "tailwindcss",
+      "website-development",
+      "website-template"
+    ],
+    "stars": 1356,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Nextjs-tailwindcss-blog-template",
+    "url": "https://github.com/codebucks27/Nextjs-tailwindcss-blog-template",
+    "demo": "https://create-blog-with-nextjs.vercel.app/",
+    "description": "⭐Build SEO optimized personal blog website with Next.js, Tailwind CSS and Contentlayer. If you want to learn to create this you can follow the tutorial link given in the Read me file.",
+    "language": "MDX",
+    "topics": [
+      "blog",
+      "blog-template",
+      "blog-theme",
+      "blog-website",
+      "contentlayer",
+      "markdown",
+      "nextjs",
+      "nextjs-blog",
+      "nextjs-contentlayer",
+      "nextjs-markdown-tailwind-blog",
+      "nextjs-tailwind",
+      "nextjs-template",
+      "nextjs13",
+      "tailwindcss"
+    ],
+    "stars": 758,
+    "license": "MIT",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/react-portfolio-final",
+    "url": "https://github.com/codebucks27/react-portfolio-final",
+    "demo": "https://react-portfolio-sigma.vercel.app/",
+    "description": "Build a Stunning portfolio with React JS and framer-motion. This portfolio is created using framer-motion for cool transitions and animation. If you want to learn how to create this portfolio then you can follow below tutorial link in the ReadMe",
+    "language": "JavaScript",
+    "topics": [
+      "beginner-project",
+      "framer-motion",
+      "frontend",
+      "javascript",
+      "portfolio",
+      "portfolio-website",
+      "react",
+      "reactjs",
+      "styled-components",
+      "webdesign",
+      "webdeveloper",
+      "webdevelopment"
+    ],
+    "stars": 468,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Next.js-Creative-Portfolio-Website",
+    "url": "https://github.com/codebucks27/Next.js-Creative-Portfolio-Website",
+    "demo": "https://next-js-creative-portfolio-website.vercel.app",
+    "description": "Interactive 3D Portfolio Website with Next.js, Three.js & Tailwind CSS | Checkout the tutorial link ⚡",
+    "language": "JavaScript",
+    "topics": [
+      "ai-images",
+      "emailjs",
+      "framer-motion",
+      "nextjs",
+      "portfolio",
+      "portfolio-website",
+      "react-hook-form",
+      "sonner",
+      "tailwindcss",
+      "threejs"
+    ],
+    "stars": 401,
+    "license": "MIT",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/wibe-studio",
+    "url": "https://github.com/codebucks27/wibe-studio",
+    "demo": "https://wibe-studio.netlify.app/",
+    "description": "Build a stunning Fashion Studio Website Landing page with React JS. This website is created using locomotive-scroll for smooth scrolling. Also, GSAP and Framer-Motion for some custom animations and effects. You can learn to make this website by visiting the tutorial link from the description.",
+    "language": "JavaScript",
+    "topics": [
+      "fashion",
+      "framer-motion",
+      "gsap",
+      "gsap-scrolltrigger",
+      "landing-page",
+      "locomotive-scroll",
+      "portfolio",
+      "portfolio-project",
+      "react",
+      "reactjs",
+      "styled-components",
+      "website",
+      "website-template"
+    ],
+    "stars": 250,
+    "license": "none (learn only)",
+    "last_push": "2026-10-26"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Agency-website",
+    "url": "https://github.com/codebucks27/Agency-website",
+    "demo": "https://agency-website-eta.vercel.app/",
+    "description": "Agency Landing Page. It is build on top of the React JS, with styled-components and GSAP for smooth scrolling animations. Create this awesome website in React by following the tutorial given in the readme file.",
+    "language": "JavaScript",
+    "topics": [
+      "gsap",
+      "parallax",
+      "parallax-scrolling",
+      "react",
+      "reactjs",
+      "responsive",
+      "styled-components",
+      "webdevelopment",
+      "website",
+      "youtube"
+    ],
+    "stars": 249,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Nextjs-contentlayer-blog",
+    "url": "https://github.com/codebucks27/Nextjs-contentlayer-blog",
+    "demo": "https://create-blog-with-nextjs.vercel.app/",
+    "description": "⭐Build SEO optimized personal blog website with Next.js, Tailwind CSS and Contentlayer. If you want to learn to create this you can follow the tutorial link given in the Read me file.",
+    "language": "MDX",
+    "topics": [
+      "blog",
+      "contentlayer",
+      "contentlayer-nextjs",
+      "markdown",
+      "nextjs",
+      "nextjs-13",
+      "nextjs-blog",
+      "nextjs-starter",
+      "nextjs-starter-blog",
+      "nextjs-template",
+      "nextjs13",
+      "tailwindcss",
+      "webdevelopment",
+      "website-template"
+    ],
+    "stars": 196,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files",
+    "url": "https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files",
+    "demo": "https://next-js-creative-portfolio-website.vercel.app/",
+    "description": "Interactive 3D Portfolio Website with Next.js, Three.js & Tailwind CSS | Checkout the tutorial link ⚡",
+    "language": "JavaScript",
+    "topics": [
+      "ai-images",
+      "emailjs",
+      "framer-motion",
+      "nextjs",
+      "portfolio",
+      "portfolio-website",
+      "react-hook-form",
+      "sonner",
+      "tailwindcss",
+      "threejs"
+    ],
+    "stars": 156,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/react-sidebar",
+    "url": "https://github.com/codebucks27/react-sidebar",
+    "demo": "https://react-sidebar.vercel.app/",
+    "description": "Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.",
+    "language": "JavaScript",
+    "topics": [
+      "framer-motion",
+      "navbar",
+      "navigation",
+      "pagetransition",
+      "react",
+      "react-router",
+      "reactjs",
+      "sidebar",
+      "sidebar-menu",
+      "sidebar-navigation"
+    ],
+    "stars": 127,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/React-Portfolio-starter-code-files",
+    "url": "https://github.com/codebucks27/React-Portfolio-starter-code-files",
+    "demo": "https://react-portfolio-sigma.vercel.app/",
+    "description": "Build a Stunning portfolio with React JS and framer-motion. This portfolio is created using framer-motion for cool transitions and animation. If you want to learn how to create this portfolio then you can follow below tutorial link in the ReadMe",
+    "language": "JavaScript",
+    "topics": [
+      "beginner-project",
+      "framer-motion",
+      "frontend",
+      "portfolio",
+      "portfolio-website",
+      "react",
+      "reactjs",
+      "styled-components",
+      "webdesign",
+      "webdeveloper",
+      "webdevelopment"
+    ],
+    "stars": 115,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/React-responsive-navbar",
+    "url": "https://github.com/codebucks27/React-responsive-navbar",
+    "demo": "https://react-responsive-navbar-codebucks27.vercel.app/",
+    "description": "Create responsive navbar with React Js. This navbar is responsive which means you can also use this in smaller devices like mobile / tablets. Follow the tutorial link given in the readme file to learn it.",
+    "language": "JavaScript",
+    "topics": [
+      "navbar",
+      "navbar-css",
+      "navigation",
+      "navigation-component",
+      "navigationbar",
+      "react",
+      "reactjs"
+    ],
+    "stars": 111,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/3D-Landing-page-for-Apple-iPhone",
+    "url": "https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone",
+    "demo": "https://apple-iphone14.netlify.app/",
+    "description": "Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link given in the ReadMe.",
+    "language": "JavaScript",
+    "topics": [
+      "animation-css",
+      "gsap",
+      "landing-page",
+      "react",
+      "reactjs",
+      "rendering-3d-graphics",
+      "scrolltrigger",
+      "threejs",
+      "threejs-example",
+      "threejs-template",
+      "webapp",
+      "website-template"
+    ],
+    "stars": 110,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/React-Redux-Todo-App",
+    "url": "https://github.com/codebucks27/React-Redux-Todo-App",
+    "demo": "https://react-redux-todo-app-git-main-codebucks27.vercel.app/",
+    "description": "Build a CRUD application with React and Redux. Use Redux toolkit to build this todo app with cool animations using framer-motion. If you want to learn it then you can follow the tutorial given in the readme file.",
+    "language": "JavaScript",
+    "topics": [
+      "crud",
+      "crud-application",
+      "react",
+      "react-redux",
+      "reactjs",
+      "redux",
+      "redux-actions",
+      "redux-store",
+      "redux-toolkit",
+      "todo",
+      "todo-app",
+      "todo-list",
+      "todoapp",
+      "todolist"
+    ],
+    "stars": 88,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/wibe-studio-starter-files",
+    "url": "https://github.com/codebucks27/wibe-studio-starter-files",
+    "demo": "https://wibe-studio.netlify.app/",
+    "description": "Build a stunning Fashion Studio Website Landing page with React JS. This website is created using locomotive-scroll for smooth scrolling. Also, GSAP and Framer-Motion for some custom animations and effects. You can learn to make this website by visiting the tutorial link from the description.",
+    "language": "JavaScript",
+    "topics": [
+      "fashion",
+      "framer-motion",
+      "gsap",
+      "gsap-scrolltrigger",
+      "landing-page",
+      "locomotive-scroll",
+      "portfolio",
+      "portfolio-project",
+      "react",
+      "reactjs",
+      "styled-components",
+      "website",
+      "website-template"
+    ],
+    "stars": 87,
+    "license": "none (learn only)",
+    "last_push": "2026-10-26"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/Smooth-Scroll-Next.js",
+    "url": "https://github.com/codebucks27/Smooth-Scroll-Next.js",
+    "demo": "https://smooth-scroll-next-js.vercel.app",
+    "description": "Implement smooth scrolling in Next.js with the help of Lenis scroll and add parallax effect using GSAP.",
+    "language": "JavaScript",
+    "topics": [
+      "gsap",
+      "gsap-scrolltrigger",
+      "gsap3",
+      "lenis",
+      "nextjs",
+      "parallax",
+      "parallax-effect",
+      "parallax-scrolling",
+      "smooth-scroll",
+      "smooth-scrolling"
+    ],
+    "stars": 70,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/devto-clone",
+    "url": "https://github.com/codebucks27/devto-clone",
+    "demo": "https://devto-clone-codebucks27.vercel.app/",
+    "description": "build a Clone with React. Create this awesome devto clone with React using styled-components. Learn to fetch API and render different articles of dev.to",
+    "language": "JavaScript",
+    "topics": [
+      "api",
+      "clone",
+      "dev-to",
+      "devcommunity",
+      "devto",
+      "fetch",
+      "fetch-api",
+      "react",
+      "reactjs"
+    ],
+    "stars": 61,
+    "license": "none (learn only)",
+    "last_push": "2026-10-05"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/CryptoBucks-Final-Code",
+    "url": "https://github.com/codebucks27/CryptoBucks-Final-Code",
+    "demo": "https://crypto-bucks.netlify.app/",
+    "description": "⭐Build Feature Rich Crypto Screener App with React JS and Tailwind CSS. This App is created with context API, react-router and Cryptocurrency APIs. If you want to learn to create this you can follow the tutorial link given in the Read me file.  crypto-",
+    "language": "JavaScript",
+    "topics": [
+      "context-api",
+      "cryptocurrency",
+      "cryptocurrency-price-ticker",
+      "cryptocurrency-website",
+      "react",
+      "react-hooks",
+      "react-router",
+      "reactjs",
+      "tailwind-css",
+      "tailwindcss",
+      "web-application",
+      "webapp",
+      "webdevelopment",
+      "website-design",
+      "website-template"
+    ],
+    "stars": 58,
+    "license": "none (learn only)",
+    "last_push": "2026-10-04"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/CryptoBucks-A-crypto-screener-application",
+    "url": "https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application",
+    "demo": "https://crypto-bucks.netlify.app/",
+    "description": "⭐Build Feature Rich Crypto Screener App with React JS and Tailwind CSS. This App is created with context API, react-router and Cryptocurrency APIs. If you want to learn to create this you can follow the tutorial link given in the Read me file.",
+    "language": "JavaScript",
+    "topics": [
+      "context-api",
+      "crypto-screener",
+      "cryptocurrency",
+      "dashboard",
+      "intl",
+      "react",
+      "react-hooks",
+      "react-router",
+      "react-router-dom",
+      "reactjs",
+      "recharts",
+      "tailwind-css",
+      "tailwindcss",
+      "website-development"
+    ],
+    "stars": 42,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/react-job-listing-website",
+    "url": "https://github.com/codebucks27/react-job-listing-website",
+    "demo": "https://react-job-listing-website.vercel.app/",
+    "description": "Create Job listing website in React with functionalities like searching, sorting and filtering.",
+    "language": "JavaScript",
+    "topics": [
+      "filter",
+      "react",
+      "reactjs",
+      "search",
+      "sorting",
+      "styled-components",
+      "website"
+    ],
+    "stars": 41,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/AI-Powered-Twitter-Bio-Generator",
+    "url": "https://github.com/codebucks27/AI-Powered-Twitter-Bio-Generator",
+    "demo": "https://ai-powered-twitter-bio-generator.vercel.app",
+    "description": "AI powered twitter Bio Generator built Using Next.js and Groq | Shadcn | Llama 3",
+    "language": "TypeScript",
+    "topics": [
+      "ai-applications",
+      "bio-generator",
+      "genai",
+      "generative-ai",
+      "groq-ai",
+      "llm-application",
+      "llm-apps",
+      "magic-ui",
+      "nextjs",
+      "shadcn-ui",
+      "vercel-ai-sdk"
+    ],
+    "stars": 33,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "CodeBucks (React, Next.js UI)",
+    "name": "codebucks27/nextjs-portfolio-starter-template",
+    "url": "https://github.com/codebucks27/nextjs-portfolio-starter-template",
+    "demo": "https://nextjs-developer-portfolio-eta.vercel.app",
+    "description": "Modern editorial style developer portfolio built with Next.js 16, Tailwind CSS v4 & Motion.",
+    "language": "TypeScript",
+    "topics": [
+      "developer-portfolio",
+      "framer-motion",
+      "nextjs",
+      "portfolio",
+      "portfolio-project",
+      "portfolio-website",
+      "reactjs",
+      "tailwindcss"
+    ],
+    "stars": 9,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "Coding Addict (React projects)",
+    "name": "john-smilga/nextjs-course-openai",
+    "url": "https://github.com/john-smilga/nextjs-course-openai",
+    "demo": "https://johnsmilga.com/",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 160,
+    "license": "none (learn only)",
+    "last_push": "2024-11-15"
+  },
+  {
+    "creator": "Coding Garden (full-stack)",
+    "name": "CodingGarden/mac-setup",
+    "url": "https://github.com/CodingGarden/mac-setup",
+    "demo": "https://www.youtube.com/watch?v=GK7zLYAXdDs",
+    "description": "This repo contains info on all the apps / tools / settings I use on my Mac.",
+    "language": "",
+    "topics": [],
+    "stars": 583,
+    "license": "none (learn only)",
+    "last_push": "2024-08-15"
+  },
+  {
+    "creator": "Coding Garden (full-stack)",
+    "name": "CodingGarden/listd",
+    "url": "https://github.com/CodingGarden/listd",
+    "demo": "https://twitch.tv/codinggarden",
+    "description": "listd is a Full Stack App that will allow users to create, share and watch lists of YouTube channels. This app is being built LIVE on Twitch https://twitch.tv/codinggarden",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 193,
+    "license": "MIT",
+    "last_push": "2024-04-11"
+  },
+  {
+    "creator": "Coding Garden (full-stack)",
+    "name": "CodingGarden/coding.garden",
+    "url": "https://github.com/CodingGarden/coding.garden",
+    "demo": "https://coding.garden",
+    "description": "The Coding Garden website.",
+    "language": "Svelte",
+    "topics": [],
+    "stars": 10,
+    "license": "MIT",
+    "last_push": "2024-06-14"
+  },
+  {
+    "creator": "Dave Gray (JS, React, Next.js)",
+    "name": "gitdagray/comp-repair-shop",
+    "url": "https://github.com/gitdagray/comp-repair-shop",
+    "demo": "https://comp-repair-shop.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 24,
+    "license": "none (learn only)",
+    "last_push": "2025-04-14"
+  },
+  {
+    "creator": "Dave Gray (JS, React, Next.js)",
+    "name": "gitdagray/nextjs-data-fetching",
+    "url": "https://github.com/gitdagray/nextjs-data-fetching",
+    "demo": "https://nextjs-data-fetching-six.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 8,
+    "license": "none (learn only)",
+    "last_push": "2024-04-02"
+  },
+  {
+    "creator": "EdRoh (full-stack dashboards)",
+    "name": "ed-roh/learning-management",
+    "url": "https://github.com/ed-roh/learning-management",
+    "demo": "https://learning-management-blush.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 226,
+    "license": "none (learn only)",
+    "last_push": "2024-11-14"
+  },
+  {
+    "creator": "Florin Pop (frontend projects)",
+    "name": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "demo": "https://CodeRabbit.ai/?ref=app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "",
+    "topics": [
+      "applications",
+      "coding",
+      "codingchallenges",
+      "css",
+      "hacktoberfest",
+      "html",
+      "ideas",
+      "javascript",
+      "practice"
+    ],
+    "stars": 98707,
+    "license": "MIT",
+    "last_push": "2025-10-11"
+  },
+  {
+    "creator": "Florin Pop (frontend projects)",
+    "name": "florinpop17/trading_game_2",
+    "url": "https://github.com/florinpop17/trading_game_2",
+    "demo": "https://tradegame-xi.vercel.app",
+    "description": "",
+    "language": "HTML",
+    "topics": [],
+    "stars": 7,
+    "license": "none (learn only)",
+    "last_push": "2025-09-23"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/apihub",
+    "url": "https://github.com/hiteshchoudhary/apihub",
+    "demo": "https://freeapi.app",
+    "description": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
+    "language": "JavaScript",
+    "topics": [
+      "api",
+      "backend",
+      "backend-api",
+      "frontend",
+      "mobile-development"
+    ],
+    "stars": 9870,
+    "license": "none (learn only)",
+    "last_push": "2026-10-26"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/nextjs-fullstack-auth",
+    "url": "https://github.com/hiteshchoudhary/nextjs-fullstack-auth",
+    "demo": "https://nextjs-fullstack-auth.vercel.app",
+    "description": "nextjs-fullstack-auth course on youtube",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 652,
+    "license": "none (learn only)",
+    "last_push": "2024-07-02"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/ama-app",
+    "url": "https://github.com/hiteshchoudhary/ama-app",
+    "demo": "https://truefeedback.in",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 503,
+    "license": "none (learn only)",
+    "last_push": "2024-06-29"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/freeApiAppWeb",
+    "url": "https://github.com/hiteshchoudhary/freeApiAppWeb",
+    "demo": "https://freeapi.app",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 267,
+    "license": "none (learn only)",
+    "last_push": "2026-10-26"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/appwriteblog",
+    "url": "https://github.com/hiteshchoudhary/appwriteblog",
+    "demo": "https://appwriteblog.vercel.app",
+    "description": "A sample application to deploy appwrite blog",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 218,
+    "license": "none (learn only)",
+    "last_push": "2024-03-30"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/dom-project-chaiaurcode",
+    "url": "https://github.com/hiteshchoudhary/dom-project-chaiaurcode",
+    "demo": "https://stackblitz.com/edit/dom-project-chaiaurcode",
+    "description": "Created with StackBlitz ⚡️",
+    "language": "HTML",
+    "topics": [],
+    "stars": 195,
+    "license": "none (learn only)",
+    "last_push": "2023-12-14"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/getHelloWorldweb",
+    "url": "https://github.com/hiteshchoudhary/getHelloWorldweb",
+    "demo": "https://get-hello-worldweb.vercel.app",
+    "description": "A web app to connect people on internet",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 97,
+    "license": "none (learn only)",
+    "last_push": "2024-02-27"
+  },
+  {
+    "creator": "Hitesh Choudhary (JS, backend)",
+    "name": "hiteshchoudhary/theoven",
+    "url": "https://github.com/hiteshchoudhary/theoven",
+    "demo": "https://theoven.app",
+    "description": "A modern bun framework that is easy and AI first",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 76,
+    "license": "MIT",
+    "last_push": "2026-08-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_3D_developer_portfolio",
+    "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
+    "demo": "https://jsmastery.pro",
+    "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!",
+    "language": "JavaScript",
+    "topics": [
+      "3d",
+      "reactjs",
+      "threejs"
+    ],
+    "stars": 7132,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_mern_memories",
+    "url": "https://github.com/adrianhajdin/project_mern_memories",
+    "demo": "https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu",
+    "description": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    "language": "JavaScript",
+    "topics": [
+      "expressjs",
+      "mongodb",
+      "nodejs",
+      "reactjs",
+      "redux"
+    ],
+    "stars": 5119,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "demo": "https://www.jsmastery.pro",
+    "description": "This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application",
+    "language": "JavaScript",
+    "topics": [
+      "smart-contracts",
+      "solidity",
+      "web3"
+    ],
+    "stars": 4242,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_chat_application",
+    "url": "https://github.com/adrianhajdin/project_chat_application",
+    "demo": "https://www.jsmastery.pro",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, Node.js, Express.js, and Socket.io.",
+    "language": "JavaScript",
+    "topics": [
+      "react",
+      "react-hooks",
+      "react-project",
+      "reactjs"
+    ],
+    "stars": 4127,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_modern_ui_ux_gpt3",
+    "url": "https://github.com/adrianhajdin/project_modern_ui_ux_gpt3",
+    "demo": "https://gpt3-jsm.com",
+    "description": "Master the creation of Modern UX/UI Websites",
+    "language": "CSS",
+    "topics": [
+      "css",
+      "react",
+      "ui",
+      "ux"
+    ],
+    "stars": 3842,
+    "license": "none (learn only)",
+    "last_push": "2024-05-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/portfolio",
+    "url": "https://github.com/adrianhajdin/portfolio",
+    "demo": "https://minimal-portfolio-swart.vercel.app",
+    "description": "Modern & Minimal JS Mastery Portfolio",
+    "language": "TypeScript",
+    "topics": [
+      "aceternity",
+      "nextjs"
+    ],
+    "stars": 3660,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/portfolio_website",
+    "url": "https://github.com/adrianhajdin/portfolio_website",
+    "demo": "https://www.jsmastery.pro",
+    "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
+    "language": "JavaScript",
+    "topics": [
+      "javascript",
+      "portfolio",
+      "portfolio-website",
+      "react",
+      "reactjs"
+    ],
+    "stars": 3486,
+    "license": "none (learn only)",
+    "last_push": "2024-07-18"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/banking",
+    "url": "https://github.com/adrianhajdin/banking",
+    "demo": "https://banking-jet.vercel.app",
+    "description": "Horizon is a modern banking platform for everyone.",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs14"
+    ],
+    "stars": 3250,
+    "license": "MIT",
+    "last_push": "2026-02-17"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_syncfusion_dashboard",
+    "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
+    "demo": "https://jsmastery.pro",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
+    "language": "JavaScript",
+    "topics": [
+      "react",
+      "reactjs",
+      "syncfusion",
+      "syncfusion-ej2"
+    ],
+    "stars": 3119,
+    "license": "AGPL-3.0",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_next_14_ai_prompt_sharing",
+    "url": "https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing",
+    "demo": "https://www.jsmastery.pro/ultimate-next-course",
+    "description": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.",
+    "language": "JavaScript",
+    "topics": [
+      "next14",
+      "nextjs",
+      "nextjs14"
+    ],
+    "stars": 2956,
+    "license": "none (learn only)",
+    "last_push": "2024-06-30"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/healthcare",
+    "url": "https://github.com/adrianhajdin/healthcare",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.",
+    "language": "TypeScript",
+    "topics": [
+      "appwrite",
+      "nextjs",
+      "tailwindcss",
+      "twilio"
+    ],
+    "stars": 2710,
+    "license": "none (learn only)",
+    "last_push": "2024-07-22"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "demo": "https://www.jsmastery.pro",
+    "description": "Modern UI/UX website using React.js & Tailwind CSS",
+    "language": "JavaScript",
+    "topics": [
+      "react",
+      "reactjs",
+      "tailwind",
+      "tailwindcss"
+    ],
+    "stars": 2613,
+    "license": "none (learn only)",
+    "last_push": "2024-07-01"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/aora",
+    "url": "https://github.com/adrianhajdin/aora",
+    "demo": "https://jsmastery.pro",
+    "description": "Build your first mobile application",
+    "language": "JavaScript",
+    "topics": [
+      "expo",
+      "nativewind",
+      "react-native"
+    ],
+    "stars": 2366,
+    "license": "none (learn only)",
+    "last_push": "2024-06-24"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/ecommerce_sanity_stripe",
+    "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe",
+    "demo": "https://jsmastery.pro",
+    "description": "Modern Full Stack ECommerce Application with Stripe",
+    "language": "JavaScript",
+    "topics": [
+      "ecommerce",
+      "ecommerce-application",
+      "nextjs",
+      "react",
+      "sanity",
+      "sanity-io",
+      "stripe",
+      "stripe-api"
+    ],
+    "stars": 2314,
+    "license": "none (learn only)",
+    "last_push": "2024-03-05"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/uber",
+    "url": "https://github.com/adrianhajdin/uber",
+    "demo": "https://www.jsmastery.pro/",
+    "description": "Build a full-stack Uber Clone Application with Expo’s latest features and lightning-fast edge-ready Postgres database in React Native.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "neondb",
+      "reactnative",
+      "uber-clone"
+    ],
+    "stars": 2212,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_professional_portfolio",
+    "url": "https://github.com/adrianhajdin/project_professional_portfolio",
+    "demo": "https://jsmastery.pro",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity",
+    "language": "JavaScript",
+    "topics": [
+      "framer-motion",
+      "reactjs",
+      "sanity-io"
+    ],
+    "stars": 2088,
+    "license": "none (learn only)",
+    "last_push": "2024-05-03"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_next13_car_showcase",
+    "url": "https://github.com/adrianhajdin/project_next13_car_showcase",
+    "demo": "https://jsmastery.pro",
+    "description": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+    "language": "TypeScript",
+    "topics": [
+      "next13",
+      "next13app",
+      "nextjs",
+      "nextjs13"
+    ],
+    "stars": 1876,
+    "license": "none (learn only)",
+    "last_push": "2024-07-02"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/react-movies",
+    "url": "https://github.com/adrianhajdin/react-movies",
+    "demo": "https://jsmastery.pro",
+    "description": "Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!",
+    "language": "JavaScript",
+    "topics": [
+      "react19",
+      "reactjs",
+      "tailwindcss-v4"
+    ],
+    "stars": 1845,
+    "license": "none (learn only)",
+    "last_push": "2025-06-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_shareme_social_media",
+    "url": "https://github.com/adrianhajdin/project_shareme_social_media",
+    "demo": "https://share-me-sanity.netlify.app/",
+    "description": "Image Sharing Social Media App",
+    "language": "JavaScript",
+    "topics": [
+      "react",
+      "reactjs",
+      "sanity",
+      "sanity-io"
+    ],
+    "stars": 1727,
+    "license": "none (learn only)",
+    "last_push": "2023-12-21"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/iphone",
+    "url": "https://github.com/adrianhajdin/iphone",
+    "demo": "https://iphone-doc.vercel.app/",
+    "description": "Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.",
+    "language": "JavaScript",
+    "topics": [
+      "gsap",
+      "reactjs",
+      "threejs"
+    ],
+    "stars": 1662,
+    "license": "none (learn only)",
+    "last_push": "2024-07-12"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/social_media_app",
+    "url": "https://github.com/adrianhajdin/social_media_app",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
+    "language": "TypeScript",
+    "topics": [
+      "appwrite",
+      "react",
+      "reactjs"
+    ],
+    "stars": 1493,
+    "license": "none (learn only)",
+    "last_push": "2024-06-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/nike_landing_page",
+    "url": "https://github.com/adrianhajdin/nike_landing_page",
+    "demo": "https://jsmastery.pro",
+    "description": "Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.",
+    "language": "JavaScript",
+    "topics": [
+      "nike",
+      "nike-website",
+      "tailwind",
+      "tailwindcss"
+    ],
+    "stars": 1489,
+    "license": "none (learn only)",
+    "last_push": "2024-05-19"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_modern_ui_ux_restaurant",
+    "url": "https://github.com/adrianhajdin/project_modern_ui_ux_restaurant",
+    "demo": "https://jsmastery.pro",
+    "description": "This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website",
+    "language": "JavaScript",
+    "topics": [
+      "modern",
+      "react",
+      "reactjs",
+      "ui",
+      "ux"
+    ],
+    "stars": 1465,
+    "license": "none (learn only)",
+    "last_push": "2024-05-09"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_youtube_clone",
+    "url": "https://github.com/adrianhajdin/project_youtube_clone",
+    "demo": "https://jsmastery.pro",
+    "description": "Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5",
+    "language": "JavaScript",
+    "topics": [
+      "materialui",
+      "mui",
+      "rapidapi",
+      "reactjs"
+    ],
+    "stars": 1465,
+    "license": "none (learn only)",
+    "last_push": "2024-05-07"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_openai_codex",
+    "url": "https://github.com/adrianhajdin/project_openai_codex",
+    "demo": "https://jsmastery.pro",
+    "description": "Build and Deploy Your Own ChatGPT AI Application That Will Help You Code",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "chatgpt"
+    ],
+    "stars": 1417,
+    "license": "none (learn only)",
+    "last_push": "2024-04-16"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/ai_saas_app",
+    "url": "https://github.com/adrianhajdin/ai_saas_app",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "cloudinary",
+      "next14",
+      "nextjs",
+      "saas"
+    ],
+    "stars": 1366,
+    "license": "none (learn only)",
+    "last_push": "2024-07-23"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_cryptoverse",
+    "url": "https://github.com/adrianhajdin/project_cryptoverse",
+    "demo": "https://jsmastery.pro",
+    "description": "Cryptocurrency App powered by RapidAPI",
+    "language": "JavaScript",
+    "topics": [
+      "api",
+      "rapidapi",
+      "react",
+      "reactjs"
+    ],
+    "stars": 1360,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/projects_realestate",
+    "url": "https://github.com/adrianhajdin/projects_realestate",
+    "demo": "https://jsmastery.pro",
+    "description": "Build and Deploy a Real Estate React & Next.js Application",
+    "language": "JavaScript",
+    "topics": [
+      "chakra-ui",
+      "nextjs",
+      "reactjs"
+    ],
+    "stars": 1325,
+    "license": "none (learn only)",
+    "last_push": "2024-05-25"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/figma_clone",
+    "url": "https://github.com/adrianhajdin/figma_clone",
+    "demo": "https://jsmastery.pro",
+    "description": "Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript",
+    "language": "TypeScript",
+    "topics": [
+      "figma",
+      "liveblocks",
+      "nextjs14"
+    ],
+    "stars": 1266,
+    "license": "none (learn only)",
+    "last_push": "2024-04-04"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/chat_application",
+    "url": "https://github.com/adrianhajdin/chat_application",
+    "demo": "https://jsmastery.pro",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a real-time chat application. Covered topics: React.js, Socket.io.",
+    "language": "JavaScript",
+    "topics": [
+      "react",
+      "react-hooks",
+      "react-project",
+      "reactjs"
+    ],
+    "stars": 1209,
+    "license": "none (learn only)",
+    "last_push": "2024-07-18"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_fitness_app",
+    "url": "https://github.com/adrianhajdin/project_fitness_app",
+    "demo": "https://jsmastery.pro",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [
+      "react"
+    ],
+    "stars": 1180,
+    "license": "none (learn only)",
+    "last_push": "2024-06-23"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/zoom-clone",
+    "url": "https://github.com/adrianhajdin/zoom-clone",
+    "demo": "https://jsmastery.pro",
+    "description": "Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "getstream-io",
+      "nextjs",
+      "reactjs"
+    ],
+    "stars": 1154,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_music_player",
+    "url": "https://github.com/adrianhajdin/project_music_player",
+    "demo": "https://jsmastery.pro",
+    "description": "Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.",
+    "language": "JavaScript",
+    "topics": [
+      "javascript",
+      "rapidapi",
+      "reactjs",
+      "tailwindcss"
+    ],
+    "stars": 1070,
+    "license": "none (learn only)",
+    "last_push": "2024-02-02"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/threejs-portfolio",
+    "url": "https://github.com/adrianhajdin/threejs-portfolio",
+    "demo": "https://threejscc-portfolio.vercel.app/",
+    "description": "Learn how to build 3D websites from scratch with the Three.js Crash Course. It's a fun and practical way to create a portfolio that really pops!",
+    "language": "JavaScript",
+    "topics": [
+      "portfolio",
+      "react-three-drei",
+      "react-three-fiber",
+      "threejs"
+    ],
+    "stars": 1039,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_threejs_ai",
+    "url": "https://github.com/adrianhajdin/project_threejs_ai",
+    "demo": "https://jsmastery.pro",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [
+      "reactjs"
+    ],
+    "stars": 979,
+    "license": "none (learn only)",
+    "last_push": "2024-02-02"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/event_platform",
+    "url": "https://github.com/adrianhajdin/event_platform",
+    "demo": "https://event-platform-4yc7.vercel.app/",
+    "description": "Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "next14",
+      "server-actions"
+    ],
+    "stars": 960,
+    "license": "none (learn only)",
+    "last_push": "2024-07-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/yc_directory",
+    "url": "https://github.com/adrianhajdin/yc_directory",
+    "demo": "https://yc-directory.vercel.app",
+    "description": "This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissions, Unstable After for background tasks, Server Component HMR Cache for faster development, and Partial Prerendering for performance optimization.",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs",
+      "nextjs15",
+      "react19"
+    ],
+    "stars": 936,
+    "license": "none (learn only)",
+    "last_push": "2024-10-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/travel_ui_ux",
+    "url": "https://github.com/adrianhajdin/travel_ui_ux",
+    "demo": "https://camptraveler.com",
+    "description": "Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs13",
+      "reactjs",
+      "tailwindcss"
+    ],
+    "stars": 867,
+    "license": "none (learn only)",
+    "last_push": "2024-03-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_metaverse",
+    "url": "https://github.com/adrianhajdin/project_metaverse",
+    "demo": "https://jsmastery.pro",
+    "description": "Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS",
+    "language": "JavaScript",
+    "topics": [
+      "react"
+    ],
+    "stars": 854,
+    "license": "none (learn only)",
+    "last_push": "2024-02-24"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/react-native-movie-app",
+    "url": "https://github.com/adrianhajdin/react-native-movie-app",
+    "demo": "https://jsmastery.pro",
+    "description": "Get hands-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essential skills for mobile development along the way.",
+    "language": "TypeScript",
+    "topics": [
+      "expo",
+      "react-native"
+    ],
+    "stars": 789,
+    "license": "none (learn only)",
+    "last_push": "2025-08-07"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_crowdfunding",
+    "url": "https://github.com/adrianhajdin/project_crowdfunding",
+    "demo": "https://jsmastery.pro",
+    "description": "With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, and writing solidity code.",
+    "language": "JavaScript",
+    "topics": [
+      "blockchain",
+      "solidity",
+      "thirdweb",
+      "web3"
+    ],
+    "stars": 781,
+    "license": "none (learn only)",
+    "last_push": "2024-06-22"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/docker-course",
+    "url": "https://github.com/adrianhajdin/docker-course",
+    "demo": "https://jsmastery.pro",
+    "description": "Full Modern Docker Course",
+    "language": "JavaScript",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "docker-container",
+      "docker-image",
+      "dockerfile"
+    ],
+    "stars": 728,
+    "license": "none (learn only)",
+    "last_push": "2024-01-05"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/react_native-restate",
+    "url": "https://github.com/adrianhajdin/react_native-restate",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a full-stack Real Estate app from scratch with Google Authentication, dynamic routing, and more. Master essential skills for scalable and clean React Native development.",
+    "language": "TypeScript",
+    "topics": [
+      "expo",
+      "react-native"
+    ],
+    "stars": 677,
+    "license": "none (learn only)",
+    "last_push": "2025-08-07"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/3d-portfolio",
+    "url": "https://github.com/adrianhajdin/3d-portfolio",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a visually captivating 3D portfolio with React.js and Three.js! Learn to combine interactive 3D graphics and smooth web performance to showcase your skills in an engaging way.",
+    "language": "JavaScript",
+    "topics": [
+      "3d-portfolio",
+      "react-three-fiber",
+      "reactjs",
+      "threejs"
+    ],
+    "stars": 658,
+    "license": "none (learn only)",
+    "last_push": "2025-04-11"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_nextjs13_flexibble",
+    "url": "https://github.com/adrianhajdin/project_nextjs13_flexibble",
+    "demo": "https://jsmastery.pro",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs"
+    ],
+    "stars": 654,
+    "license": "none (learn only)",
+    "last_push": "2023-12-28"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/pricewise",
+    "url": "https://github.com/adrianhajdin/pricewise",
+    "demo": "https://pricewise-jsm.vercel.app",
+    "description": "Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.",
+    "language": "TypeScript",
+    "topics": [
+      "scraping",
+      "webscraping"
+    ],
+    "stars": 634,
+    "license": "none (learn only)",
+    "last_push": "2024-07-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/stack_overflow_nextjs14",
+    "url": "https://github.com/adrianhajdin/stack_overflow_nextjs14",
+    "demo": "https://devflow-rose.vercel.app/",
+    "description": "Ultimate Next.js 14 Course",
+    "language": "TypeScript",
+    "topics": [
+      "next14",
+      "nextjs"
+    ],
+    "stars": 597,
+    "license": "none (learn only)",
+    "last_push": "2026-11-12"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/ai_mock_interviews",
+    "url": "https://github.com/adrianhajdin/ai_mock_interviews",
+    "demo": "https://beta.jsmastery.pro",
+    "description": "Ready to master your job interviews? Join us as we build a real-time AI-driven mock interview platform with Next.js and Vapi AI, offering personalized prep sessions just for you.",
+    "language": "TypeScript",
+    "topics": [
+      "next15",
+      "nextjs",
+      "vapi"
+    ],
+    "stars": 576,
+    "license": "none (learn only)",
+    "last_push": "2025-03-29"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/university-library-jsm",
+    "url": "https://github.com/adrianhajdin/university-library-jsm",
+    "demo": "https://university-library-jsm.vercel.app",
+    "description": "Learn to build a production-grade University Library Management System with industry-standard practices; from rate-limiting, DDoS protection, caching, optimizations, multi-media uploads, complex db queries, and advanced error handling to automated workflows with custom notifications.",
+    "language": "TypeScript",
+    "topics": [
+      "authjs",
+      "nextjs",
+      "upstash"
+    ],
+    "stars": 559,
+    "license": "none (learn only)",
+    "last_push": "2025-01-11"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/project_ai_summarizer",
+    "url": "https://github.com/adrianhajdin/project_ai_summarizer",
+    "demo": "https://jsmastery.pro",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 522,
+    "license": "none (learn only)",
+    "last_push": "2023-12-30"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/storage_management_solution",
+    "url": "https://github.com/adrianhajdin/storage_management_solution",
+    "demo": "https://storage-management-solution.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 516,
+    "license": "none (learn only)",
+    "last_push": "2025-06-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/signalist_stock-tracker-app",
+    "url": "https://github.com/adrianhajdin/signalist_stock-tracker-app",
+    "demo": "https://jsmastery.com",
+    "description": "Stock Market app built with Next.js, Shadcn, Better Auth, and Inngest. Track prices, set alerts, explore insights, manage watchlists, and automate workflows for notifications and analytics.",
+    "language": "TypeScript",
+    "topics": [
+      "better-auth",
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "nextjs15",
+      "nodemailer",
+      "tailwidncss"
+    ],
+    "stars": 486,
+    "license": "none (learn only)",
+    "last_push": "2025-09-24"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/saas-app",
+    "url": "https://github.com/adrianhajdin/saas-app",
+    "demo": "https://jsmastery.com",
+    "description": "LMS SaaS app featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe — also integrates Vapi AI voice agent for seamless, interactive learning sessions.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "nextjs",
+      "nextjs15",
+      "sentry",
+      "shadcn",
+      "shadcn-ui",
+      "stripe",
+      "supabase",
+      "tailwind",
+      "tailwindcss",
+      "typescript",
+      "vapi",
+      "vapi-ai"
+    ],
+    "stars": 447,
+    "license": "none (learn only)",
+    "last_push": "2025-05-23"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/subscription-tracker-api",
+    "url": "https://github.com/adrianhajdin/subscription-tracker-api",
+    "demo": "https://jsmastery.pro",
+    "description": "Skip the basic CRUD—this Backend Crash Course is all about building a production-ready Subscription Management System with real users, real money, and real business logic. You'll learn JWT authentication, database modeling, API architecture, security, automated workflows, and much more!",
+    "language": "JavaScript",
+    "topics": [
+      "api",
+      "backend",
+      "javascript",
+      "nodejs"
+    ],
+    "stars": 438,
+    "license": "none (learn only)",
+    "last_push": "2025-02-08"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/gsap_cocktails",
+    "url": "https://github.com/adrianhajdin/gsap_cocktails",
+    "demo": "https://gsap-cocktails.vercel.app",
+    "description": "A modern cocktail website built with React and TailwindCSS, featuring smooth GSAP animations such as SplitText reveals, scroll-triggered effects, parallax scrolling, and a custom carousel.",
+    "language": "JavaScript",
+    "topics": [
+      "design",
+      "gsap",
+      "react",
+      "react19",
+      "tailwind",
+      "tailwindcss",
+      "ui",
+      "vite"
+    ],
+    "stars": 388,
+    "license": "none (learn only)",
+    "last_push": "2025-06-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/roomify",
+    "url": "https://github.com/adrianhajdin/roomify",
+    "demo": "https://jsmastery.com",
+    "description": "AI-powered architectural visualization platform built with React and Puter; featuring 2D-to-3D photorealistic rendering, serverless workers, high-performance KV storage, and a global community feed.",
+    "language": "TypeScript",
+    "topics": [
+      "coderabbit",
+      "puter",
+      "react19",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ],
+    "stars": 380,
+    "license": "none (learn only)",
+    "last_push": "2026-02-13"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/ghost-ai",
+    "url": "https://github.com/adrianhajdin/ghost-ai",
+    "demo": "https://jsmastery.com",
+    "description": "Ghost AI is an interactive systems architecture builder.",
+    "language": "JavaScript",
+    "topics": [
+      "clerk",
+      "coderabbit",
+      "liveblocks",
+      "nextjs",
+      "react",
+      "triggerdev"
+    ],
+    "stars": 360,
+    "license": "none (learn only)",
+    "last_push": "2026-05-01"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/jsmasterypro_devflow",
+    "url": "https://github.com/adrianhajdin/jsmasterypro_devflow",
+    "demo": "https://www.jsmastery.pro/next15",
+    "description": "Codebase for the Ultimate Next.js Course",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs",
+      "nextjs15",
+      "react19"
+    ],
+    "stars": 354,
+    "license": "none (learn only)",
+    "last_push": "2025-07-10"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/travel-agency-dashboard",
+    "url": "https://github.com/adrianhajdin/travel-agency-dashboard",
+    "demo": "https://jsmastery.pro",
+    "description": "Build a dynamic travel dashboard with React, React Router v7, Syncfusion,  Appwrite, and Gemini AI! Master authentication, create interactive charts, and integrate Gemini AI for outstanding features.",
+    "language": "TypeScript",
+    "topics": [
+      "dashboard",
+      "react",
+      "react-router-v7"
+    ],
+    "stars": 231,
+    "license": "none (learn only)",
+    "last_push": "2025-06-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/gsap_macbook_landing",
+    "url": "https://github.com/adrianhajdin/gsap_macbook_landing",
+    "demo": "https://jsmastery.com",
+    "description": "Apple-style website built with React, Three.js, GSAP, and TailwindCSS. Create immersive 3D product scenes with realistic lighting, scroll-triggered animations, masking effects and smooth animations.",
+    "language": "JavaScript",
+    "topics": [
+      "3d",
+      "gsap",
+      "react19",
+      "tailwindcss",
+      "threejs"
+    ],
+    "stars": 218,
+    "license": "none (learn only)",
+    "last_push": "2025-10-07"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/jsm_gta_vi_landing",
+    "url": "https://github.com/adrianhajdin/jsm_gta_vi_landing",
+    "demo": "https://jsm-gta-vi-landing.vercel.app",
+    "description": "GTA VI Website Clone built with React, Tailwind & GSAP. Scroll-driven cinematic experience with pinned sections, synced video, parallax, and image masking, all fully responsive and animation-rich.",
+    "language": "JavaScript",
+    "topics": [
+      "animations",
+      "react",
+      "react19",
+      "tailwindcss"
+    ],
+    "stars": 215,
+    "license": "none (learn only)",
+    "last_push": "2025-06-20"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/react-native-lingua",
+    "url": "https://github.com/adrianhajdin/react-native-lingua",
+    "demo": "https://jsmastery.com",
+    "description": "React Native Duolingo clone with a real-time AI voice teacher. Built with Expo, Stream Voice Agents, Clerk auth, and NativeWind for a complete, interactive mobile learning experience.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "getstream-io",
+      "nativewind",
+      "posthog",
+      "react-native",
+      "typescript",
+      "vision-agents"
+    ],
+    "stars": 162,
+    "license": "none (learn only)",
+    "last_push": "2026-05-15"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/dev-events-nextjs16-crash-course",
+    "url": "https://github.com/adrianhajdin/dev-events-nextjs16-crash-course",
+    "demo": "https://jsmastery.com",
+    "description": "Event Platform with a home page listing events, API routes for CRUD, Cloudinary image uploads, detailed event pages with registration and similar events, and PostHog analytics to track interactions.",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs",
+      "nextjs16",
+      "posthog",
+      "typescript"
+    ],
+    "stars": 162,
+    "license": "none (learn only)",
+    "last_push": "2025-12-10"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/coinpulse",
+    "url": "https://github.com/adrianhajdin/coinpulse",
+    "demo": "https://jsmastery.com",
+    "description": "CryptoPulse is a high-performance analytics dashboard built with Next.js 16. It leverages WebSockets and CoinGecko to provide real-time market data, live orderbooks, and integrated TradingView charts.",
+    "language": "TypeScript",
+    "topics": [
+      "coderabbit",
+      "coingecko-api",
+      "nextjs",
+      "nextjs16",
+      "shadcn",
+      "tailwind",
+      "tradingview",
+      "typescript"
+    ],
+    "stars": 151,
+    "license": "none (learn only)",
+    "last_push": "2026-01-07"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/screen_recording_sharing_app",
+    "url": "https://github.com/adrianhajdin/screen_recording_sharing_app",
+    "demo": "https://screen-recording-sharing-app.vercel.app",
+    "description": "Full-stack screen recording & video sharing platform built with Next.js, Bunny.net & Arcjet. Features Better Auth, video uploads, sharing via link, privacy settings, AI transcripts, and more.",
+    "language": "TypeScript",
+    "topics": [
+      "arcjet",
+      "better-auth",
+      "bunnynet",
+      "drizzle-orm",
+      "nextjs",
+      "nextjs15",
+      "tailwindcss",
+      "typescript",
+      "xata"
+    ],
+    "stars": 148,
+    "license": "none (learn only)",
+    "last_push": "2025-05-12"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/job_pilot",
+    "url": "https://github.com/adrianhajdin/job_pilot",
+    "demo": "https://jsmastery.com",
+    "description": "AI-powered job search assistance for matching roles, tailored resumes, and faster applications.",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-workflows",
+      "ai",
+      "insforge",
+      "posthog",
+      "zod"
+    ],
+    "stars": 143,
+    "license": "none (learn only)",
+    "last_push": "2026-06-06"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/acquisitions",
+    "url": "https://github.com/adrianhajdin/acquisitions",
+    "demo": "https://jsmastery.com",
+    "description": "An API project developed using Docker, Warp, Arcjet, with automated CI/CD, and a backend implemented with Node.js, Express.js, Neon Postgres, Drizzle ORM, and Zod—secure, scalable, and production-ready.",
+    "language": "HTML",
+    "topics": [
+      "api",
+      "docker",
+      "kubernetes",
+      "nodejs"
+    ],
+    "stars": 141,
+    "license": "none (learn only)",
+    "last_push": "2025-09-11"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/refine_dashboard",
+    "url": "https://github.com/adrianhajdin/refine_dashboard",
+    "demo": "https://refinix2-0.vercel.app/",
+    "description": "Build an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization.",
+    "language": "TypeScript",
+    "topics": [
+      "dashboard",
+      "react",
+      "refine"
+    ],
+    "stars": 133,
+    "license": "none (learn only)",
+    "last_push": "2024-05-21"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/cartograph",
+    "url": "https://github.com/adrianhajdin/cartograph",
+    "demo": "https://jsmastery.com",
+    "description": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate blast radius, and explain modules without AI guessing edges.",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-engineering",
+      "clerk",
+      "codeanalysis",
+      "codebase-visualization",
+      "dependy-graph",
+      "langsmith",
+      "nextjs16",
+      "supabase"
+    ],
+    "stars": 112,
+    "license": "none (learn only)",
+    "last_push": "2026-10-02"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/react-native-recurrly",
+    "url": "https://github.com/adrianhajdin/react-native-recurrly",
+    "demo": "https://jsmastery.com",
+    "description": "Recurrly is a production-ready mobile app for managing subscriptions, featuring automated billing reminders and full monetization. Built with React Native, Expo, Nativewind, and Clerk.",
+    "language": "TypeScript",
+    "topics": [
+      "clerk",
+      "clerk-auth",
+      "coderabbit",
+      "expo",
+      "posthog",
+      "react-native"
+    ],
+    "stars": 109,
+    "license": "none (learn only)",
+    "last_push": "2026-03-27"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/sportz-websockets",
+    "url": "https://github.com/adrianhajdin/sportz-websockets",
+    "demo": "https://jsmastery.com",
+    "description": "Express + Postgres demo for live match commentary with a WebSocket broadcast channel. Focus is on WS patterns (heartbeats, backpressure, message validation, subscriptions).",
+    "language": "JavaScript",
+    "topics": [
+      "websocket",
+      "websockets",
+      "ws"
+    ],
+    "stars": 77,
+    "license": "none (learn only)",
+    "last_push": "2026-01-30"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/skild",
+    "url": "https://github.com/adrianhajdin/skild",
+    "demo": "https://jsmastery.com",
+    "description": "Fullstack platform for sharing AI Agent skills, built with TanStack Start, Tailwind, and TypeScript. Features Clerk auth, Firebase real-time data, PostHog analytics; + codebase reviewed by CodeRabbit.",
+    "language": "TypeScript",
+    "topics": [
+      "firebase",
+      "tailwindcss",
+      "tanstack",
+      "tanstack-start",
+      "typescript"
+    ],
+    "stars": 44,
+    "license": "none (learn only)",
+    "last_push": "2026-04-17"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/classroom-frontend",
+    "url": "https://github.com/adrianhajdin/classroom-frontend",
+    "demo": "https://jsmastery.com",
+    "description": "Frontend side of a dashboard built with Next.js, Refine, and TypeScript; featuring role-based UI, real-time analytics, and a Classroom-style enrollment system for a seamless academic infrastructure.",
+    "language": "TypeScript",
+    "topics": [
+      "cloudinary",
+      "nextjs16",
+      "refine",
+      "shadcn-ui",
+      "tailwindcss",
+      "typescript",
+      "zod"
+    ],
+    "stars": 36,
+    "license": "none (learn only)",
+    "last_push": "2026-01-13"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/atelier-store",
+    "url": "https://github.com/adrianhajdin/atelier-store",
+    "demo": "https://jsmastery.com",
+    "description": "A luxury e-commerce platform built in Next.js 16 to master agentic engineering with persistent project context, plan mode, permissions, skills, filesystem permissions, and context-isolated subagents.",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-workflows",
+      "claude-code",
+      "nextjs",
+      "postgresql"
+    ],
+    "stars": 34,
+    "license": "none (learn only)",
+    "last_push": "2026-09-25"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/classroom-backend",
+    "url": "https://github.com/adrianhajdin/classroom-backend",
+    "demo": "https://jsmastery.com",
+    "description": "Backend side of a management system powered by Node.js, Express, NeonDB & Drizzle; integrating Better-Auth, Arcjet, and Cloudinary for a secure, type-safe, and scalable academic infrastructure.",
+    "language": "TypeScript",
+    "topics": [
+      "arcjet",
+      "drizzle-orm",
+      "express",
+      "nodejs",
+      "sql",
+      "typescript"
+    ],
+    "stars": 29,
+    "license": "none (learn only)",
+    "last_push": "2026-01-13"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/jsmastery_gsap_course_playground",
+    "url": "https://github.com/adrianhajdin/jsmastery_gsap_course_playground",
+    "demo": "https://jsmastery.com",
+    "description": "JS Mastery GSAP Course Playground",
+    "language": "HTML",
+    "topics": [
+      "animation",
+      "gsap",
+      "motion"
+    ],
+    "stars": 29,
+    "license": "none (learn only)",
+    "last_push": "2025-06-18"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/llm-arena",
+    "url": "https://github.com/adrianhajdin/llm-arena",
+    "demo": "https://jsmastery.com",
+    "description": "Send one prompt, watch up to three AI models answer it at the same time, vote for the best one.",
+    "language": "TypeScript",
+    "topics": [
+      "open-source-ai"
+    ],
+    "stars": 22,
+    "license": "none (learn only)",
+    "last_push": "2026-08-11"
+  },
+  {
+    "creator": "JavaScript Mastery (Next.js, React, full-stack)",
+    "name": "adrianhajdin/what-happens-when-you-type-a-url",
+    "url": "https://github.com/adrianhajdin/what-happens-when-you-type-a-url",
+    "demo": "https://what-happens-when-you-type-a-url.vercel.app",
+    "description": "What happens when you type a URL — a scroll-driven 3D journey of one request: caches, DNS, TCP, TLS 1.3, a CDN edge, the Dunant cable under the Atlantic, and the render. React Three Fiber + Next.js.",
+    "language": "TypeScript",
+    "topics": [
+      "networking",
+      "nextjs",
+      "react-three-fiber",
+      "threejs",
+      "webgl"
+    ],
+    "stars": 10,
+    "license": "none (learn only)",
+    "last_push": "2026-10-06"
+  },
+  {
+    "creator": "Josh tried coding (Next.js)",
+    "name": "joschan21/contentport",
+    "url": "https://github.com/joschan21/contentport",
+    "demo": "https://contentport.io",
+    "description": "The open-source content platform for technical founders",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 776,
+    "license": "AGPL-3.0",
+    "last_push": "2025-12-12"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/match-sorter",
+    "url": "https://github.com/kentcdodds/match-sorter",
+    "demo": "https://npm.im/match-sorter",
+    "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 4116,
+    "license": "MIT",
+    "last_push": "2026-11-07"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/bookshelf",
+    "url": "https://github.com/kentcdodds/bookshelf",
+    "demo": "https://www.epicreact.dev/modules/build-an-epic-react-app-v1/build-an-epic-react-app-welcome",
+    "description": "Build a ReactJS App workshop",
+    "language": "JavaScript",
+    "topics": [
+      "epicreact-dev",
+      "kcd-edu",
+      "react"
+    ],
+    "stars": 2684,
+    "license": "none (learn only)",
+    "last_push": "2026-03-10"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/kentcdodds.com",
+    "url": "https://github.com/kentcdodds/kentcdodds.com",
+    "demo": "https://kentcdodds.com",
+    "description": "My personal website",
+    "language": "TypeScript",
+    "topics": [
+      "kentcdodds",
+      "oss",
+      "prisma",
+      "react",
+      "remix",
+      "sqlite",
+      "typescript",
+      "website"
+    ],
+    "stars": 2500,
+    "license": "none (learn only)",
+    "last_push": "2026-11-02"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/use-deep-compare-effect",
+    "url": "https://github.com/kentcdodds/use-deep-compare-effect",
+    "demo": "https://npm.im/use-deep-compare-effect",
+    "description": "🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 1913,
+    "license": "MIT",
+    "last_push": "2024-08-21"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/testing-react-apps",
+    "url": "https://github.com/kentcdodds/testing-react-apps",
+    "demo": "https://www.epicreact.dev/modules/testing-react-apps-v1/testing-react-apps-welcome",
+    "description": "A workshop for testing react applications",
+    "language": "JavaScript",
+    "topics": [
+      "epicreact-dev",
+      "kcd-edu",
+      "react",
+      "testing"
+    ],
+    "stars": 1094,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/kcd-scripts",
+    "url": "https://github.com/kentcdodds/kcd-scripts",
+    "demo": "http://npm.im/kcd-scripts",
+    "description": "CLI toolbox for common scripts for my projects",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 890,
+    "license": "MIT",
+    "last_push": "2026-05-13"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/netlify-shortener",
+    "url": "https://github.com/kentcdodds/netlify-shortener",
+    "demo": "https://www.youtube.com/watch?v=HL6paXyx6hM&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u",
+    "description": "Your own free URL shortener with Netlify",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 804,
+    "license": "MIT",
+    "last_push": "2024-11-19"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/stop-runaway-react-effects",
+    "url": "https://github.com/kentcdodds/stop-runaway-react-effects",
+    "demo": "https://codesandbox.io/s/react-codesandbox-ihhlx",
+    "description": "🏃 Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession",
+    "language": "JavaScript",
+    "topics": [
+      "hooks",
+      "react"
+    ],
+    "stars": 793,
+    "license": "MIT",
+    "last_push": "2025-02-25"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/advanced-react-patterns",
+    "url": "https://github.com/kentcdodds/advanced-react-patterns",
+    "demo": "https://www.epicreact.dev/modules/advanced-react-patterns-v1/advanced-react-patterns-welcome",
+    "description": "Learn how to build simple and flexible React Components and Hooks using modern patterns",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 374,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/cloc",
+    "url": "https://github.com/kentcdodds/cloc",
+    "demo": "https://github.com/AlDanial/cloc",
+    "description": "An npm module for distributing cloc by Al Danial",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 370,
+    "license": "none (learn only)",
+    "last_push": "2026-11-14"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/eslint-config-kentcdodds",
+    "url": "https://github.com/kentcdodds/eslint-config-kentcdodds",
+    "demo": "http://eslint.org/docs/user-guide/configuring#extending-configuration-files",
+    "description": "ESLint configuration for projects that I do... Feel free to use this!",
+    "language": "JavaScript",
+    "topics": [
+      "eslint-config",
+      "personal-config"
+    ],
+    "stars": 338,
+    "license": "MIT",
+    "last_push": "2024-01-03"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "demo": "https://www.epicreact.dev/modules/react-fundamentals-v1/react-fundamentals-welcome",
+    "description": "Material for my React Fundamentals Workshop",
+    "language": "JavaScript",
+    "topics": [
+      "epicreact-dev",
+      "kcd-edu",
+      "react",
+      "workshop"
+    ],
+    "stars": 316,
+    "license": "none (learn only)",
+    "last_push": "2025-02-21"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "demo": "https://www.epicreact.dev/modules/react-hooks-v1/react-hooks-welcome",
+    "description": "Learn React Hooks! 🎣 ⚛",
+    "language": "JavaScript",
+    "topics": [
+      "epicreact-dev",
+      "kcd-edu",
+      "react"
+    ],
+    "stars": 101,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/advanced-react-hooks",
+    "url": "https://github.com/kentcdodds/advanced-react-hooks",
+    "demo": "https://www.epicreact.dev/modules/advanced-react-hooks-v1/advanced-react-hooks-welcome",
+    "description": "Learn Advanced React Hooks workshop",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 86,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/react-performance",
+    "url": "https://github.com/kentcdodds/react-performance",
+    "demo": "https://www.epicreact.dev/modules/react-performance-v1/react-performance-welcome",
+    "description": "React is fast, until it isn't",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 71,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/react-suspense",
+    "url": "https://github.com/kentcdodds/react-suspense",
+    "demo": "https://www.epicreact.dev/modules/react-suspense-v1/react-suspense-welcome",
+    "description": "React Suspense workshop",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 42,
+    "license": "none (learn only)",
+    "last_push": "2024-09-30"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/kody-video",
+    "url": "https://github.com/kentcdodds/kody-video",
+    "demo": "https://kody.video",
+    "description": "Kody Video (kody.video) — hold-to-record clips camera for the web. Privacy-first, on-device.",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 31,
+    "license": "none (learn only)",
+    "last_push": "2026-11-14"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/slice-js",
+    "url": "https://github.com/kentcdodds/slice-js",
+    "demo": "https://www.youtube.com/watch?v=enlfQRUXb-s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf",
+    "description": "This is archived because I don't have time to work on it or maintain it, but feel free to explore/fork/etc.",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 17,
+    "license": "MIT",
+    "last_push": "2025-07-09"
+  },
+  {
+    "creator": "Kent C. Dodds (React)",
+    "name": "kentcdodds/kody-exchange",
+    "url": "https://github.com/kentcdodds/kody-exchange",
+    "demo": "https://kody.exchange",
+    "description": "Ephemeral chatrooms for agents. Skip the human relay — your agent talks to theirs, and you watch.",
+    "language": "TypeScript",
+    "topics": [
+      "agents",
+      "cloudflare-workers",
+      "mcp",
+      "oauth",
+      "typescript"
+    ],
+    "stars": 16,
+    "license": "none (learn only)",
+    "last_push": "2026-11-21"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/next-mdx-blog",
+    "url": "https://github.com/leerob/next-mdx-blog",
+    "demo": "https://next-blog-mdx.vercel.app",
+    "description": "Next.js + MDX blog template with Tailwind CSS and TypeScript.",
+    "language": "TypeScript",
+    "topics": [
+      "blog",
+      "mdx",
+      "nextjs",
+      "postgres",
+      "react",
+      "tailwindcss",
+      "vercel"
+    ],
+    "stars": 7580,
+    "license": "none (learn only)",
+    "last_push": "2026-11-16"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/vim-for-react-devs",
+    "url": "https://github.com/leerob/vim-for-react-devs",
+    "demo": "https://vimforreactdevs.com",
+    "description": "A bite-sized course to get you quickly productive with Vim.",
+    "language": "TypeScript",
+    "topics": [
+      "reactjs",
+      "vim"
+    ],
+    "stars": 875,
+    "license": "none (learn only)",
+    "last_push": "2024-10-07"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/next-music-player",
+    "url": "https://github.com/leerob/next-music-player",
+    "demo": "https://next-tracks.vercel.app",
+    "description": "A blazing fast, information dense media player built with Next.js.",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs"
+    ],
+    "stars": 829,
+    "license": "none (learn only)",
+    "last_push": "2026-07-16"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/next-email-client",
+    "url": "https://github.com/leerob/next-email-client",
+    "demo": "https://next-email-client.vercel.app",
+    "description": "An email client built with the Next.js App Router and Postgres.",
+    "language": "TypeScript",
+    "topics": [
+      "nextjs",
+      "postgres"
+    ],
+    "stars": 721,
+    "license": "none (learn only)",
+    "last_push": "2025-12-12"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/pixo",
+    "url": "https://github.com/leerob/pixo",
+    "demo": "https://pixo.leerob.com",
+    "description": "High-performance image compression library written in Rust.",
+    "language": "Rust",
+    "topics": [],
+    "stars": 480,
+    "license": "MIT",
+    "last_push": "2025-12-31"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/ncaam",
+    "url": "https://github.com/leerob/ncaam",
+    "demo": "https://ncaam.vercel.app",
+    "description": "Simple basketball scores and schedules.",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 180,
+    "license": "MIT",
+    "last_push": "2026-02-25"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/hono-vercel-ai-sdk",
+    "url": "https://github.com/leerob/hono-vercel-ai-sdk",
+    "demo": "https://hono-on-vercel.vercel.app",
+    "description": "Hono + Vercel AI SDK + OpenAI",
+    "language": "TypeScript",
+    "topics": [
+      "ai-sdk",
+      "hono",
+      "vercel"
+    ],
+    "stars": 42,
+    "license": "none (learn only)",
+    "last_push": "2024-06-07"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/march-arena",
+    "url": "https://github.com/leerob/march-arena",
+    "demo": "https://marcharena.com",
+    "description": "AI simulation of the 2026 NCAAM tournament",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 39,
+    "license": "none (learn only)",
+    "last_push": "2026-04-05"
+  },
+  {
+    "creator": "Lee Robinson (Next.js)",
+    "name": "leerob/typing-game",
+    "url": "https://github.com/leerob/typing-game",
+    "demo": "https://anytype.dev",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 30,
+    "license": "none (learn only)",
+    "last_push": "2026-01-13"
+  },
+  {
+    "creator": "Patrick Loeber / Python Engineer (Python, ML)",
+    "name": "patrickloeber/ai-typing-assistant",
+    "url": "https://github.com/patrickloeber/ai-typing-assistant",
+    "demo": "https://patloeber.com/typing-assistant-llm/",
+    "description": "AI powered local typing assistant built with Ollama",
+    "language": "Python",
+    "topics": [],
+    "stars": 324,
+    "license": "MIT",
+    "last_push": "2024-07-29"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/piyushgargdev-nextjs",
+    "url": "https://github.com/piyushgarg-dev/piyushgargdev-nextjs",
+    "demo": "https://piyushgarg.dev",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "stars": 255,
+    "license": "none (learn only)",
+    "last_push": "2024-08-21"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/vercel-clone",
+    "url": "https://github.com/piyushgarg-dev/vercel-clone",
+    "demo": "https://youtu.be/0A_JpLYG7hM",
+    "description": "Vercel Clone From Scratch 🚀",
+    "language": "TypeScript",
+    "topics": [
+      "nodejs",
+      "vercel",
+      "vercel-clone",
+      "vercel-deployment"
+    ],
+    "stars": 222,
+    "license": "none (learn only)",
+    "last_push": "2024-05-03"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/Scaleable-WebSockets",
+    "url": "https://github.com/piyushgarg-dev/Scaleable-WebSockets",
+    "demo": "https://youtu.be/CQQc8QyIGl0?si=u1MZiGSRHGfzWg2B",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 58,
+    "license": "none (learn only)",
+    "last_push": "2024-01-02"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/react-razorpay",
+    "url": "https://github.com/piyushgarg-dev/react-razorpay",
+    "demo": "https://www.npmjs.com/package/react-razorpay",
+    "description": "Integrate Razorpay payments in your React App",
+    "language": "TypeScript",
+    "topics": [
+      "razorpay",
+      "react-razorpay"
+    ],
+    "stars": 55,
+    "license": "none (learn only)",
+    "last_push": "2025-07-29"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/OpenAI-Agent-SDK-Series-with-Typescript",
+    "url": "https://github.com/piyushgarg-dev/OpenAI-Agent-SDK-Series-with-Typescript",
+    "demo": "https://www.youtube.com/playlist?list=PLinedj3B30sA-XUqy01s8yrZ0r0QZMpQT",
+    "description": "Building AI Agents with Typescript and OpenAI Agent SDK",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "aiagents",
+      "openai",
+      "openai-api"
+    ],
+    "stars": 31,
+    "license": "none (learn only)",
+    "last_push": "2025-11-24"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/streamyard-clone-nodejs",
+    "url": "https://github.com/piyushgarg-dev/streamyard-clone-nodejs",
+    "demo": "https://youtu.be/JwZiO5p-NAE",
+    "description": "",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 24,
+    "license": "none (learn only)",
+    "last_push": "2024-04-11"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/production-grade-api-code",
+    "url": "https://github.com/piyushgarg-dev/production-grade-api-code",
+    "demo": "https://youtu.be/B43Bljf4vSk",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 11,
+    "license": "none (learn only)",
+    "last_push": "2026-01-20"
+  },
+  {
+    "creator": "Piyush Garg (Node, backend)",
+    "name": "piyushgarg-dev/openfga-demo",
+    "url": "https://github.com/piyushgarg-dev/openfga-demo",
+    "demo": "https://www.youtube.com/watch?v=L4jTM58pg_U",
+    "description": "OpenFGA Nodejs Implementation Example",
+    "language": "JavaScript",
+    "topics": [
+      "authorization",
+      "nodejs",
+      "openfga",
+      "rbac"
+    ],
+    "stars": 9,
+    "license": "none (learn only)",
+    "last_push": "2025-07-12"
+  },
+  {
+    "creator": "Sonny Sangha (Next.js, AI apps)",
+    "name": "sonnysangha/reddit-ai-clone-nextjs-15-ai-agents-sanity-clerk",
+    "url": "https://github.com/sonnysangha/reddit-ai-clone-nextjs-15-ai-agents-sanity-clerk",
+    "demo": "https://www.papareact.com/course",
+    "description": "Join my coaching course & community!",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 32,
+    "license": "none (learn only)",
+    "last_push": "2025-04-23"
+  },
+  {
+    "creator": "Sonny Sangha (Next.js, AI apps)",
+    "name": "sonnysangha/property-listings-app-nextjs-clerk-auth-billing-sanity-saas",
+    "url": "https://github.com/sonnysangha/property-listings-app-nextjs-clerk-auth-billing-sanity-saas",
+    "demo": "https://youtu.be/n6MFLp89oco",
+    "description": "https://youtu.be/n6MFLp89oco",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 23,
+    "license": "none (learn only)",
+    "last_push": "2026-02-06"
+  },
+  {
+    "creator": "Sonny Sangha (Next.js, AI apps)",
+    "name": "sonnysangha/AI-Wardrobe-app-vercel-eve-clerk-nextjs",
+    "url": "https://github.com/sonnysangha/AI-Wardrobe-app-vercel-eve-clerk-nextjs",
+    "demo": "https://fitcheck-eight-black.vercel.app",
+    "description": "Fitcheck: an AI wardrobe and virtual try-on app built with Next.js, Vercel Eve, Clerk and Convex.",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 13,
+    "license": "none (learn only)",
+    "last_push": "2026-10-07"
+  },
+  {
+    "creator": "Sonny Sangha (Next.js, AI apps)",
+    "name": "sonnysangha/Castle-3d-multiplayer-with-ai-vercel-eve-nextjs-clerk",
+    "url": "https://github.com/sonnysangha/Castle-3d-multiplayer-with-ai-vercel-eve-nextjs-clerk",
+    "demo": "https://chess-3d-ai-clerk-game.vercel.app",
+    "description": "3D multiplayer chess built with Next.js 16, Vercel Eve, Clerk, Convex and Stockfish — AI opponents and a visual chess tutor.",
+    "language": "TypeScript",
+    "topics": [
+      "chess",
+      "clerk",
+      "convex",
+      "multiplayer",
+      "nextjs",
+      "nextjs16",
+      "stockfish",
+      "vercel-eve"
+    ],
+    "stars": 10,
+    "license": "none (learn only)",
+    "last_push": "2026-09-11"
+  },
+  {
+    "creator": "Sonny Sangha (Next.js, AI apps)",
+    "name": "sonnysangha/vercel-eve-agent-stack-demo",
+    "url": "https://github.com/sonnysangha/vercel-eve-agent-stack-demo",
+    "demo": "https://vercel-eve-agent-stack-demo.vercel.app",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 7,
+    "license": "none (learn only)",
+    "last_push": "2026-07-07"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Sudoku-GUI-Solver",
+    "url": "https://github.com/techwithtim/Sudoku-GUI-Solver",
+    "demo": "https://techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/",
+    "description": "This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.",
+    "language": "Python",
+    "topics": [],
+    "stars": 721,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Snake-Game",
+    "url": "https://github.com/techwithtim/Snake-Game",
+    "demo": "https://techwithtim.net/tutorials/game-development-with-python/snake-pygame/",
+    "description": "The classic snake game. Made with pygame.",
+    "language": "Python",
+    "topics": [],
+    "stars": 295,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Pygame-Tutorials",
+    "url": "https://github.com/techwithtim/Pygame-Tutorials",
+    "demo": "https://techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/",
+    "description": "This is the code base for the pygame tutorials posted on my YouTube channel.",
+    "language": "Python",
+    "topics": [],
+    "stars": 224,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Tetris-Game",
+    "url": "https://github.com/techwithtim/Tetris-Game",
+    "demo": "https://techwithtim.net/tutorials/game-development-with-python/tetris-pygame/",
+    "description": "The game of Tetris. Made with pygame.",
+    "language": "Python",
+    "topics": [],
+    "stars": 181,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Django-Website",
+    "url": "https://github.com/techwithtim/Django-Website",
+    "demo": "http://techwithtim.net/tutorials/django/",
+    "description": "A very minimal website I build while learning Django.",
+    "language": "Python",
+    "topics": [],
+    "stars": 107,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Network-Game-Tutorial",
+    "url": "https://github.com/techwithtim/Network-Game-Tutorial",
+    "demo": "https://techwithtim.net/tutorials/python-online-game-tutorial/",
+    "description": "This is the code for my network game tutorial series on YouTube.",
+    "language": "Python",
+    "topics": [],
+    "stars": 102,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/Projectile-Motion-Physics-Engine",
+    "url": "https://github.com/techwithtim/Projectile-Motion-Physics-Engine",
+    "demo": "https://techwithtim.net",
+    "description": "This program simulates projectile motion using a small pygame window that allows you to shoot a ball around the screen.",
+    "language": "Python",
+    "topics": [],
+    "stars": 33,
+    "license": "none (learn only)",
+    "last_push": "2024-10-17"
+  },
+  {
+    "creator": "Tech With Tim (Python)",
+    "name": "techwithtim/BD-AI-Web-Scraper",
+    "url": "https://github.com/techwithtim/BD-AI-Web-Scraper",
+    "demo": "https://bd-ai-web-scraper.vercel.app",
+    "description": "",
+    "language": "Python",
+    "topics": [],
+    "stars": 15,
+    "license": "none (learn only)",
+    "last_push": "2024-10-08"
+  },
+  {
+    "creator": "Theo / t3.gg (Next.js T3 stack)",
+    "name": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "demo": "https://create.t3.gg",
+    "description": "The best way to start a full-stack, typesafe Next.js app",
+    "language": "TypeScript",
+    "topics": [
+      "cli",
+      "create-t3-app",
+      "hacktoberfest",
+      "next-auth",
+      "nextjs",
+      "npx",
+      "prisma",
+      "t3",
+      "t3-stack",
+      "tailwindcss",
+      "trpc",
+      "typescript"
+    ],
+    "stars": 29254,
+    "license": "MIT",
+    "last_push": "2025-12-13"
+  },
+  {
+    "creator": "Theo / t3.gg (Next.js T3 stack)",
+    "name": "t3-oss/create-t3-turbo",
+    "url": "https://github.com/t3-oss/create-t3-turbo",
+    "demo": "https://turbo.t3.gg",
+    "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+    "language": "TypeScript",
+    "topics": [
+      "better-auth",
+      "expo",
+      "nextjs",
+      "t3-stack",
+      "tailwindcss",
+      "tanstack",
+      "tanstack-form",
+      "tanstack-query",
+      "tanstack-start",
+      "trpc",
+      "vite"
+    ],
+    "stars": 6113,
+    "license": "MIT",
+    "last_push": "2026-11-20"
+  },
+  {
+    "creator": "Theo / t3.gg (Next.js T3 stack)",
+    "name": "t3-oss/t3-env",
+    "url": "https://github.com/t3-oss/t3-env",
+    "demo": "https://env.t3.gg",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 4029,
+    "license": "MIT",
+    "last_push": "2026-04-01"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/prostore",
+    "url": "https://github.com/bradtraversy/prostore",
+    "demo": "https://prostore-one.vercel.app",
+    "description": "A modern ecommerce platform built with Next.js, TypeScript, Postgres, Prisma & ShadCN",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 332,
+    "license": "none (learn only)",
+    "last_push": "2025-08-22"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/astro-blog",
+    "url": "https://github.com/bradtraversy/astro-blog",
+    "demo": "https://astro-blog-flame.vercel.app",
+    "description": "Blog built with Astro collections, Markdown and TypeScript",
+    "language": "HTML",
+    "topics": [],
+    "stars": 133,
+    "license": "none (learn only)",
+    "last_push": "2023-12-18"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/devstash",
+    "url": "https://github.com/bradtraversy/devstash",
+    "demo": "https://devstash.io",
+    "description": "Knowledge hub for developers for snippets, prompts, commands and more",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 131,
+    "license": "MIT",
+    "last_push": "2026-11-01"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/property-pulse-nextjs",
+    "url": "https://github.com/bradtraversy/property-pulse-nextjs",
+    "demo": "https://property-pulse-nextjs-nine.vercel.app",
+    "description": "Real  estate website built with Next.js and MongoDB",
+    "language": "HTML",
+    "topics": [],
+    "stars": 125,
+    "license": "none (learn only)",
+    "last_push": "2025-10-05"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/ambient-sound-mixer",
+    "url": "https://github.com/bradtraversy/ambient-sound-mixer",
+    "demo": "https://ambient-sound-mixer.vercel.app",
+    "description": "Vanilla JS sound mixer",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 50,
+    "license": "none (learn only)",
+    "last_push": "2025-10-13"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/apiprobe",
+    "url": "https://github.com/bradtraversy/apiprobe",
+    "demo": "https://apiprobe.vercel.app",
+    "description": "Tool for making HTTP requests and testing APIs",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 42,
+    "license": "MIT",
+    "last_push": "2026-07-15"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/crypto-dash",
+    "url": "https://github.com/bradtraversy/crypto-dash",
+    "demo": "https://crypto-dash-two.vercel.app",
+    "description": "Simple crypto price listing app",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 40,
+    "license": "none (learn only)",
+    "last_push": "2025-06-03"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/friendly-dev-frontend",
+    "url": "https://github.com/bradtraversy/friendly-dev-frontend",
+    "demo": "https://friendly-dev-frontend.vercel.app",
+    "description": "Portfolio website with projects and blog posts",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 35,
+    "license": "none (learn only)",
+    "last_push": "2025-06-12"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/chat-ai-ui",
+    "url": "https://github.com/bradtraversy/chat-ai-ui",
+    "demo": "https://chat-ai-ui-beta.vercel.app",
+    "description": "Vue.js frontend for Chat AI chatbot",
+    "language": "Vue",
+    "topics": [],
+    "stars": 32,
+    "license": "none (learn only)",
+    "last_push": "2025-03-28"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/idea-drop-ui",
+    "url": "https://github.com/bradtraversy/idea-drop-ui",
+    "demo": "https://idea-drop-ui.vercel.app",
+    "description": "React frontend for IdeaDrop app",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 24,
+    "license": "none (learn only)",
+    "last_push": "2025-06-30"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/one-breath-journal",
+    "url": "https://github.com/bradtraversy/one-breath-journal",
+    "demo": "https://one-breath-journal.vercel.app",
+    "description": "Daily 60 second journal entries",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 20,
+    "license": "MIT",
+    "last_push": "2025-08-29"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/bundleview",
+    "url": "https://github.com/bradtraversy/bundleview",
+    "demo": "https://bundleview.vercel.app",
+    "description": "Analyze your JS bundles and gain insights",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 19,
+    "license": "none (learn only)",
+    "last_push": "2025-08-17"
+  },
+  {
+    "creator": "Traversy Media (web dev, full-stack)",
+    "name": "bradtraversy/bradtraversy.dev",
+    "url": "https://github.com/bradtraversy/bradtraversy.dev",
+    "demo": "https://bradtraversy.dev",
+    "description": "Homebase for all of my current work",
+    "language": "MDX",
+    "topics": [],
+    "stars": 10,
+    "license": "none (learn only)",
+    "last_push": "2026-11-22"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/vcard-personal-portfolio",
+    "url": "https://github.com/codewithsadee/vcard-personal-portfolio",
+    "demo": "https://codewithsadee.github.io/vcard-personal-portfolio/",
+    "description": "vCard is a fully responsive personal portfolio website, responsive for all devices.",
+    "language": "HTML",
+    "topics": [
+      "css",
+      "css3",
+      "html",
+      "personal-website",
+      "portfolio",
+      "portfolio-website"
+    ],
+    "stars": 8176,
+    "license": "MIT",
+    "last_push": "2025-06-12"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/anon-ecommerce-website",
+    "url": "https://github.com/codewithsadee/anon-ecommerce-website",
+    "demo": "https://codewithsadee.github.io/anon-ecommerce-website/",
+    "description": "Fully responsive ecommerce website, built using HTML CSS and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "ecommerce-website",
+      "responsive-website"
+    ],
+    "stars": 1637,
+    "license": "none (learn only)",
+    "last_push": "2024-08-07"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/grilli",
+    "url": "https://github.com/codewithsadee/grilli",
+    "demo": "https://codewithsadee.github.io/grilli/",
+    "description": "Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "responsive-website",
+      "restaurant-website"
+    ],
+    "stars": 579,
+    "license": "MIT",
+    "last_push": "2025-02-15"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/portfolio",
+    "url": "https://github.com/codewithsadee/portfolio",
+    "demo": "https://codewithsadee.github.io/portfolio/",
+    "description": "Fully responsive personal portfolio website",
+    "language": "CSS",
+    "topics": [
+      "personal-portfolio",
+      "responsive-website"
+    ],
+    "stars": 464,
+    "license": "none (learn only)",
+    "last_push": "2024-04-11"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/jack-portfolio",
+    "url": "https://github.com/codewithsadee/jack-portfolio",
+    "demo": "https://codewithsadee.github.io/jack-portfolio/",
+    "description": "This website is fully responsive personal portfolio",
+    "language": "HTML",
+    "topics": [
+      "personal-portfolio",
+      "responsive-website"
+    ],
+    "stars": 303,
+    "license": "none (learn only)",
+    "last_push": "2024-04-14"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/foodie",
+    "url": "https://github.com/codewithsadee/foodie",
+    "demo": "https://codewithsadee.github.io/foodie/",
+    "description": "Foodie is a fully responsive fast food website.",
+    "language": "HTML",
+    "topics": [
+      "responsive-website",
+      "restaurant-website"
+    ],
+    "stars": 283,
+    "license": "none (learn only)",
+    "last_push": "2024-07-25"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/wren",
+    "url": "https://github.com/codewithsadee/wren",
+    "demo": "https://codewithsadee.github.io/wren/",
+    "description": "Wren is a fully responsive personal blog website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "personal-blog-website",
+      "responsive-website"
+    ],
+    "stars": 230,
+    "license": "MIT",
+    "last_push": "2024-02-24"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/tourest",
+    "url": "https://github.com/codewithsadee/tourest",
+    "demo": "https://codewithsadee.github.io/tourest/",
+    "description": "Tourest is fully responsive travel website",
+    "language": "HTML",
+    "topics": [
+      "responsive-website",
+      "travel-website"
+    ],
+    "stars": 222,
+    "license": "none (learn only)",
+    "last_push": "2024-08-07"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/pfolio",
+    "url": "https://github.com/codewithsadee/pfolio",
+    "demo": "https://codewithsadee.github.io/pfolio/",
+    "description": "A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "personal-portfolio",
+      "responsive-website"
+    ],
+    "stars": 203,
+    "license": "MIT",
+    "last_push": "2023-12-20"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/glowing",
+    "url": "https://github.com/codewithsadee/glowing",
+    "demo": "https://codewithsadee.github.io/glowing/",
+    "description": "Glowing is a fully responsive ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "ecommerce-website",
+      "responsive-website"
+    ],
+    "stars": 202,
+    "license": "none (learn only)",
+    "last_push": "2024-04-14"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/ridex",
+    "url": "https://github.com/codewithsadee/ridex",
+    "demo": "https://codewithsadee.github.io/ridex/",
+    "description": "Ridex is fully responsive car rental website",
+    "language": "HTML",
+    "topics": [
+      "car-rental-website",
+      "responsive-website"
+    ],
+    "stars": 200,
+    "license": "none (learn only)",
+    "last_push": "2024-02-05"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/woodex",
+    "url": "https://github.com/codewithsadee/woodex",
+    "demo": "https://codewithsadee.github.io/woodex/",
+    "description": "Woodex is a fully responsive furniture ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "ecommerce-website",
+      "responsive-website"
+    ],
+    "stars": 182,
+    "license": "none (learn only)",
+    "last_push": "2024-05-05"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/innohub",
+    "url": "https://github.com/codewithsadee/innohub",
+    "demo": "https://codewithsadee.github.io/innohub/",
+    "description": "InnoHub is a fully responsive digital marketing agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "agency-website",
+      "responsive-website"
+    ],
+    "stars": 178,
+    "license": "none (learn only)",
+    "last_push": "2024-01-22"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/fitlife",
+    "url": "https://github.com/codewithsadee/fitlife",
+    "demo": "https://codewithsadee.github.io/fitlife/",
+    "description": "Fitlife is a fully responsive fitness website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "CSS",
+    "topics": [
+      "fitness-website",
+      "responsive-website"
+    ],
+    "stars": 168,
+    "license": "none (learn only)",
+    "last_push": "2024-05-30"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/adex",
+    "url": "https://github.com/codewithsadee/adex",
+    "demo": "https://codewithsadee.github.io/adex/",
+    "description": "Adex is a fully responsive business agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "agency-website",
+      "responsive-website"
+    ],
+    "stars": 155,
+    "license": "MIT",
+    "last_push": "2024-06-10"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/techx",
+    "url": "https://github.com/codewithsadee/techx",
+    "demo": "https://codewithsadee.github.io/techx/",
+    "description": "Techx is a fully responsive landing page website",
+    "language": "HTML",
+    "topics": [
+      "landing-page",
+      "responsive-website"
+    ],
+    "stars": 151,
+    "license": "none (learn only)",
+    "last_push": "2024-07-15"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/blogy",
+    "url": "https://github.com/codewithsadee/blogy",
+    "demo": "https://codewithsadee.github.io/blogy/",
+    "description": "Blogy is a fully responsive blog website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "blog-website",
+      "responsive-website"
+    ],
+    "stars": 149,
+    "license": "none (learn only)",
+    "last_push": "2024-03-13"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/doclab",
+    "url": "https://github.com/codewithsadee/doclab",
+    "demo": "https://codewithsadee.github.io/doclab/",
+    "description": "Doclab is a fully responsive hospital website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "hospital-website",
+      "responsive-website"
+    ],
+    "stars": 136,
+    "license": "MIT",
+    "last_push": "2023-12-04"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/youdemi",
+    "url": "https://github.com/codewithsadee/youdemi",
+    "demo": "https://codewithsadee.github.io/youdemi/",
+    "description": "Youdemi is a fully responsive education website, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "education-website",
+      "responsive-website"
+    ],
+    "stars": 111,
+    "license": "MIT",
+    "last_push": "2024-05-05"
+  },
+  {
+    "creator": "codewithsadee (HTML/CSS/JS sites)",
+    "name": "codewithsadee/vast",
+    "url": "https://github.com/codewithsadee/vast",
+    "demo": "https://codewithsadee.github.io/vast/",
+    "description": "VAST is a fully responsive app landing page, Responsive for all devices, build using HTML, CSS, and JavaScript.",
+    "language": "HTML",
+    "topics": [
+      "landing-page",
+      "responsive-website"
+    ],
+    "stars": 98,
+    "license": "none (learn only)",
+    "last_push": "2024-06-26"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "topics": [
+      "careers",
+      "certification",
+      "community",
+      "curriculum",
+      "d3",
+      "education",
+      "freecodecamp",
+      "javascript",
+      "learn-to-code",
+      "math",
+      "nodejs",
+      "nonprofits",
+      "programming",
+      "react",
+      "teachers"
+    ],
+    "stars": 459568,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/devdocs",
+    "url": "https://github.com/freeCodeCamp/devdocs",
+    "demo": "https://devdocs.io",
+    "description": "API Documentation Browser",
+    "language": "Ruby",
+    "topics": [
+      "api-documentation",
+      "app",
+      "devdocs",
+      "developer-tools",
+      "docs",
+      "documentation",
+      "documentation-tool",
+      "offline",
+      "pwa"
+    ],
+    "stars": 39658,
+    "license": "MPL-2.0",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/mobile",
+    "url": "https://github.com/freeCodeCamp/mobile",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "freeCodeCamp's open-source mobile app - Learn to code from your mobile phone",
+    "language": "Dart",
+    "topics": [
+      "android",
+      "dart",
+      "flutter",
+      "flutter-app",
+      "freecodecamp"
+    ],
+    "stars": 588,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/100DaysOfCode-twitter-bot",
+    "url": "https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot",
+    "demo": "https://twitter.com/_100DaysOfCode",
+    "description": "Twitter bot for #100DaysOfCode",
+    "language": "JavaScript",
+    "topics": [
+      "100daysofcode",
+      "nodejs",
+      "twitter-api",
+      "twitter-bot"
+    ],
+    "stars": 290,
+    "license": "BSD-3-Clause",
+    "last_push": "2024-01-27"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/demo-projects",
+    "url": "https://github.com/freeCodeCamp/demo-projects",
+    "demo": "https://www.freecodecamp.org/learn",
+    "description": "Example certification projects for our programming curriculum",
+    "language": "JavaScript",
+    "topics": [
+      "demo",
+      "freecodecamp",
+      "freecodecamp-project"
+    ],
+    "stars": 167,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/contribute",
+    "url": "https://github.com/freeCodeCamp/contribute",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "Begin your contribution journey here.",
+    "language": "MDX",
+    "topics": [
+      "docs",
+      "freecodecamp"
+    ],
+    "stars": 163,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/cdn",
+    "url": "https://github.com/freeCodeCamp/cdn",
+    "demo": "https://cdn.freecodecamp.org",
+    "description": "static assets for use with projects, curriculum and other places on internet",
+    "language": "Python",
+    "topics": [],
+    "stars": 86,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-16"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/ui",
+    "url": "https://github.com/freeCodeCamp/ui",
+    "demo": "https://opensource.freecodecamp.org/ui",
+    "description": "freeCodeCamp's UI Component Library",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 80,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/freeCodeCampOS",
+    "url": "https://github.com/freeCodeCamp/freeCodeCampOS",
+    "demo": "https://opensource.freecodecamp.org/freeCodeCampOS/",
+    "description": "Test repo for external freeCodeCamp courses",
+    "language": "Rust",
+    "topics": [
+      "course",
+      "curriculum",
+      "javascript",
+      "nodejs"
+    ],
+    "stars": 79,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-07-23"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/news",
+    "url": "https://github.com/freeCodeCamp/news",
+    "demo": "https://freecodecamp.org/news",
+    "description": "freeCodeCamp's JAMstack Developer News publication. Built with 11ty, Ghost, and help from kind contributors like you.",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 65,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/design-style-guide",
+    "url": "https://github.com/freeCodeCamp/design-style-guide",
+    "demo": "https://design-style-guide.freecodecamp.org",
+    "description": "Design Style Guide",
+    "language": "HTML",
+    "topics": [],
+    "stars": 42,
+    "license": "CC-BY-SA-4.0",
+    "last_push": "2024-06-10"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/CamperChan-discord",
+    "url": "https://github.com/freeCodeCamp/CamperChan-discord",
+    "demo": "https://discord.gg/KVUmVXA",
+    "description": "Discord bot running in our freeCodeCamp Discord server",
+    "language": "TypeScript",
+    "topics": [
+      "discord",
+      "discord-bot",
+      "discord-js",
+      "freecodecamp"
+    ],
+    "stars": 37,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-21"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/.github",
+    "url": "https://github.com/freeCodeCamp/.github",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "> Our default community health files for all our repositories on GitHub.",
+    "language": "",
+    "topics": [
+      "github"
+    ],
+    "stars": 30,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-10-13"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/web3-site",
+    "url": "https://github.com/freeCodeCamp/web3-site",
+    "demo": "https://web3.freecodecamp.org",
+    "description": "",
+    "language": "TypeScript",
+    "topics": [
+      "freecodecamp",
+      "web3"
+    ],
+    "stars": 20,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-20"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/freeCodeCamp.github.io",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp.github.io",
+    "demo": "https://opensource.freecodecamp.org",
+    "description": "A list of some of our open-source projects.",
+    "language": "",
+    "topics": [],
+    "stars": 9,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-10-13"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/crowdin-config",
+    "url": "https://github.com/freeCodeCamp/crowdin-config",
+    "demo": "https://translate.freecodecamp.org",
+    "description": "> Config for Crowdin translation projects",
+    "language": "JavaScript",
+    "topics": [
+      "crowdin",
+      "i18n",
+      "localization",
+      "translation"
+    ],
+    "stars": 8,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/template",
+    "url": "https://github.com/freeCodeCamp/template",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "> Template repo with standard files & settings",
+    "language": "",
+    "topics": [],
+    "stars": 8,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-10-13"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/devtools",
+    "url": "https://github.com/freeCodeCamp/devtools",
+    "demo": "https://contribute.freecodecamp.org",
+    "description": "Official VS Code extension for helping maintain the curriculum for freeCodeCamp.org.",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 8,
+    "license": "BSD-3-Clause",
+    "last_push": "2024-09-01"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/curriculum-db",
+    "url": "https://github.com/freeCodeCamp/curriculum-db",
+    "demo": "https://curriculum-db.freecodecamp.org",
+    "description": "freeCodeCamp curriculum metadata",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 5,
+    "license": "BSD-3-Clause",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "freeCodeCamp (courses)",
+    "name": "freeCodeCamp/hashnode-preview",
+    "url": "https://github.com/freeCodeCamp/hashnode-preview",
+    "demo": "https://preview.freecodecamp.org",
+    "description": "A preview service for freeCodeCamp.org news for posts on Hashnode (headless) CMS.",
+    "language": "Nunjucks",
+    "topics": [],
+    "stars": 5,
+    "license": "none (learn only)",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/preguntas-entrevista-react",
+    "url": "https://github.com/midudev/preguntas-entrevista-react",
+    "demo": "https://reactjs.wiki",
+    "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
+    "language": "Astro",
+    "topics": [
+      "hacktoberfest",
+      "javascript",
+      "react",
+      "react-entrevista-tecnica",
+      "react-native",
+      "react-prueba-tecnica",
+      "reactjs"
+    ],
+    "stars": 7831,
+    "license": "MIT",
+    "last_push": "2026-11-03"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/autoskills",
+    "url": "https://github.com/midudev/autoskills",
+    "demo": "https://autoskills.sh",
+    "description": "One command. Your entire AI skill stack. Installed.",
+    "language": "Ruby",
+    "topics": [],
+    "stars": 7016,
+    "license": "none (learn only)",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/libros-programacion-gratis",
+    "url": "https://github.com/midudev/libros-programacion-gratis",
+    "demo": "https://librosgratis.dev",
+    "description": "📚 Lista de libros sobre programación en Español y gratis",
+    "language": "TypeScript",
+    "topics": [
+      "ebooks",
+      "informatica",
+      "libros",
+      "programacion",
+      "programador",
+      "programadores",
+      "software"
+    ],
+    "stars": 6304,
+    "license": "none (learn only)",
+    "last_push": "2026-10-07"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/javascript-100-proyectos",
+    "url": "https://github.com/midudev/javascript-100-proyectos",
+    "demo": "https://javascript100.dev",
+    "description": "100 proyectos de JavaScript con código y vídeos. ¡Gratis!",
+    "language": "HTML",
+    "topics": [],
+    "stars": 2718,
+    "license": "none (learn only)",
+    "last_push": "2026-09-30"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/la-velada-web-oficial",
+    "url": "https://github.com/midudev/la-velada-web-oficial",
+    "demo": "https://infolavelada.com",
+    "description": "Web oficial de La Velada V de Ibai Llanos",
+    "language": "HTML",
+    "topics": [
+      "la-velada"
+    ],
+    "stars": 1851,
+    "license": "none (learn only)",
+    "last_push": "2026-08-30"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/curso-node-js",
+    "url": "https://github.com/midudev/curso-node-js",
+    "demo": "https://aprendenode.dev",
+    "description": "Curso de Node.js desde cero",
+    "language": "JavaScript",
+    "topics": [
+      "curso-node",
+      "curso-node-js",
+      "curso-nodejs",
+      "node",
+      "nodejs"
+    ],
+    "stars": 1692,
+    "license": "none (learn only)",
+    "last_push": "2026-04-10"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/tailwind-animations",
+    "url": "https://github.com/midudev/tailwind-animations",
+    "demo": "https://tailwind-animations.com",
+    "description": "Easy peasy animations for your Tailwind project",
+    "language": "Astro",
+    "topics": [
+      "animations",
+      "css3",
+      "css3-animations",
+      "scroll-animations",
+      "tailwind",
+      "tailwindcss"
+    ],
+    "stars": 1539,
+    "license": "MIT",
+    "last_push": "2026-09-30"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/midudev",
+    "url": "https://github.com/midudev/midudev",
+    "demo": "https://github.com/midudev",
+    "description": "This is my personal repo for README. It gets automatically updated to fetch latest videos, photos and articles from my blog.",
+    "language": "JavaScript",
+    "topics": [
+      "readme",
+      "readme-md",
+      "readme-template"
+    ],
+    "stars": 1481,
+    "license": "none (learn only)",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/porfolio.dev",
+    "url": "https://github.com/midudev/porfolio.dev",
+    "demo": "https://porfolio.dev",
+    "description": "Ejemplo de porfolio para programadores y desarrolladores",
+    "language": "Astro",
+    "topics": [
+      "porfolio",
+      "portfolio"
+    ],
+    "stars": 1476,
+    "license": "none (learn only)",
+    "last_push": "2026-06-09"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/minimalist-portfolio-json",
+    "url": "https://github.com/midudev/minimalist-portfolio-json",
+    "demo": "https://print-portfolio.vercel.app/",
+    "description": "A minimalist portafolio configurable via one JSON",
+    "language": "Astro",
+    "topics": [],
+    "stars": 958,
+    "license": "MIT",
+    "last_push": "2026-11-03"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/runonweb.ai",
+    "url": "https://github.com/midudev/runonweb.ai",
+    "demo": "https://runonweb.ai",
+    "description": "SDK to use local models on web easy",
+    "language": "JavaScript",
+    "topics": [
+      "ai-model",
+      "ai-models",
+      "local-ai",
+      "web-ai",
+      "webgpu",
+      "webgpu-ai"
+    ],
+    "stars": 804,
+    "license": "MIT",
+    "last_push": "2026-10-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/codi.link",
+    "url": "https://github.com/midudev/codi.link",
+    "demo": "https://codi.link",
+    "description": "HTML, CSS, JS sandbox.",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 801,
+    "license": "none (learn only)",
+    "last_push": "2026-11-12"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/miduconf-website",
+    "url": "https://github.com/midudev/miduconf-website",
+    "demo": "https://miduconf.com",
+    "description": "¡La conferencia de desarrollo y programación web!",
+    "language": "TypeScript",
+    "topics": [
+      "conference",
+      "conferencia",
+      "miduconf",
+      "web-conference",
+      "web-conferences"
+    ],
+    "stars": 607,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/canirun.ai",
+    "url": "https://github.com/midudev/canirun.ai",
+    "demo": "https://canirun.ai",
+    "description": "Can I Run AI",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 573,
+    "license": "none (learn only)",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/eloquent-javascript-es",
+    "url": "https://github.com/midudev/eloquent-javascript-es",
+    "demo": "https://eloquentjavascript.es",
+    "description": "Traducción del libro Eloquent JavaScript en Español",
+    "language": "HTML",
+    "topics": [
+      "eloquent-javascript",
+      "javascript",
+      "javascript-eloquente",
+      "libro-javascript"
+    ],
+    "stars": 522,
+    "license": "none (learn only)",
+    "last_push": "2026-10-16"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/better-svg",
+    "url": "https://github.com/midudev/better-svg",
+    "demo": "https://marketplace.visualstudio.com/items?itemName=midudev.better-svg&ssr=false#overview",
+    "description": "Extension to improve working with SVGs on Visual Studio Code, Cursor and other editors",
+    "language": "TypeScript",
+    "topics": [
+      "svg",
+      "vscode",
+      "vscode-extension"
+    ],
+    "stars": 313,
+    "license": "Apache-2.0",
+    "last_push": "2026-11-04"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/better-claude",
+    "url": "https://github.com/midudev/better-claude",
+    "demo": "https://betterclaude.dev",
+    "description": "Small plugins and mods that make your life (and Claude Code) better",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "claude-code-mod",
+      "claude-code-plugin",
+      "prompt-queue"
+    ],
+    "stars": 293,
+    "license": "MIT",
+    "last_push": "2026-11-18"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/cursoreact.dev",
+    "url": "https://github.com/midudev/cursoreact.dev",
+    "demo": "https://cursoreact.dev",
+    "description": "Curso de React gratuito y practico",
+    "language": "MDX",
+    "topics": [
+      "react",
+      "react-js",
+      "reactjs"
+    ],
+    "stars": 272,
+    "license": "none (learn only)",
+    "last_push": "2026-11-15"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/midu-timeszones-latam",
+    "url": "https://github.com/midudev/midu-timeszones-latam",
+    "demo": "https://midutime.netlify.app",
+    "description": "Una pequeña app para calcular horas en diferentes países hispanohablantes",
+    "language": "JavaScript",
+    "topics": [
+      "datetime",
+      "hacktoberfest",
+      "javascript",
+      "midudev"
+    ],
+    "stars": 247,
+    "license": "none (learn only)",
+    "last_push": "2024-02-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/alg0.dev",
+    "url": "https://github.com/midudev/alg0.dev",
+    "demo": "https://alg0.dev",
+    "description": "alg0.dev is an interactive algorithm visualizer where classic algorithms come to life through step by step animations, controls to pause or advance, and access to the underlying code.",
+    "language": "TypeScript",
+    "topics": [
+      "algorithm-visualization",
+      "algorithms",
+      "algorithms-and-data-structures",
+      "algorithms-datastructures",
+      "data-structures"
+    ],
+    "stars": 226,
+    "license": "none (learn only)",
+    "last_push": "2026-11-03"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/mcp-higgsfield-landing",
+    "url": "https://github.com/midudev/mcp-higgsfield-landing",
+    "demo": "https://arko-sushi.midudev.workers.dev",
+    "description": "Landing de Arko, restaurante nikkei de Barcelona: un paseo en vídeo por el local al hacer scroll, generado con Higgsfield MCP y Claude Code. Astro, GSAP, Lenis y Cloudflare Workers.",
+    "language": "Astro",
+    "topics": [],
+    "stars": 208,
+    "license": "none (learn only)",
+    "last_push": "2026-10-07"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/subvid.app",
+    "url": "https://github.com/midudev/subvid.app",
+    "demo": "https://subvid.app",
+    "description": "Put subtitles to any video directly from your browser and free",
+    "language": "TypeScript",
+    "topics": [
+      "subtitles",
+      "video",
+      "video-subtitles"
+    ],
+    "stars": 183,
+    "license": "none (learn only)",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/midufest",
+    "url": "https://github.com/midudev/midufest",
+    "demo": "https://midufest.com",
+    "description": "¡El evento de programación del año!",
+    "language": "Astro",
+    "topics": [
+      "midudev",
+      "midufest"
+    ],
+    "stars": 170,
+    "license": "none (learn only)",
+    "last_push": "2026-10-16"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/aprende-javascript-problemas",
+    "url": "https://github.com/midudev/aprende-javascript-problemas",
+    "demo": "https://aprendejavascript.dev",
+    "description": "Repositorio para indicar problemas en la plataforma de Aprende JavaScript",
+    "language": "",
+    "topics": [
+      "aprende-javascript",
+      "curso-javascript",
+      "javascript",
+      "js"
+    ],
+    "stars": 147,
+    "license": "none (learn only)",
+    "last_push": "2026-07-18"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/jsconf.es",
+    "url": "https://github.com/midudev/jsconf.es",
+    "demo": "https://jsconf.es",
+    "description": "JSConf España 2026. ¡Conferencia presencial de JavaScript en España!",
+    "language": "Astro",
+    "topics": [
+      "javascript",
+      "js",
+      "jsconf",
+      "jsconf-es"
+    ],
+    "stars": 137,
+    "license": "none (learn only)",
+    "last_push": "2026-11-16"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/spiderman-brand-new-day",
+    "url": "https://github.com/midudev/spiderman-brand-new-day",
+    "demo": "https://spidermanbrandnewday.es",
+    "description": "Web oficial española para la película Spiderman Brand New Day",
+    "language": "Astro",
+    "topics": [
+      "spiderman"
+    ],
+    "stars": 135,
+    "license": "none (learn only)",
+    "last_push": "2026-08-13"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/bigibai",
+    "url": "https://github.com/midudev/bigibai",
+    "demo": "https://www.bigibai.com",
+    "description": "Web oficial de Big Ibai: calendario de Adviento, sorteos y juegos diarios",
+    "language": "Astro",
+    "topics": [
+      "astro",
+      "cloudflare-workers",
+      "supabase",
+      "tailwindcss"
+    ],
+    "stars": 128,
+    "license": "none (learn only)",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/tuweb.dev",
+    "url": "https://github.com/midudev/tuweb.dev",
+    "demo": "https://tuweb.dev",
+    "description": "Tu decides cómo es esta web",
+    "language": "Astro",
+    "topics": [],
+    "stars": 122,
+    "license": "Apache-2.0",
+    "last_push": "2026-10-22"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/100cosas.dev",
+    "url": "https://github.com/midudev/100cosas.dev",
+    "demo": "https://100cosas.dev",
+    "description": "Aprende y mejora en programación con consejos de grandes referentes",
+    "language": "Astro",
+    "topics": [],
+    "stars": 118,
+    "license": "none (learn only)",
+    "last_push": "2026-11-19"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/itsfree.dev",
+    "url": "https://github.com/midudev/itsfree.dev",
+    "demo": "https://itsfree.dev",
+    "description": "A curated bilingual directory of genuinely useful free tools for developers, makers, and small teams.",
+    "language": "TypeScript",
+    "topics": [
+      "astro",
+      "bilingual",
+      "developer-tools",
+      "free-tier",
+      "free-tools",
+      "typescript"
+    ],
+    "stars": 98,
+    "license": "none (learn only)",
+    "last_push": "2026-11-17"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/margarethamilton.dev",
+    "url": "https://github.com/midudev/margarethamilton.dev",
+    "demo": "https://margarethamilton.dev",
+    "description": "A scroll-driven tribute to Margaret Hamilton (1936–2026), who led the Apollo 11 flight software and gave software engineering its name.",
+    "language": "Astro",
+    "topics": [
+      "apollo-11",
+      "astro",
+      "margaret-hamilton",
+      "nasa",
+      "scrollytelling",
+      "software-engineering",
+      "tribute"
+    ],
+    "stars": 88,
+    "license": "MIT",
+    "last_push": "2026-10-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/midu.link",
+    "url": "https://github.com/midudev/midu.link",
+    "demo": "https://midu.link",
+    "description": "Create shorten urls easily with Cloudfare Workers",
+    "language": "Astro",
+    "topics": [],
+    "stars": 81,
+    "license": "none (learn only)",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/itsfree.ai",
+    "url": "https://github.com/midudev/itsfree.ai",
+    "demo": "https://itsfree.ai",
+    "description": "Free tier AI models via API",
+    "language": "HTML",
+    "topics": [
+      "free-ai",
+      "free-ai-models"
+    ],
+    "stars": 75,
+    "license": "none (learn only)",
+    "last_push": "2026-11-05"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/isbetter.ai",
+    "url": "https://github.com/midudev/isbetter.ai",
+    "demo": "https://isbetter.ai",
+    "description": "⚔️ Compare AI models side by side — same prompt, streamed answers, live code previews, speed, tokens and cost. Keys never leave your browser.",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-tools",
+      "anthropic",
+      "astro",
+      "cloudflare-workers",
+      "llm",
+      "model-comparison",
+      "openai",
+      "tailwindcss"
+    ],
+    "stars": 62,
+    "license": "none (learn only)",
+    "last_push": "2026-10-13"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/gojs",
+    "url": "https://github.com/midudev/gojs",
+    "demo": "https://gojs.app",
+    "description": "Playground for JavaScript/TypeScript",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 43,
+    "license": "none (learn only)",
+    "last_push": "2026-11-23"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/caniwrap.com",
+    "url": "https://github.com/midudev/caniwrap.com",
+    "demo": "https://caniwrap.com",
+    "description": "Can I Wrap? — HTML Element Nesting Checker",
+    "language": "TypeScript",
+    "topics": [
+      "html"
+    ],
+    "stars": 33,
+    "license": "none (learn only)",
+    "last_push": "2026-03-27"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/aprendesql.dev-issues",
+    "url": "https://github.com/midudev/aprendesql.dev-issues",
+    "demo": "https://aprendesql.dev",
+    "description": "Repositorio público para reportar bugs y sugerencias de aprendesql.dev",
+    "language": "",
+    "topics": [],
+    "stars": 20,
+    "license": "none (learn only)",
+    "last_push": "2026-03-30"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/upskilling-mwc-taller",
+    "url": "https://github.com/midudev/upskilling-mwc-taller",
+    "demo": "https://upskilling-mwc-taller.midudev.workers.dev/",
+    "description": "Taller IA + Programación para MWC Barcelona",
+    "language": "TypeScript",
+    "topics": [],
+    "stars": 17,
+    "license": "none (learn only)",
+    "last_push": "2026-11-24"
+  },
+  {
+    "creator": "midudev (JS, Next.js)",
+    "name": "midudev/letigre.run",
+    "url": "https://github.com/midudev/letigre.run",
+    "demo": "https://letigre.run",
+    "description": "Web oficial de Le Tigré Running Club",
+    "language": "Astro",
+    "topics": [
+      "running"
+    ],
+    "stars": 11,
+    "license": "none (learn only)",
+    "last_push": "2026-11-03"
+  }
+]
