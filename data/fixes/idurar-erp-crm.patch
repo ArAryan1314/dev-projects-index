@@ -1,0 +1,4 @@
+diff --git a/frontend/.eslintrc.js b/frontend/.eslintrc.cjs
+similarity index 100%
+rename from frontend/.eslintrc.js
+rename to frontend/.eslintrc.cjs

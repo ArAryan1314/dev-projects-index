@@ -271,6 +271,9 @@ def write_outputs(projects: list[dict]) -> None:
         "**Also see [CREATORS.md](CREATORS.md):** projects from YouTube coding creators "
         "with a live demo that was checked to be working.",
         "",
+        "**[PROJECTS.md](PROJECTS.md):** projects forked into this account as their own repos, "
+        "each with standard CI, CodeQL, Dependabot and a credit notice, with live CI status.",
+        "",
         "**Start learning with [LEARNING_PATH.md](LEARNING_PATH.md):** 120+ build-it-yourself "
         "projects across frontend, backend, databases, integrations, AI and DevOps.",
         "",

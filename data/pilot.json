@@ -1,0 +1,22 @@
+[
+  {"upstream": "mateuszsokola/2048-in-react", "category": "Next.js", "level": "beginner"},
+  {"upstream": "ixartz/Next-JS-Landing-Page-Starter-Template", "category": "Next.js", "level": "intermediate"},
+  {"upstream": "spliit-app/spliit", "category": "Next.js", "level": "intermediate"},
+  {"upstream": "ixartz/SaaS-Boilerplate", "category": "Next.js", "level": "advanced"},
+  {"upstream": "MatthewWid/better-sse", "category": "Bun", "level": "beginner"},
+  {"upstream": "C4illin/ConvertX", "category": "Bun", "level": "intermediate"},
+  {"upstream": "openRin/Rin", "category": "Bun", "level": "advanced"},
+  {"upstream": "alirezamika/autoscraper", "category": "Python", "level": "beginner"},
+  {"upstream": "D4Vinci/Scrapling", "category": "Python", "level": "advanced"},
+  {"upstream": "satnaing/terminal-portfolio", "category": "Frontend", "level": "beginner"},
+  {"upstream": "transitive-bullshit/nextjs-notion-starter-kit", "category": "Frontend", "level": "intermediate"},
+  {"upstream": "mugnavo/cove", "category": "Frontend", "level": "advanced"},
+  {"upstream": "Lightning-AI/LitServe", "category": "Backend", "level": "beginner"},
+  {"upstream": "fastapi/full-stack-fastapi-template", "category": "Backend", "level": "intermediate"},
+  {"upstream": "wassim249/fastapi-langgraph-agent-production-ready-template", "category": "Backend", "level": "advanced"},
+  {"upstream": "t3-oss/create-t3-turbo", "category": "Full-stack", "level": "beginner"},
+  {"upstream": "idurar/idurar-erp-crm", "category": "Full-stack", "level": "intermediate"},
+  {"upstream": "GreatStackDev/gocart", "category": "Full-stack", "level": "advanced"},
+  {"upstream": "knaxus/problem-solving-javascript", "category": "Learning & Roadmaps", "level": "beginner"},
+  {"upstream": "satwikkansal/wtfpython", "category": "Learning & Roadmaps", "level": "intermediate"}
+]

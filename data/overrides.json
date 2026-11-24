@@ -1,0 +1,49 @@
+{
+  "2048-in-react": {
+    "fix_note": "fixed upstream bug: production build failed under static export (images.unoptimized)"
+  },
+  "problem-solving-javascript": {
+    "fix_note": "fixed upstream bugs: undeclared variable in 3sum.js; Set test file had syntax errors and no assertions, rewritten as XSet.test.js"
+  },
+  "full-stack-fastapi-template": {
+    "python@backend": {
+      "postgres": {
+        "user": "postgres",
+        "password": "changethis",
+        "db": "app",
+        "extra_env": {"POSTGRES_SERVER": "localhost", "POSTGRES_PORT": 5432}
+      },
+      "test_cmd": "bash -c 'bash scripts/prestart.sh && bash scripts/tests-start.sh'",
+      "notes": ["backend tests run migrations then pytest against Postgres, as in the authors' own CI"]
+    }
+  },
+  "cove": {
+    "node@.": {
+      "env": {"BETTER_AUTH_SECRET": "ci-placeholder-not-a-real-secret-0123456789"},
+      "postgres": {"user": "postgres", "password": "password", "db": "cove"},
+      "notes": ["CI uses a placeholder auth secret and a throwaway Postgres"]
+    }
+  },
+  "idurar-erp-crm": {
+    "fix_note": "fixed upstream bug: ESLint config was .js in an ES-module package and could not load (renamed to .eslintrc.cjs)",
+    "node@frontend": {
+      "lint_soft": true,
+      "notes": ["upstream frontend code does not pass its own ESLint config (~150 errors), so lint is report-only"]
+    }
+  },
+  "gocart": {
+    "node@.": {
+      "lint": null,
+      "notes": ["upstream has no ESLint config (next lint is interactive), so lint is skipped"]
+    }
+  },
+  "wtfpython": {
+    "python@.": {
+      "install": "python -m pip install --upgrade pip\npip install ruff pip-audit",
+      "tests": false,
+      "tests_dir": null,
+      "smoke_cmd": "python -m compileall -q -x mixed_tabs_and_spaces .",
+      "notes": ["a book, not an installable package: CI checks the Python snippets compile (except mixed_tabs_and_spaces.py, which is broken on purpose as one of the book's examples)"]
+    }
+  }
+}

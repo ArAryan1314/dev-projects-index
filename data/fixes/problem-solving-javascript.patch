@@ -1,0 +1,163 @@
+diff --git a/src/_DataStructures_/Set/XSet.test.js b/src/_DataStructures_/Set/XSet.test.js
+new file mode 100644
+index 0000000..c03ce9b
+--- /dev/null
++++ b/src/_DataStructures_/Set/XSet.test.js
+@@ -0,0 +1,61 @@
++const XSet = require('./index');
++
++describe('Data Structure : Set', () => {
++  it('XSet should be a Class', () => {
++    expect(typeof XSet.prototype.constructor).toEqual('function');
++  });
++
++  describe('Creation of Set', () => {
++    let letters;
++
++    beforeAll(() => {
++      letters = new XSet();
++    });
++
++    it('Should create a new Set with no elements', () => {
++      expect(letters.values()).toEqual([]);
++    });
++
++    it('Should add letter A', () => {
++      letters.add('a');
++      expect(letters.has('a')).toBe(true);
++    });
++
++    it('Should add letter B', () => {
++      letters.add('b');
++      expect(letters.has('b')).toBe(true);
++    });
++
++    it('Should add letter C', () => {
++      letters.add('c');
++      expect(letters.has('c')).toBe(true);
++    });
++
++    it('Should not add duplicates', () => {
++      letters.add('a');
++      expect(letters.values()).toEqual(['a', 'b', 'c']);
++    });
++
++    it('Should remove letter A', () => {
++      letters.remove('a');
++      expect(letters.has('a')).toBe(false);
++    });
++
++    it('Should remove letter B', () => {
++      letters.remove('b');
++      expect(letters.has('b')).toBe(false);
++    });
++  });
++
++  describe('Union of Sets', () => {
++    it('Should contain the elements of both sets', () => {
++      const first = new XSet();
++      const second = new XSet();
++      first.add('a');
++      first.add('b');
++      second.add('b');
++      second.add('c');
++      expect(first.union(second).values()).toEqual(['a', 'b', 'c']);
++    });
++  });
++});
+diff --git a/src/_DataStructures_/Set/setTest.js b/src/_DataStructures_/Set/setTest.js
+deleted file mode 100644
+index 36aea9f..0000000
+--- a/src/_DataStructures_/Set/setTest.js
++++ /dev/null
+@@ -1,43 +0,0 @@
+-const letters = require('./index');
+-
+-describe('Data Structure : Set', () => {
+-
+-
+-  it('X Set should be a Class', () => {
+-    expect(typeof XSet.prototype.constructor).toEqual('function');
+-  });
+-  
+-  describe('Creation of Set', () => {
+-    
+-    it('Should create a new Set with no elements', () => {
+-      letters = new XSet();
+-      expect(letters === 0);
+-    });
+-    
+-    it('Should add letter A', () => {
+-      letters.add('a');
+-      expect(letters.has('a');
+-    });
+-    
+-    it('Should add letter B', () => {
+-      letters.add('b');
+-      expect(letters.has('b');
+-    });
+-    
+-    it('Should add letter C', () => {
+-      letters.add('c');
+-      expect(letters.has('c');
+-    });
+-    
+-    it('Should remove letter A', () => {
+-      letters.remove('a');
+-      expect(!letters.has('a');
+-    });
+-    
+-    it('Should remove letter B', () => {
+-      letters.remove('b');
+-      expect(!letters.has('b');
+-    });
+-
+-    
+-  });
+diff --git a/src/_Problems_/3Sum/3sum.js b/src/_Problems_/3Sum/3sum.js
+index 6e7f536..7f52a55 100644
+--- a/src/_Problems_/3Sum/3sum.js
++++ b/src/_Problems_/3Sum/3sum.js
+@@ -4,33 +4,33 @@ const threeSum = function(nums) {
+ 
+     let result = [];
+     // iterate through the array and use two pointers to find the sum
+-    for (let i = 0; i < nums.length; ++i) {
++    for (let i = 0; i < nums.length; i += 1) {
+         let left = i + 1;
+         let right = nums.length - 1;
+         while (left < right) {
+             let sum = nums[i] + nums[left] + nums[right];
+-            if (sum == 0) {
++            if (sum === 0) {
+                 result.push([nums[i], nums[left], nums[right]]);
+-                left++;
+-                right--;
++                left += 1;
++                right -= 1;
+             }
+             else if (sum < 0) {
+-                left++;
++                left += 1;
+             }
+             else {
+-                right--;
++                right -= 1;
+             }
+         }
+         // skip duplicates
+-        while (i < nums.length - 1 && nums[i] == nums[i + 1]) {
+-            i++;
++        while (i < nums.length - 1 && nums[i] === nums[i + 1]) {
++            i += 1;
+         }
+     }
+ 
+     // initialize set to remove duplicate 
+     const set = new Set(result.map(JSON.stringify));
+     // final output array
+-    output = (new Array(...set).map(JSON.parse));
++    const output = (new Array(...set).map(JSON.parse));
+     return output;
+ };
+ 
